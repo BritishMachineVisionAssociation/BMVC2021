@@ -25,8 +25,8 @@ In pursuit of the above goals, the association's primary activities are:
 + The annual [British Machine Vision Conference](bmvc/index.html)
 + The annual conference on
       [Medical Image Understanding and Analysis](miua/index.html)
-+ A series of [one-day technical meetings](meetings.html)
-+ An [annual Summer School](summerschool.html)
++ A series of [one-day technical meetings]({{site.baseurl}}/one-day-meetings)
++ An [annual Summer School]({{site.baseurl}}/summer-school)
 + Award of [travel bursaries](bursaries.html)
 + Award of [the Sullivan thesis prize](sullivan.html)
 + Maintenance of a [PhD thesis archive](theses/index.html)
