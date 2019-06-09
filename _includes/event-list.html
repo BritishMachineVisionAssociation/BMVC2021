@@ -12,7 +12,7 @@
 <p class="mb-0"><b>Chairs: </b>{{ event.organisers }}</p>
 {% if event.image %}
 <div class="" style="padding: 10px 10px; padding-bottom: 0px; height: 11em; text-align: center;">
-	<img style="max-height: 10em; display: inline-block; max-width: 100%; " src="/assets/images/events/{{event.image}}" class="img-responsive">
+	<img style="max-height: 10em; display: inline-block; max-width: 100%; " src="{{ site.baseurl }}/assets/images/events/{{event.image}}" class="img-responsive">
 </div>
 {% else %}
 <!--<div style="padding: 10px 10px; padding-bottom: 0px; height: 11em; text-align: center;">
