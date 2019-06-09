@@ -3,8 +3,8 @@ pages:
     url: /
   - title: Group
     url: /group/
-  - title: Publications
-    url: /publications/
+  - title: Committee
+    url: /committee/
   - title: Research
     url: /research/
     dropdown: true
