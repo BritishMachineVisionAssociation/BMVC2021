@@ -1,0 +1,88 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default_sidebar
+title: Home
+---
+
+## Aims and Objectives
+
+The BMVA provides a national forum for individuals and organisations
+involved in machine vision, image processing, and pattern recognition in the
+United Kingdom.  Its principal aims are to:
+
++ promote knowledge of machine vision and pattern recognition
++ encourage practical applications of the technology
++ facilitate the rapid transfer of research results to industry
++ represent the UK machine vision community, nationally and
+  internationally
+
+## Activities
+
+In pursuit of the above goals, the association's primary activities are:
+
++ The annual [British Machine Vision Conference](bmvc/index.html)
++ The annual conference on
+      [Medical Image Understanding and Analysis](miua/index.html)
++ A series of [one-day technical meetings](meetings.html)
++ An [annual Summer School](summerschool.html)
++ Award of [travel bursaries](bursaries.html)
++ Award of [the Sullivan thesis prize](sullivan.html)
++ Maintenance of a [PhD thesis archive](theses/index.html)
++ Publication of the [_Annals of the BMVA_](annals/index.html)
+
+and several [other activities](activities.html).
+
+We are also active on social media:
+<!--
+<A HREF="http://www.facebook.com/thebmva">![](logo-facebook.png)</A>
+<A HREF="http://twitter.com/thebmva">![](logo-twitter.png)</A>
+<A HREF="http://plus.google.com/u/0/communities/11837798148773570594">![](logo-googleplus.png)</A>
+<A HREF="http://www.linkedin.com/groups?home=&amp;gid=2731852&amp;trk=anet_ug_hm">![](logo-linkedin.gif)</A>
+-->
+{% if site.twitter_username %}
+<a href="https://twitter.com/{{ site.twitter_username }}" title="{{ site.name}} on Twitter" target="_blank"><i class="fab fa-twitter-square fa-4x"></i></a>
+{% endif %}&nbsp;&nbsp;{% if site.facebook_username %}
+<a href="http://www.facebook.com/{{ site.facebook_username }}" title="{{ site.name}} on Facebook" target="_blank"><i class="fab fa-facebook-square fa-4x"></i></a>
+{% endif %}&nbsp;&nbsp;{% if site.twitter_username %}
+<a href="http://www.linkedin.com/groups?home=&amp;gid=2731852&amp;trk=anet_ug_hm" title="{{ site.name}} on Linkedin" target="_blank"><i class="fab fa-linkedin fa-4x"></i></a>
+{% endif %}
+
+### Thinking of a career in computer vision?
+
++ What is computer vision?
++ Careers in vision
++ Vision research groups in the UK
++ UK companies active in vision research
++ Finding out more
+
+<!--### Areas in which the association is active include-->
+### Areas of Interest
+
+The association is actively interested in a number of application domains of computer vision research and technology including:
+
++ Medicine and Medical Imaging
++ Robotics
++ Entertainment 
++ Quality Control
++ Security and Surveillance
++ Environmental and Remote Monitoring
+
+
+
+### Wider Associations
+
+The BMVA is a member organisation of
+  [the International Association of Pattern Recognition](http://www.iapr.org/)
+
+<a href="http://www.ukiva.org">![](/assets/images/layout/affiliates/logo-iapr.png)</a>
+
+The BMVA is a member of the
+[Campaign for Science and Engineering](http://www.sciencecampaign.org.uk)
+and works with the following organizations:
+
+<A HREF="http://bcs.org.uk">![](/assets/images/layout/affiliates/logo-bcs.png)</A>
+<A HREF="http://www.theiet.org">![](/assets/images/layout/affiliates/logo-iet.jpg)</A>
+<A HREF="http://www.ukiva.org">![](/assets/images/layout/affiliates/logo-ukiva.jpg)</A>
+<A HREF="http://www.theava.net">![](/assets/images/layout/affiliates/logo-ava.jpg)</A>

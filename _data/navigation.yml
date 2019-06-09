@@ -1,0 +1,10 @@
+pages:
+  - title: Home
+    url: /
+  - title: Group
+    url: /group/
+  - title: Publications
+    url: /publications/
+  - title: Research
+    url: /research/
+    dropdown: true
