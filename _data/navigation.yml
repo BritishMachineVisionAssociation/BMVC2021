@@ -1,10 +1,13 @@
 pages:
   - title: Home
     url: /
-  - title: Group
-    url: /group/
+  - title: One Day Meetings
+    url: /one-day-meetings/
+  - title: Bursaries
+    url: /bursaries/
+  - title: BMVA News
+    url: /bmva-news/
   - title: Committee
     url: /committee/
-  - title: Research
-    url: /research/
-    dropdown: true
+  - title: Joining
+    url: /joining/
