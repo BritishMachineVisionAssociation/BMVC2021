@@ -25,8 +25,19 @@ This is not a hard task and involves:
 
 All other arrangements (finances, food, registration, room-booking etc.) will be taken care of by the BMVA. Please contact [Andrew Gilbert](mailto:a.gilbert@surrey.ac.uk) if you are interested in hosting one of the future meetings.
 
+<p class="date-filter" data-date-filter="25/05/2019">Hello1</p>
+<p class="date-filter" data-date-filter="04/04/2019">Hello2</p>
+<p class="date-filter" data-date-filter="30/09/2019">Hello3</p>
+
 ## Upcoming Meetings
 
 Over the coming year we have a number of exciting meetings. Please see below for a list of the upcoming meetings (also referenced in our upcoming events on the main page). The links below will provide additional details about the meetings and the ability to book a ticket to attend.
 
-{% include event-list.html %}
+{% include new-meetings-list.html %}
+
+## Previous Meetings
+
+<!--<i class="fab fa-youtube fa-1x"></i> -->
+Many of the talks from previous meetings are also available on our  [YouTube channel](https://www.youtube.com/{{ site.youtube_channel }}).
+
+{% include old-meetings-list.html %}

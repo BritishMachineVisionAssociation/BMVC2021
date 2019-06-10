@@ -24,12 +24,14 @@
 - type: One Day Meeting
   title: "Geometry and Deep Learning"
   date: 19/07/2019
+  image: 07-19-geometry-deep-learning-image_orig.png
   link: https://bmva.weebly.com/10th-apr-visual-image-interpretation-in-humans-and-machines-the-role-of-learning-and-experience.html
   organisers: Vassileios Balntas and Krystian Mikolajczyk
 
 - type: One Day Meeting
   title: "Video Understanding"
   date: 25/09/2019
+  image: 09-25-videounderstanding_orig.png
   link: https://bmva.weebly.com/25th-sept-video-understanding.html
   organisers: Hilde Kuehne, Jeurgen Gall, Dima Dame and Ivan Laptev
 

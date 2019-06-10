@@ -47,6 +47,8 @@ We are also active on social media:
 <a href="http://www.facebook.com/{{ site.facebook_username }}" title="{{ site.name}} on Facebook" target="_blank"><i class="fab fa-facebook-square fa-4x"></i></a>
 {% endif %}&nbsp;&nbsp;{% if site.twitter_username %}
 <a href="http://www.linkedin.com/groups?home=&amp;gid=2731852&amp;trk=anet_ug_hm" title="{{ site.name}} on Linkedin" target="_blank"><i class="fab fa-linkedin fa-4x"></i></a>
+{% endif %}&nbsp;&nbsp;{% if site.youtube_channel %}
+<a href="http://www.youtube.com/{{ site.youtube_channel }}" title="{{ site.name}} on YouTube" target="_blank"><i class="fab fa-youtube fa-4x"></i></a>
 {% endif %}
 
 ### Thinking of a career in computer vision?
