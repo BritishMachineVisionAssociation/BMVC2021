@@ -1,0 +1,31 @@
+<!--
+<div class="card">
+  <h5 class="card-header mb-2" style="text-align: center;"><i class="fab fa-twitter fa-1x" style="color: gray;"></i> {{ site.twitter_username }}</h5>
+  <div class="panel panel-default responsive-twitter top1">
+    <a class="twitter-timeline" height="600" href="https://twitter.com/{{ site.twitter_username }}" data-chrome="nofooter noheader noborders">News by {{ site.twitter_username }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
+-->
+
+<div class="card">
+  <h5 class="card-header mb-2" style="text-align: center;">Upcoming Events</h5>
+  {% assign sorted_events = site.data.events | sort: "date" %}
+  {% for item in sorted_events %}
+  {% assign data_format = item.date | date: '%d/%m/%Y' %}
+  <div class="card-body clearfix pb-0 pt-0 mb-2 date-filter" data-date-filter="{{ data_format }}">
+    <!--<h5 class="card-title">Special title treatment</h5>-->
+    <p class="card-text" style="text-indent: -1em; padding-left: 1em;">
+      <!--<span class="float-left mr-2">{{ item.date }}</span>
+      <span class="">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span>-->
+      <b>{{ item.date | date: '%d %b %Y' }}</b> &nbsp;&nbsp; {{ item.type }}<br /><a href="{{ item.link }}">{{ item.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+    </p>
+    <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+  </div>
+  {% endfor %}
+</div>
+
+
+
+<!--
+date-filter" data-date-filter="{{ event.date }}"
+-->
