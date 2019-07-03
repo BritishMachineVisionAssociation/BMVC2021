@@ -2,7 +2,8 @@ pages:
   - title: Home
     url: /
   - title: Meetings
-    url: /one-day-meetings
+    url: /meetings
+    dropdown: true
   - title: Summer School
     url: /summer-school
   - title: Bursaries
