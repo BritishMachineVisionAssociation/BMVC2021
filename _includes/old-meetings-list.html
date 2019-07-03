@@ -1,8 +1,10 @@
 <!-- Upcoming Events -->
 <div class="row pt-2">
-{% for event in site.data.events %}
+{% assign sorted_events = site.data.events | sort: "date" %}
+{% for event in sorted_events %}
+{% assign date_format = event.date | date: '%d/%m/%Y' %}
 {% if event.type ==  "One Day Meeting" %}
-<div class="col-xs-12 col-md-6 col-lg-4 date-older-filter" data-date-filter="{{ event.date }}">
+<div class="col-xs-12 col-md-6 col-lg-4 date-older-filter" data-date-filter="{{ date_format }}">
 <div class="event-link" style="max-height: 24em; padding-left: 10px; padding-right: 10px;">
 
 <div class="panel panel-default mb-3">
