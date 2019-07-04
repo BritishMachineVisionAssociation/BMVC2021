@@ -6,7 +6,7 @@ date: 2019-11-27
 meeting-title: Generating Data in Computer Vision and Machine Learning
 image: placeholder.png
 link: n/a
-Chairs: Nathan Olliverre
+Chairs: Nathan Olliverr
 ---
 
 
