@@ -39,7 +39,7 @@ New models for video understanding remain a bottleneck for research despite the 
 The symposium’s objective is to share the latest research, but also feedback to the community about the major challenges, and plan for an ongoing collaboration on video understanding beyond the simplified concept of classification of trimmed videos. 
 The symposium is a full-day event with invited speakers and a poster presentation session. The event will bring together 150 students, faculty, and research scientists for an opportunity to exchange ideas and connect over a mutual interest in video understanding
 
-##Submission of Posters
+## Submission of Posters
 
 You are invited to present a poster about recently published or ongoing work.
 https://forms.gle/eB4zXirW7JV8mmYp6  

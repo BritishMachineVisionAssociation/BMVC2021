@@ -12,25 +12,25 @@ organisers: Nathan Olliverre
 
 
 
-##Call for papers:
+## Call for papers:
 
 With the advancements in Computer Vision and Machine Learning the requirement for high quality and labelled data has increased but with those advancements novel techniques in synthesising data have come to the fore and has also have led to methods for the creation of new data. This BMVA Symposium looks to bring together those who have a focus or interest in data generation for a day of talks previewing
 novel and exciting research in the area.
 
-##Submission of Posters
+## Submission of Posters
 The BMVA encourages academics (student or staff) and practitioners in the area to apply with work related to data synthesis or data generation. Abstracts should be a maximum of 500 words (not including references) and submitted online.
 
 Submission form: https://nathan031196.typeform.com/to/iTFURe
 The deadline for submission is: Wednesday 11th September, 2019
 
-##The goals of the symposium are:
+## The goals of the symposium are:
 -   To hear from a number of invited keynote speakers and accepted papers in the areas of supervised and unsupervised generative techniques.
 -   To bring together experts and students of data synthesis.
 -   To identify opportunities for further research and collaboration.
 
 
 
-##Areas of interest include:
+## Meeting areas of interest :
 - Generative Adversarial Networks
 - Variable Auto Encoders
 - Transfer Learning
