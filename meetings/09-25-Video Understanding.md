@@ -48,7 +48,9 @@ https://forms.gle/eB4zXirW7JV8mmYp6
 
 ## Registration
 
+<div class="container-fluid">
 <div id="eventbrite-widget-container-52421495103"></div>
+</div>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
@@ -64,7 +66,7 @@ https://forms.gle/eB4zXirW7JV8mmYp6
         iframeContainerId: 'eventbrite-widget-container-52421495103',
 
         // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 600,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>

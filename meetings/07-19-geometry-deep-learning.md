@@ -46,7 +46,9 @@ Visual geometry is one of the areas where applying deep learning is less obvious
 
 ## Registration
 
+<div class="container-fluid">
 <div id="eventbrite-widget-container-50264244709"></div>
+</div>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 

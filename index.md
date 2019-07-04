@@ -84,7 +84,7 @@ The BMVA is a member of the
 [Campaign for Science and Engineering](http://www.sciencecampaign.org.uk)
 and works with the following organizations:
 
-<A HREF="http://bcs.org.uk">![](/assets/images/layout/affiliates/logo-bcs.png)</A>
-<A HREF="http://www.theiet.org">![](/assets/images/layout/affiliates/logo-iet.jpg)</A>
-<A HREF="http://www.ukiva.org">![](/assets/images/layout/affiliates/logo-ukiva.jpg)</A>
+<A HREF="http://bcs.org.uk">![](/assets/images/layout/affiliates/logo-bcs.png)</A>&nbsp;&nbsp;
+<A HREF="http://www.theiet.org">![](/assets/images/layout/affiliates/logo-iet.jpg)</A>&nbsp;&nbsp;
+<A HREF="http://www.ukiva.org">![](/assets/images/layout/affiliates/logo-ukiva.jpg)</A>&nbsp;&nbsp;
 <A HREF="http://www.theava.net">![](/assets/images/layout/affiliates/logo-ava.jpg)</A>
