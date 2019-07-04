@@ -1,11 +1,11 @@
 ---
 layout: meeting
-title: BMVA Symposium on Video Understanding (25 September 2019)
+title: Video Understanding (25 September 2019)
 index: 1
 date: 2019-09-25
-meeting-title: BMVA Symposium on Video Understanding
-image: 19-09-25-Video Understanding.png
-link: https://bmva.weebly.com/19th-july-geometry-and-deep-learning.html
+meeting-title: Video Understanding
+image: 19-09-25-Video_Understanding.png
+link: https://ndfcampbell.github.io/bmva-website/meetings/09-25-Video%20Understanding.html
 organisers: Hilde Kuehne, Dima Damen, Juergen Gall & Ivan Laptev
 ---
 
