@@ -6,7 +6,7 @@ date: 2019-11-27
 meeting-title: Generating Data in Computer Vision and Machine Learning
 image: placeholder.png
 link: https://ndfcampbell.github.io/bmva-website/meetings/09-25-Video%20Understanding.html
-Chairs: Nathan Olliverre
+organisers: Nathan Olliverre
 ---
 
 
