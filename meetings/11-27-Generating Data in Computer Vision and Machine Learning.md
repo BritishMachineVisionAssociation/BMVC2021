@@ -5,14 +5,14 @@ index: 1
 date: 2019-11-27
 meeting-title: Generating Data in Computer Vision and Machine Learning
 image: placeholder.png
-link: n/a
-Chairs: Nathan Olliverr
+link: https://ndfcampbell.github.io/bmva-website/meetings/09-25-Video%20Understanding.html
+Chairs: Nathan Olliverre
 ---
 
 
 
 
-## Call for papers:
+##Call for papers:
 
 With the advancements in Computer Vision and Machine Learning the requirement for high quality and labelled data has increased but with those advancements novel techniques in synthesising data have come to the fore and has also have led to methods for the creation of new data. This BMVA Symposium looks to bring together those who have a focus or interest in data generation for a day of talks previewing
 novel and exciting research in the area.
