@@ -1,6 +1,8 @@
 pages:
   - title: Home
     url: /
+  - title: BMVC
+    url: /bmvc
   - title: Meetings
     url: /meetings
     dropdown: true
