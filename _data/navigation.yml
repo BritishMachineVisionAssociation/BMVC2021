@@ -3,6 +3,8 @@ pages:
     url: /
   - title: BMVC
     url: /bmvc
+  - title: MIUA
+    url: /miua
   - title: Meetings
     url: /meetings
     dropdown: true

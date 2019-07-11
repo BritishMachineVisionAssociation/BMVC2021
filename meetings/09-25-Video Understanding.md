@@ -1,12 +1,12 @@
 ---
 layout: meeting
+type: One Day Meeting
 title: Video Understanding (25 September 2019)
 index: 1
 date: 2019-09-25
 meeting-title: Video Understanding
 image: 19-09-25-Video_Understanding.png
-link: https://ndfcampbell.github.io/bmva-website/meetings/09-25-Video%20Understanding.html
-organisers: Hilde Kuehne, Dima Damen, Juergen Gall & Ivan Laptev
+organisers: Hilde Kuehne, Dima Damen, Juergen Gall and Ivan Laptev
 ---
 
 

@@ -1,0 +1,54 @@
+# Events
+
+- type: One Day Meeting
+  title: "Deep Learning in 3-Dimensions"
+  date: 2019-02-20
+  image: 02-20-deep-learing-in-3d-2_orig.png
+  link: https://bmva.weebly.com/20th-feb-deep-learning-in-3d.html
+  organisers: Chris Holder, Chris Willcocks and Gregoire Payen de La Garanderie​
+
+- type: One Day Meeting
+  title: "Visual Image Interpretation in Humans and Machines: Machines that see like us?"
+  date: 2019-04-10
+  image: 04-10-viihm.jpg
+  link: https://bmva.weebly.com/10th-apr-visual-image-interpretation-in-humans-and-machines-the-role-of-learning-and-experience.html
+  organisers: Andrew Schofield
+
+- type: One Day Meeting
+  title: "Computer Vision + High Performance Computing"
+  date: 2019-05-22
+  image: 05-22-immagineprova_orig.png
+  link: https://bmva.weebly.com/22nd-may-computer-vision--high-performance-computing.html
+  organisers: Nicoletta Noceti and Giuseppe Ciaccio
+
+- type: One Day Meeting
+  title: "Geometry and Deep Learning"
+  date: 2019-07-19
+  image: 07-19-geometry-deep-learning-image_orig.png
+  link: https://bmva.weebly.com/19th-july-geometry-and-deep-learning.html
+  organisers: Vassileios Balntas and Krystian Mikolajczyk
+
+- type: One Day Meeting
+  title: "Video Understanding"
+  date: 2019-09-25
+  image: 09-25-videounderstanding_orig.png
+  link: https://bmva.weebly.com/videounderstanding.html
+  organisers: Hilde Kuehne, Jeurgen Gall, Dima Dame and Ivan Laptev
+
+- type: One Day Meeting
+  title: "Generating Data in Computer Vision and Machine Learning"
+  date: 2019-11-27
+  link: https://bmva.weebly.com/27th-nov-generating-data-in-computer-vision-and-machine-learning.html
+  organisers: Nathan Olliverre
+
+- type: Conference
+  title: BMVC 2019 in Cardiff
+  date: 2019-09-09
+  image: bmvc2019.png
+  link: https://bmvc2019.org/
+
+- type: Summer School
+  title: BMVA Summer School
+  date: 2019-07-08
+  image: 07-08-bmva-summer-school.png
+  link: https://cvss.blogs.lincoln.ac.uk/

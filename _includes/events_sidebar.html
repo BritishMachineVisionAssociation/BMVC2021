@@ -9,7 +9,13 @@
 
 <div class="card">
   <h5 class="card-header mb-2" style="text-align: center;">Upcoming Events</h5>
-  {% assign sorted_events = site.data.events | sort: "date" %}
+  {% assign meeting_events = site.pages | where_exp:"page", "page.url contains '/meetings/'" %}
+  {% assign filtered_meeting_events = meeting_events | where_exp:"page", "page.meeting-title" %}
+  
+  {% assign all_events = site.data.events | concat: filtered_meeting_events %}
+  
+  {% assign sorted_events = all_events | sort: "date" %}
+
   {% for item in sorted_events %}
   {% assign data_format = item.date | date: '%d/%m/%Y' %}
   <div class="card-body clearfix pb-0 pt-0 mb-2 date-filter" data-date-filter="{{ data_format }}">

@@ -5,12 +5,24 @@ title: The British Machine Vision Conference (BMVC)
 
 ## The British Machine Vision Conference (BMVC)
 
-The [statistics of previous BMVCs]({{ page.siteurl }}/bmvc/statistics) may be of interest.
+[BMVC 2019](https://bmvc2019.org/) will be held in Cardiff on 9th — 12th September 2019.
+
+<p style="pb-2">
+<a href="https://bmvc2019.org/"><img src="{{ site.baseurl }}/assets/images/events/bmvc2019.png" class="img-fluid rounded mx-auto d-block" style="max-width: 250px;" alt="BMVC 2019 Logo"></a>
+</p>
+
+### Proposals to Host a Future BMVC
+
+If you would like to host BMVC, proposals are solicited in June of each year for the BMVC two years later. Please contact the [Chair](mailto:chair@bmva.org) for further details.
+
+### Previous Conferences
+
+The [statistics of previous BMVCs]({{ site.baseurl }}/bmvc/statistics) may be of interest.
 
 
 The BMVC proceedings style files are available on [GitHub](https://github.com/BritishMachineVisionAssociation/BMVCTemplate).
 
-Look at the on-line versions of the proceedings for:
+The online proceedings for past conferences are available:
 
 <ul>
 <li><a href="http://www.bmva.org/bmvc/2018/index.html">BMVC 2018</a>, Northumbria</li>
@@ -44,7 +56,7 @@ Look at the on-line versions of the proceedings for:
 <li><a href="http://www.bmva.org/bmvc/1990/index.html">BMVC 1990</a>, Oxford</li>
 </ul>
 
-and proceedings for the BMVC's immediate predecessor, the Alvey Vision Conference:
+Proceedings for the BMVC's immediate predecessor, the Alvey Vision Conference, are also available:
 
 <ul>
 <li><a href="http://www.bmva.org/bmvc/1989/index.html">AVC 1989</a>, Reading</li>
@@ -54,9 +66,8 @@ and proceedings for the BMVC's immediate predecessor, the Alvey Vision Conferenc
 
 ### Copyright
 
-Note that copyright in BMVC papers is held by the authors in every instance. The BMVA, as publisher of the proceedings, holds copyright over the collection, but the authors may make any use of papers they have authored including making an exact copy available on their own or other websites.
+Please note that copyright in BMVC papers is held by the authors in every instance. The BMVA, as publisher of the proceedings, holds copyright over the collection, but the authors may make any use of papers they have authored including making an exact copy available on their own or other websites.
 
-If you would like to host BMVC, proposals are solicited in June of each year for the BMVC two years later.
 
 
 

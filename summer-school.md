@@ -3,14 +3,19 @@ layout: default_sparse
 title: Summer School
 ---
 
-
 ## The Summer School in Computer Vision
 
-The BMVA runs an annual summer school on computer vision. Speakers on the Summer School are academic researchers or experienced practitioners from industry. It has been running for since the 1990s and is updated every year to ensure it covers the state of the art, broadens awareness of related research fields, and develops research skills.
+The [2019 Summer School](https://cvss.blogs.lincoln.ac.uk/) will be held in Lincoln on 8th - 12th July 2019.
 
-The summer school also fulfills an important social function in that it gives you a chance to meet other vision research student from around the UK and beyond.
+<p style="pb-2">
+<a href="https://cvss.blogs.lincoln.ac.uk/"><img src="{{ site.baseurl }}/assets/images/events/cvss2019.jpg" class="img-fluid rounded mx-auto d-block" style="max-width: 200px;" alt="CVSS 2019 Logo"></a>
+</p>
 
-The upcoming [2019 Summer School](https://cvss.blogs.lincoln.ac.uk/) will be held in Lincoln on 8 - 12 July.
+The BMVA runs an annual summer school on computer vision. Speakers on the Summer School are academic researchers or experienced practitioners from industry. It has been running for since the 1990s and is updated every year to ensure it covers the state-of-the-art, broadens awareness of related research fields, and develops research skills.
+
+The summer school also fulfills an important social function in that it gives attendees a chance to meet other vision students and researchers from around the UK and beyond.
+
+### Previous Summer Schools
 
 Recent venues for the summer school were:
 

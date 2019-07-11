@@ -1,11 +1,11 @@
 ---
 layout: meeting
+type: One Day Meeting
 title: Generating Data in Computer Vision and Machine Learning (27 November 2019)
 index: 1
 date: 2019-11-27
 meeting-title: Generating Data in Computer Vision and Machine Learning
 image: placeholder.png
-link: https://ndfcampbell.github.io/bmva-website/meetings/09-25-Video%20Understanding.html
 organisers: Nathan Olliverre
 ---
 
