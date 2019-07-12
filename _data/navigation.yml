@@ -10,10 +10,13 @@ pages:
     dropdown: true
   - title: Summer School
     url: /summer-school
-  - title: Bursaries
+  - title: "Bursaries & Prizes"
     url: /bursaries
+    dropdown: true
   - title: News
     url: /bmva-news
+  - title: Thesis Archive
+    url: /theses
   - title: Committee
     url: /committee
   - title: Joining

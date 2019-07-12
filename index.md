@@ -27,8 +27,8 @@ In pursuit of the above goals, the association's primary activities are:
       [Medical Image Understanding and Analysis]({{ site.baseurl }}/miua/)
 + A series of [one-day technical meetings]({{ site.baseurl }}/meetings/)
 + An [annual Summer School]({{ site.baseurl }}/summer-school/)
-+ Award of [travel bursaries]({{ site.baseurl }}/bursaries/)
-+ Award of [the Sullivan thesis prize](sullivan.html)
++ Award of [travel bursaries]({{ site.baseurl }}/bursaries/travel-bursaries/)
++ Award of [the Sullivan thesis prize]({{ site.baseurl }}/bursaries/sullivan-prize/)
 + Maintenance of a [PhD thesis archive](theses/index.html)
 
 <!-- + Publication of the [_Annals of the BMVA_](annals/index.html)-->
