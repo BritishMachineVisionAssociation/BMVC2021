@@ -13,7 +13,7 @@ title: Medical Image Understanding and Analysis Conference (MIUA)
 
 Medical image analysis is considered an important application area for our community. The MIUA conference is underwritten by the BMVA and often supports conference bursaries. It is coordinated by the MIUA Steering Committee, a group of previous MIUA conference chairs, who select future venues via an annual bidding process. The conference is organised to a tight financial model in order to minimise the cost to attendees and thereby maximise attendance (particularly of PhD students).
 
-The Steering Committee reports to the BMVA ExCo regarding annual MIUA organisation activities. A selection of the best papers from the conference are invited for submission to the Annals of the BMVA. Copyright restrictions are as [BMVC]({{ site.baseurl }}/bmvc/). The MIUA Steering Committee can be contacted via the BMVA [secretary](mailto:secretary@bmva.org).
+The Steering Committee reports to the BMVA ExCo regarding annual MIUA organisation activities. A selection of the best papers from the conference are invited for submission to the Annals of the BMVA. Copyright restrictions are as [BMVC]({{ site.baseurl }}/bmvc). The MIUA Steering Committee can be contacted via the BMVA [secretary](mailto:secretary@bmva.org).
 
 ### Previous Conferences
 

@@ -22,14 +22,14 @@ United Kingdom.  Its principal aims are to:
 
 In pursuit of the above goals, the association's primary activities are:
 
-+ The annual [British Machine Vision Conference]({{ site.baseurl }}/bmvc/)
++ The annual [British Machine Vision Conference]({{ site.baseurl }}/bmvc)
 + The annual conference on
-      [Medical Image Understanding and Analysis]({{ site.baseurl }}/miua/)
-+ A series of [one-day technical meetings]({{ site.baseurl }}/meetings/)
-+ An [annual Summer School]({{ site.baseurl }}/summer-school/)
-+ Award of [travel bursaries]({{ site.baseurl }}/bursaries/travel-bursaries/)
-+ Award of [the Sullivan thesis prize]({{ site.baseurl }}/bursaries/sullivan-prize/)
-+ Maintenance of a [PhD thesis archive](theses/index.html)
+      [Medical Image Understanding and Analysis]({{ site.baseurl }}/miua)
++ A series of [one-day technical meetings]({{ site.baseurl }}/meetings)
++ An [annual Summer School]({{ site.baseurl }}/summer-school)
++ Award of [travel bursaries]({{ site.baseurl }}/bursaries/travel-bursaries)
++ Award of [the Sullivan thesis prize]({{ site.baseurl }}/bursaries/sullivan-prize)
++ Maintenance of a [PhD thesis archive]({{ site.baseurl }}/theses)
 
 <!-- + Publication of the [_Annals of the BMVA_](annals/index.html)-->
 

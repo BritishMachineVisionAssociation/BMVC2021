@@ -10,10 +10,10 @@ April, July, October), and is distributed in the mailshot.
 
 ### Mailshots
 
-There are four regular mailshots each year to send out [BMVA News](/bmva-news/) (typically
+There are four regular mailshots each year to send out [BMVA News]({{ site.baseurl }}/bmva-news) (typically
 early Jan, early April, early July, early October). These will also include
 any calls or programmes for forthcoming workshops.  Additional inclusions in
-newsletter mailshots can either be academic or commercial; the [BMVA News](/bmva-news/)
+newsletter mailshots can either be academic or commercial; the [BMVA News]({{ site.baseurl }}/bmva-news)
 editor can agree to additional academic inclusions but please contact the
 [BMVA Chair](mailto:chair@bmva.org) regarding any additional commercial
 inclusions.

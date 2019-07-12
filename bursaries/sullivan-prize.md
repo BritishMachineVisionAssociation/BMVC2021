@@ -15,7 +15,7 @@ Recommendations for the prize are considered by a Selection Panel appointed
 annually by the BMVA Executive Committee.
 
 The decision of the Selection Panel is announced at the annual
-[British Machine Vision Conference]({{ site.baseurl }}/bmvc/), at which the presentation will
+[British Machine Vision Conference]({{ site.baseurl }}/bmvc), at which the presentation will
 be made.
 
 ### 2019 Prize Nominations
@@ -86,7 +86,7 @@ considered for the award of the 2019 prize is 31st May 2019.
   exam, as evidenced by the signed examiners' reports.
 
 - Submissions must be in electronic form. The thesis must first be submitted
-  into the [thesis archive]({{ site.baseurl }}/theses/). Other submission materials
+  into the [thesis archive]({{ site.baseurl }}/theses). Other submission materials
   should be emailed to the [BMVA Chair](mailto:chair@bmva.org).
    
 - Accompanying the thesis should be a supporting statement from the research
