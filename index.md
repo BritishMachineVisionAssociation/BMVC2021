@@ -30,6 +30,7 @@ In pursuit of the above goals, the association's primary activities are:
 + Award of [travel bursaries]({{ site.baseurl }}/bursaries/travel-bursaries)
 + Award of [the Sullivan thesis prize]({{ site.baseurl }}/bursaries/sullivan-prize)
 + Maintenance of a [PhD thesis archive]({{ site.baseurl }}/theses)
++ Publication of the [BMVA News]({{ site.baseurl }}/bmva-news) newsletter
 
 <!-- + Publication of the [_Annals of the BMVA_](annals/index.html)-->
 
