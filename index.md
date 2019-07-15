@@ -32,6 +32,15 @@ In pursuit of the above goals, the association's primary activities are:
 + Maintenance of a [PhD thesis archive]({{ site.baseurl }}/theses)
 + Publication of the [BMVA News]({{ site.baseurl }}/bmva-news) newsletter
 
+<p><span>If you are interested in joining the BMVA: &nbsp;&nbsp;</span>
+<a class="btn btn-info" role="button" href="{{ site.baseurl }}/joining">Join the BMVA!</a></p>
+
+<!--<div class="row mx-auto">
+	<div class="col mx-auto">
+		<p align="center" class="pt-3"><a class="btn btn-info" role="button" href="{{ site.baseurl }}/joining">Join the BMVA!</a></p>
+	</div>
+</div>-->
+
 <!-- + Publication of the [_Annals of the BMVA_](annals/index.html)-->
 
 <!--and several [other activities](activities.html).-->

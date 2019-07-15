@@ -18,7 +18,7 @@ title: BMVA Thesis Archive
 
 <div class="row mx-auto">
 	<div class="col mx-auto">
-		<p align="center" class="pt-3"><a class="btn btn-success" role="button" href="#thesis-submission">Please find submission details below!</a></p>
+		<p align="center" class="pt-3"><a class="btn btn-info" role="button" href="#thesis-submission">Please find submission details below!</a></p>
 	</div>
 </div>
 
