@@ -13,11 +13,16 @@ pages:
   - title: "Bursaries & Prizes"
     url: /bursaries
     dropdown: true
+  - title: "Information"
+    url: /information
+    dropdown: true
+  - title: Joining
+    url: /joining
+
+old:
   - title: News
     url: /bmva-news
   - title: Thesis Archive
     url: /theses
   - title: Committee
     url: /committee
-  - title: Joining
-    url: /joining

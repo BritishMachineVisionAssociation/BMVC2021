@@ -1,6 +1,7 @@
 ---
 layout: default_sparse
 title: The British Machine Vision Conference (BMVC)
+permalink: /bmvc
 ---
 
 ## The British Machine Vision Conference (BMVC)

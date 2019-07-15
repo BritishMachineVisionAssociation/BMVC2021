@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: One Day Meetings
-permalink: /meetings/
+permalink: /meetings
 index: 0
 ---
 

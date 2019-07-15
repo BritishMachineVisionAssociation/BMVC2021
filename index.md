@@ -29,8 +29,8 @@ In pursuit of the above goals, the association's primary activities are:
 + An [annual Summer School]({{ site.baseurl }}/summer-school)
 + Award of [travel bursaries]({{ site.baseurl }}/bursaries/travel-bursaries)
 + Award of [the Sullivan thesis prize]({{ site.baseurl }}/bursaries/sullivan-prize)
-+ Maintenance of a [PhD thesis archive]({{ site.baseurl }}/theses)
-+ Publication of the [BMVA News]({{ site.baseurl }}/bmva-news) newsletter
++ Maintenance of a [PhD thesis archive]({{ site.baseurl }}/information/theses)
++ Publication of the [BMVA News]({{ site.baseurl }}/information/bmva-news) newsletter
 
 <p><span>If you are interested in joining the BMVA: &nbsp;&nbsp;</span>
 <a class="btn btn-info" role="button" href="{{ site.baseurl }}/joining">Join the BMVA!</a></p>

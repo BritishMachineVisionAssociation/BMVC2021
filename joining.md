@@ -1,6 +1,7 @@
 ---
 layout: default_sparse
 title: Joining the BMVA
+permalink: /joining
 ---
 
 ## Joining the BMVA

@@ -1,6 +1,7 @@
 ---
 layout: default_sparse
 title: Medical Image Understanding and Analysis Conference (MIUA)
+permalink: /miua
 ---
 
 ## Medical Image Understanding and Analysis Conference (MIUA)

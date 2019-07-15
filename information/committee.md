@@ -1,6 +1,7 @@
 ---
 layout: default_sparse
 title: The Executive Committee
+permalink: /information/committee
 ---
 
 ## The Executive Committee

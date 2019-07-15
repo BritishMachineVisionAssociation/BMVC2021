@@ -1,6 +1,7 @@
 ---
 layout: default_sparse
 title: Summer School
+permalink: /summer-school
 ---
 
 ## The Summer School in Computer Vision
