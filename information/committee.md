@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: The Executive Committee
+title: Executive Committee
 permalink: /information/committee
 ---
 

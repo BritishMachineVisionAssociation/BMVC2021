@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: BMVA Thesis Archive
+title: Thesis Archive
 ---
 
 <!--
