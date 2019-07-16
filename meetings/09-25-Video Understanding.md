@@ -41,15 +41,20 @@ The symposium is a full-day event with invited speakers and a poster presentatio
 
 ## Submission of Posters
 
-You are invited to present a poster about recently published or ongoing work.
-https://forms.gle/eB4zXirW7JV8mmYp6  
+You are invited to present a poster about recently published or ongoing work
+[here](https://forms.gle/eB4zXirW7JV8mmYp6).
 
 
 
 ## Registration
 
-<div class="container-fluid">
-<div id="eventbrite-widget-container-52421495103"></div>
+<div class="container-fluid pb-3">
+    <div class="card p-1" style="background: #F8F7FA">
+        <div class="card-body mx-auto">
+          Please register using the options below:
+        </div>
+        <div id="eventbrite-widget-container-52421495103"></div>
+    </div>
 </div>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
@@ -59,6 +64,34 @@ https://forms.gle/eB4zXirW7JV8mmYp6
         console.log('Order complete!');
     };
 
+    function getWidth() {
+      if (self.innerWidth) {
+        return self.innerWidth;
+      }
+
+      if (document.documentElement && document.documentElement.clientWidth) {
+        return document.documentElement.clientWidth;
+      }
+
+      if (document.body) {
+        return document.body.clientWidth;
+      }
+    }
+
+    var height_to_use = 600;
+
+    if (getWidth() < 1000) {
+        height_to_use = 650;
+    }
+
+    if (getWidth() < 800) {
+        height_to_use = 700;
+    }
+
+    if (getWidth() < 550) {
+        height_to_use = 710;
+    }
+
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
@@ -66,7 +99,7 @@ https://forms.gle/eB4zXirW7JV8mmYp6
         iframeContainerId: 'eventbrite-widget-container-52421495103',
 
         // Optional
-        iframeContainerHeight: 600,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: height_to_use,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
