@@ -21,7 +21,7 @@ novel and exciting research in the area.
 The BMVA encourages academics (student or staff) and practitioners in the area to apply with work related to data synthesis or data generation. Abstracts should be a maximum of 500 words (not including references) and submitted online.
 
 Submission form: 
-<a href="https://nathan031196.typeform.com/to/iTFURe" target="_blank">example</a>
+<a href="https://nathan031196.typeform.com/to/iTFURe" target="_blank">https://nathan031196.typeform.com/to/iTFURe</a>
 The deadline for submission is: Wednesday 11th September, 2019
 
 ## The goals of the symposium are:
