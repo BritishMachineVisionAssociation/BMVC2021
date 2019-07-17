@@ -6,7 +6,7 @@ permalink: /summer-school
 
 ## The Summer School in Computer Vision
 
-The [2019 Summer School](https://cvss.blogs.lincoln.ac.uk/) will be held in Lincoln on 8th - 12th July 2019.
+The [2019 Summer School](https://cvss.blogs.lincoln.ac.uk/) was held in Lincoln on 8th - 12th July 2019.
 
 <p style="pb-2">
 <a href="https://cvss.blogs.lincoln.ac.uk/"><img src="{{ site.baseurl }}/assets/images/events/cvss2019.jpg" class="img-fluid rounded mx-auto d-block" style="max-width: 200px;" alt="CVSS 2019 Logo"></a>
