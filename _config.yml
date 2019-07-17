@@ -21,8 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The website for the British Machine Vision Association, the UK national
   forum for individuals and organisations involved in research in computer
   vision, image processing and pattern recognition.
-baseurl: "/bmva-website" # the subpath of your site, e.g. /blog
-url: "https://ndfcampbell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # "/bmva-website" # the subpath of your site, e.g. /blog
+url: "https://BritishMachineVisionAssociation.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/layout/bmva-logo-tl.png"
 twitter_username: TheBMVA
 github_username:  BritishMachineVisionAssociation
