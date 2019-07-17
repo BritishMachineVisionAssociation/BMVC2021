@@ -23,7 +23,7 @@
     <p class="card-text" style="text-indent: -1em; padding-left: 1em;">
       <!--<span class="float-left mr-2">{{ item.date }}</span>
       <span class="">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span>-->
-      <b>{{ item.date | date: '%d %b %Y' }}</b> &nbsp;&nbsp; {{ item.type }}<br /><a href="{% if item.link%}{{ item.link }}{% else %}{{ site.baseurl }}{{ item.url }}{% endif %}">{{ item.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+      <b>{{ item.date | date: '%d %b %Y' }}</b> &nbsp;&nbsp; {{ item.type }}<br /><a href="{% if item.link %}{{ item.link }}{% else %}{{ site.baseurl }}{{ item.url }}{% endif %}">{% if item.meeting-title %}{{ item.meeting-title }}{% else %}{{ item.title | markdownify | remove: "<p>" | remove: "</p>" }}{% endif %}</a>
     </p>
     <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
   </div>
