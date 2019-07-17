@@ -51,7 +51,7 @@ You are invited to present a poster about recently published or ongoing work
 <div class="container-fluid pb-3">
     <div class="card p-1" style="background: #F8F7FA">
         <div class="card-body mx-auto">
-          Please register using the options below:
+          Please register using the options below (scroll for more options):
         </div>
         <div id="eventbrite-widget-container-52421495103"></div>
     </div>

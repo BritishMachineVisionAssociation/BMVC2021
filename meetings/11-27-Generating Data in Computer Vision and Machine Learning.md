@@ -42,7 +42,7 @@ The deadline for submission is: Wednesday 11th September, 2019
 <div class="container-fluid pb-3">
     <div class="card p-1" style="background: #F8F7FA">
         <div class="card-body mx-auto">
-          Please register using the options below:
+          Please register using the options below (scroll for more options):
         </div>
         <div id="eventbrite-widget-container-53411098032"></div>
     </div>
