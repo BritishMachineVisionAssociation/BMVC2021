@@ -13,6 +13,7 @@ organisers: Hilde Kuehne, Dima Damen, Juergen Gall and Ivan Laptev
 
 New models for video understanding remain a bottleneck for research despite the increase in the number of large-scale video datasets. The symposium’s objective is to share the latest research, but also feedback to the community about the major challenges, and plan for an ongoing collaboration on video understanding beyond the simplified concept of classification of trimmed videos.  
 
+The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-09-25Programme.pdf %}).
 	
 9:00-9:45	|**Keynote: Jeff Zachs** |	University of Washington	
 9:45-10:05	|**Rahul Sukthankar** |	Google, CMU	

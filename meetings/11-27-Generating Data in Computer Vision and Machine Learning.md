@@ -17,6 +17,8 @@ organisers: Nathan Olliverre
 With the advancements in Computer Vision and Machine Learning the requirement for high quality and labelled data has increased but with those advancements novel techniques in synthesising data have come to the fore and has also have led to methods for the creation of new data. This BMVA Symposium looks to bring together those who have a focus or interest in data generation for a day of talks previewing
 novel and exciting research in the area.
 
+The Call for Papers can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-11-27Call.pdf %}).
+
 ## Submission of Posters
 The BMVA encourages academics (student or staff) and practitioners in the area to apply with work related to data synthesis or data generation. Abstracts should be a maximum of 500 words (not including references) and submitted online.
 
