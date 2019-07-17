@@ -42,33 +42,33 @@ The BCS has moved, the meeting will take palce at
 British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 
 ## Posters: 
-|**Pascal Mettes** | - University of Amsterdam: Recognizing Unseen Actions from Objects	
-|**Xavier Giro-i-Nieto** |  - UPC: RVOS: End-to-End RNN for Video Object Segmentation  
-|**Tu Bui** | - University of Surrey: Tamper-proofing Video using Temporal Hashes on the Blockchain	
-|**Samuel Albanie** | - University of Oxford: Use What You Have: Video retrieval using representations from collaborative experts	
-|**Matthew Bezdek** | - Washington University: The 3D Extended Activity Multi-camera Dataset (TEAM)
-|**Armin Mustafa** | - Uni of Surrey: Semantic Co-segmentation & 4D Reconstruction for Dynamic Scene
-|**Luowei Zhou** | - University of Michigan: Grounded Video Description	
-|**Davide Moltisanti** | - Uni of Bristol: Action Rec. from Single Timestamp in Untrimmed Videos	
-|**Salah Al-Obaidi** |  - University of Sheffield: Temporal Salience Based Human Action Recognition 
-|**Farnoosh Heidarivincheh** | – Uni of Bristol: Action Completion: A Temporal Model for Moment	
-|**Noureldien Hussein** |  - Uni of Amsterdam: Timeception for Complex Action Recognition
-|**Michael Wray** | - University of Bristol: Learning Visual Actions Using Multiple Verb-Only Labels 
-|**Chien-Yi Chang** | - Stanford University: Procedure Planning in Instructional Video
-|**Hazel Doughty** |  - Uni of Bristol: Rank-aware Temporal Attention for Skill Determination in Videos
-|**Mohsen Fayyaz** | - University of Bonn: Holistic Large Scale Video Understanding
-|**Rami Ben-Ari** | - IBM Research-AI: Object detection without labeling from video with transcripts 
-|**Yaser Souri** | - University of Bonn: Weakly Supervised Action Segmentation Using Mutual Consistency
-|**Evangelos Kazakos** | - University of Bristol: Audio-Visual Temporal Binding for Egocentric Action Rec.
-|**Jiaojiao Zhao** | - University of Amsterdam: Two-in-one Stream Action Detection
-|**Will Price** | - University of Bristol: Benchmarking action recognition models on EPIC-Kitchens	
-|**Lilli Bruckschen** | - University of Bonn: Detection of Human-Object Interactions in Video Streams	
-|**Jonathan Munro** | - Uni of Bristol: Multi-Modal Domain Adaptation for Fine-grained Action Rec.	
-|**Anna Kukleva** |  - Uni of Bonn: Unsupervised learning of action with continuous temporal embedding
-|**Aishah alsehaim** | - Durham Uni: Advance Visual Sequence Learning for Action Rec. via 3D-CNN
-|**Harri Taylor** | - Cardiff Uni: Audio-visual explanations for activity rec. using discriminative relevance
-|**Liam Hiley** | - Cardiff Uni: Temporal Information in Activity Rec. for Situational Understanding	
-|**Zheheng Jiang** |: Context-aware Mouse Behaviour Recognition using Hidden Markov Models
+- **Pascal Mettes**  - University of Amsterdam: Recognizing Unseen Actions from Objects	
+- **Xavier Giro-i-Nieto**   - UPC: RVOS: End-to-End RNN for Video Object Segmentation  
+- **Tu Bui**  - University of Surrey: Tamper-proofing Video using Temporal Hashes on the Blockchain	
+- **Samuel Albanie**  -  University of Oxford: Use What You Have: Video retrieval using representations from collaborative experts	
+- **Matthew Bezdek**  -  Washington University: The 3D Extended Activity Multi-camera Dataset (TEAM)
+- **Armin Mustafa**  -  Uni of Surrey: Semantic Co-segmentation & 4D Reconstruction for Dynamic Scene
+- **Luowei Zhou**  -  University of Michigan: Grounded Video Description	
+- **Davide Moltisanti**  -  Uni of Bristol: Action Rec. from Single Timestamp in Untrimmed Videos	
+- **Salah Al-Obaidi** |  - University of Sheffield: Temporal Salience Based Human Action Recognition 
+- **Farnoosh Heidarivincheh** | – Uni of Bristol: Action Completion: A Temporal Model for Moment	
+- **Noureldien Hussein** |  - Uni of Amsterdam: Timeception for Complex Action Recognition
+- **Michael Wray**  -  University of Bristol: Learning Visual Actions Using Multiple Verb-Only Labels 
+- **Chien-Yi Chang**  -  Stanford University: Procedure Planning in Instructional Video
+- **Hazel Doughty** |  - Uni of Bristol: Rank-aware Temporal Attention for Skill Determination in Videos
+- **Mohsen Fayyaz**  -  University of Bonn: Holistic Large Scale Video Understanding
+- **Rami Ben-Ari**  -  IBM Research-AI: Object detection without labeling from video with transcripts 
+- **Yaser Souri**  -  University of Bonn: Weakly Supervised Action Segmentation Using Mutual Consistency
+- **Evangelos Kazakos**  -  University of Bristol: Audio-Visual Temporal Binding for Egocentric Action Rec.
+- **Jiaojiao Zhao**  -  University of Amsterdam: Two-in-one Stream Action Detection
+- **Will Price**  -  University of Bristol: Benchmarking action recognition models on EPIC-Kitchens	
+- **Lilli Bruckschen**  -  University of Bonn: Detection of Human-Object Interactions in Video Streams	
+- **Jonathan Munro**  -  Uni of Bristol: Multi-Modal Domain Adaptation for Fine-grained Action Rec.	
+- **Anna Kukleva** |  - Uni of Bonn: Unsupervised learning of action with continuous temporal embedding
+- **Aishah alsehaim**  -  Durham Uni: Advance Visual Sequence Learning for Action Rec. via 3D-CNN
+- **Harri Taylor**  -  Cardiff Uni: Audio-visual explanations for activity rec. using discriminative relevance
+- **Liam Hiley**  -  Cardiff Uni: Temporal Information in Activity Rec. for Situational Understanding	
+- **Zheheng Jiang** : Context-aware Mouse Behaviour Recognition using Hidden Markov Models
 
 
 
