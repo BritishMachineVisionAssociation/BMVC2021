@@ -5,7 +5,7 @@ title: Generating Data in Computer Vision and Machine Learning (27 November 2019
 index: 1
 date: 2019-11-27
 meeting-title: Generating Data in Computer Vision and Machine Learning
-image: placeholder.png
+image: 19-11-27 Generating Data.png
 organisers: Nathan Olliverre
 ---
 
@@ -42,7 +42,7 @@ The deadline for submission is: Wednesday 11th September, 2019
 <div class="container-fluid pb-3">
     <div class="card p-1" style="background: #F8F7FA">
         <div class="card-body mx-auto">
-          Please register using the options below (scroll for more options):
+          Please register using the options below:
         </div>
         <div id="eventbrite-widget-container-53411098032"></div>
     </div>
@@ -97,7 +97,6 @@ The deadline for submission is: Wednesday 11th September, 2019
 
 ## Meeting Location
 
-British Computer Society (BCS), 5 Southampton St, London WC2E 7HA
-
-{% include bcs-map.html %}
+The BCS has moved, the meeting will take place at 
+British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 

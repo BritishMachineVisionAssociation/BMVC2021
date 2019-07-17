@@ -9,40 +9,66 @@ image: 19-09-25-Video_Understanding.png
 organisers: Hilde Kuehne, Dima Damen, Juergen Gall and Ivan Laptev
 ---
 
+## Programme
 
+New models for video understanding remain a bottleneck for research despite the increase in the number of large-scale video datasets. The symposium’s objective is to share the latest research, but also feedback to the community about the major challenges, and plan for an ongoing collaboration on video understanding beyond the simplified concept of classification of trimmed videos.  
 
-## Keynote Speakers
+	
+9:00-9:45	|**Keynote: Jeff Zachs** |	University of Washington	
+9:45-10:05	|**Rahul Sukthankar** |	Google, CMU	
+10:05-10:25	|**Cees Snoek** |	University of Amsterdam	
+10:25-10:45	|**Mubarak Shah** |	University of Central Florida	
+10:45-11:10	|**Coffee Break** |		
+11:10-11:30	|**Cordelia Schmid** |	INRIA	
+11:30-11:50	|**Dima Damen** |	University of Bristol	
+11:50-12:10	|**Juan Carlos Niebles** |	Stanford University - Toyota	
+12:10-12:30	|**Du Tran** |	Facebook	
+12:30-12:50	|**Jason Corso** |	University of Michigan	
+12:50-14:00	|**Lunch and Poster Session** |		
+14:00-14:20	|**Andrew Zisserman** |	University of Oxford	
+14:20-14:40	|**Lorenzo Torresani** |	Dartmouth College, Facebook	
+14:40-15:00	|**Hilde Kuehne** |	MIT-IBM Watson Lab	
+15:00-15:20	|**Ivan Laptev** |	INRIA	
+15:20-15:40	|**Nazli Ikizler-Cinbis** |	Hacettepe University, Ankara	
+15:40-16:20	|**Coffee Break** |		
+16:20-16:40	|**Jan van Gemert** |	Delft University of Technology	
+16:40-17:00	|**Juergen Gall** |	University of Bonn	
+17:00-17:20	|**Angela Yao** |	Singapore University	
+17:20-17:40	|**Efstratios Gavves** |	University of Amsterdam	
+17:40-18:00	|**Discussion and Concluding Remarks** |	
 
-- Jeff Zacks (Washington), 
-- Rahul Sukthankar (Google, CMU), 
-- Cordelia Schmid (INRIA), 
-- Cees Snoek (Amsterdam), 
-- Jason Corso (University of Michigan), 
-- Abhinav Gupta (CMU),  
-- Andrew Zisserman (Oxford), 
-- Mubarak Shah (Central Florida), 
-- Jan van Gemert (Delft), 
-- Lorenzo Torresani (Dartmouth College, Facebook), 
-- Ivan Laptev (INRIA), 
-- Dima Damen (Bristol), 
-- Juan Carlos Niebles (Stanford – Toyota), 
-- Efstratios Gavves (Amsterdam), 
-- Jürgen Gall (Bonn), 
-- Nazli Ikizler-Cinbis (Hacettepe, Ankara) 
-- Du Tran (Facebook), 
-- Hilde Kuehne (MIT-IBM), 
-- Angela Yao (Singapore)
+## Venuce Change
+The BCS has moved, the meeting will take palce at 
+British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 
-## Call for Posters:
-
-New models for video understanding remain a bottleneck for research despite the increase in the number of large-scale video datasets. To have a day to exchange ideas, establish tight collaborations and recommend new research directions, we, the organisers, are planning for the BMVA symposium on Video Understanding to be held in Central London, at the British Computer Society on Wednesday 25th of September 2019. 
-The symposium’s objective is to share the latest research, but also feedback to the community about the major challenges, and plan for an ongoing collaboration on video understanding beyond the simplified concept of classification of trimmed videos. 
-The symposium is a full-day event with invited speakers and a poster presentation session. The event will bring together 150 students, faculty, and research scientists for an opportunity to exchange ideas and connect over a mutual interest in video understanding
-
-## Submission of Posters
-
-You are invited to present a poster about recently published or ongoing work
-[here](https://forms.gle/eB4zXirW7JV8mmYp6).
+## Posters: 
+|**Pascal Mettes** | - University of Amsterdam: Recognizing Unseen Actions from Objects	
+|**Xavier Giro-i-Nieto** |  - UPC: RVOS: End-to-End RNN for Video Object Segmentation  
+|**Tu Bui** | - University of Surrey: Tamper-proofing Video using Temporal Hashes on the Blockchain	
+|**Samuel Albanie** | - University of Oxford: Use What You Have: Video retrieval using representations from collaborative experts	
+|**Matthew Bezdek** | - Washington University: The 3D Extended Activity Multi-camera Dataset (TEAM)
+|**Armin Mustafa** | - Uni of Surrey: Semantic Co-segmentation & 4D Reconstruction for Dynamic Scene
+|**Luowei Zhou** | - University of Michigan: Grounded Video Description	
+|**Davide Moltisanti** | - Uni of Bristol: Action Rec. from Single Timestamp in Untrimmed Videos	
+|**Salah Al-Obaidi** |  - University of Sheffield: Temporal Salience Based Human Action Recognition 
+|**Farnoosh Heidarivincheh** | – Uni of Bristol: Action Completion: A Temporal Model for Moment	
+|**Noureldien Hussein** |  - Uni of Amsterdam: Timeception for Complex Action Recognition
+|**Michael Wray** | - University of Bristol: Learning Visual Actions Using Multiple Verb-Only Labels 
+|**Chien-Yi Chang** | - Stanford University: Procedure Planning in Instructional Video
+|**Hazel Doughty** |  - Uni of Bristol: Rank-aware Temporal Attention for Skill Determination in Videos
+|**Mohsen Fayyaz** | - University of Bonn: Holistic Large Scale Video Understanding
+|**Rami Ben-Ari** | - IBM Research-AI: Object detection without labeling from video with transcripts 
+|**Yaser Souri** | - University of Bonn: Weakly Supervised Action Segmentation Using Mutual Consistency
+|**Evangelos Kazakos** | - University of Bristol: Audio-Visual Temporal Binding for Egocentric Action Rec.
+|**Jiaojiao Zhao** | - University of Amsterdam: Two-in-one Stream Action Detection
+|**Will Price** | - University of Bristol: Benchmarking action recognition models on EPIC-Kitchens	
+|**Lilli Bruckschen** | - University of Bonn: Detection of Human-Object Interactions in Video Streams	
+|**Jonathan Munro** | - Uni of Bristol: Multi-Modal Domain Adaptation for Fine-grained Action Rec.	
+|**Anna Kukleva** |  - Uni of Bonn: Unsupervised learning of action with continuous temporal embedding
+|**Aishah alsehaim** | - Durham Uni: Advance Visual Sequence Learning for Action Rec. via 3D-CNN
+|**Harri Taylor** | - Cardiff Uni: Audio-visual explanations for activity rec. using discriminative relevance
+|**Liam Hiley** | - Cardiff Uni: Temporal Information in Activity Rec. for Situational Understanding	
+|**Zheheng Jiang** |: Context-aware Mouse Behaviour Recognition using Hidden Markov Models
 
 
 
@@ -51,7 +77,7 @@ You are invited to present a poster about recently published or ongoing work
 <div class="container-fluid pb-3">
     <div class="card p-1" style="background: #F8F7FA">
         <div class="card-body mx-auto">
-          Please register using the options below (scroll for more options):
+          Please register using the options below:
         </div>
         <div id="eventbrite-widget-container-52421495103"></div>
     </div>
@@ -106,7 +132,8 @@ You are invited to present a poster about recently published or ongoing work
 
 ## Meeting Location
 
-British Computer Society (BCS), 5 Southampton St, London WC2E 7HA
+The BCS has moved, the meeting will take place at 
+British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 
-{% include bcs-map.html %}
+
 

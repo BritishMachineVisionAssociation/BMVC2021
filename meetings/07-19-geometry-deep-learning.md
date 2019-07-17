@@ -5,7 +5,7 @@ title: Geometry and Deep Learning (19 July 2019)
 index: 1
 date: 2019-07-19
 meeting-title: Geometry and Deep Learning
-image: 07-19-geometry-deep-learning-image_orig.png
+image: 19-07-19-geometry-deep-learning-image_orig.png
 organisers: Vassileios Balntas and Krystian Mikolajczyk
 ---
 
@@ -49,7 +49,7 @@ Visual geometry is one of the areas where applying deep learning is less obvious
 <div class="container-fluid pb-3">
     <div class="card p-1" style="background: #F8F7FA">
         <div class="card-body mx-auto">
-          Please register using the options below (scroll for more options):
+          Please register using the options below:
         </div>
         <div id="eventbrite-widget-container-50264244709"></div>
     </div>
