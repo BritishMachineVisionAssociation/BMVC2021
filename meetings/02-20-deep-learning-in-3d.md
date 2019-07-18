@@ -47,5 +47,5 @@ Deep learning has revolutionised the world of artificial intelligence in recent 
 
 British Computer Society (BCS), 5 Southampton St, London WC2E 7HA
 
-{% include bcs-map.html %}
+{% include bcs-old-map.html %}
 
