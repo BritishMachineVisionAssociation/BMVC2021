@@ -78,7 +78,7 @@ British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 <div class="container-fluid pb-3">
     <div class="card p-1" style="background: #F8F7FA">
         <div class="card-body mx-auto">
-          Please register using the options below:
+          Please register using the options below (scroll for more options):
         </div>
         <div id="eventbrite-widget-container-52421495103"></div>
     </div>
@@ -133,9 +133,9 @@ British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 
 ## Meeting Location
 
-The BCS has moved, the meeting will take place at 
+The BCS has moved, the meeting will take place at: 
 
-British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
+British Computer Society (BCS), 25 Copthall Avenue, London EC2R 7BP 
 
 {% include bcs-map.html %}
 
