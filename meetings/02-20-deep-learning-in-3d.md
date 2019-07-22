@@ -18,7 +18,7 @@ organisers: Chris Holder, Chris Willcocks and Gregoire Payen de La Garanderie​
 
 ## Meeting Report
 After the meeting the organisers prepare a short summary of the meeting. 
-The report is available [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-20thfeb2019v2.pdf %}).
+The report is available [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-02-20.pdf %}).
 
 ## Videos of Talks
 On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepItfaJ0UInXegIDJPkxp05Te)

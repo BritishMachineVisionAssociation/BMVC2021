@@ -56,7 +56,7 @@ On our BMVA youtube channel there are recorded talks of the slides and speaker f
 ## Meeting Report
 After the meeting the organisers will preapre a short summary of the meeting. 
 
-This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-20thfeb2019v2.pdf %}).
+This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-02-20.pdf %}).
 --->
 
 ## Registration

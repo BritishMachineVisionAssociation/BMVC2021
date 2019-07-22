@@ -21,18 +21,20 @@ organisers: Vassileios Balntas and Krystian Mikolajczyk
 
 - Daniyar Turmukhambetov & Michael Firman - Niantic Labs
 - Relja Arandjelović - Deepmind
+
 <!---
 ## Call for Papers
 
 
 The call for Papers can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-09-25Programme.pdf %}).
---->
+-->
+
 ## Programme
 
 Visual geometry is one of the areas where applying deep learning is less obvious than in other computer vision problems and has only just started to make an impact. In this meeting, we aim to explore the key challenges in addressing the geometry related tasks with end-to-end learning.
-<!---
+<!--
 The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-09-25Programme.pdf %}).
---->
+-->
 | 09:30-10:20 | **Keynote: Jiri Matas** |
 | 10:20-10:40 | **Coffee Break** |
 | 10:40-11:00 | **Ignas Budvytis**: Large Scale Semantic Re-Localisation |
@@ -56,10 +58,11 @@ On our BMVA youtube channel there are recorded talks of the slides and speaker f
 
 ## Meeting Report
 After the meeting the organisers will prepare a short summary of the meeting. 
-<!---
-This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-20thfeb2019v2.pdf %}).
---->
-<!---
+
+<!--
+This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-02-20.pdf %}).
+-->
+<!--
 ## Registration
 
 <div class="container-fluid pb-3">
@@ -117,7 +120,8 @@ This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingrepo
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
---->
+-->
+
 ## Meeting Location
 
 British Computer Society (BCS), 5 Southampton St, London WC2E 7HA

@@ -1,11 +1,11 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: Visual Image Interpretation in Humans and Machines: Machines that see like us? (10 April 2019)
+title: "Visual Image Interpretation in Humans and Machines: Machines that see like us? (10 April 2019)"
 index: 1
 date: 2019-04-10
-meeting-title: Visual Image Interpretation in Humans and Machines: Machines that see like us?
-image: 04-10-viihm.png.png
+meeting-title: "Visual Image Interpretation in Humans and Machines: Machines that see like us?"
+image: 04-10-viihm.jpg
 organisers: Andrew Schofield 
 ---
 

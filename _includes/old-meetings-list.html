@@ -3,8 +3,8 @@
 {% assign meeting_events = site.pages | where_exp:"page", "page.url contains '/meetings/'" %}
 {% assign filtered_meeting_events = meeting_events | where_exp:"page", "page.meeting-title" %}
 
-{% assign all_filtered_meeting_events = filtered_meeting_events | concat: site.data.old-one-day-meetings %}
-{% assign sorted_events = all_filtered_meeting_events | sort: "date" %}
+<!--{% assign all_filtered_meeting_events = filtered_meeting_events | concat: site.data.old-one-day-meetings %}-->
+{% assign sorted_events = filtered_meeting_events | sort: "date" | reverse %}
 
 {% for event in sorted_events %}
 {% assign date_format = event.date | date: '%d/%m/%Y' %}
