@@ -9,6 +9,13 @@ image: 19-09-25-Video_Understanding.png
 organisers: Hilde Kuehne, Dima Damen, Juergen Gall and Ivan Laptev
 ---
 
+<!---
+## Call for Papers
+
+
+The call for Papers can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-09-25Programme.pdf %}).
+--->
+
 ## Programme
 
 New models for video understanding remain a bottleneck for research despite the increase in the number of large-scale video datasets. The symposium’s objective is to share the latest research, but also feedback to the community about the major challenges, and plan for an ongoing collaboration on video understanding beyond the simplified concept of classification of trimmed videos.  
@@ -51,12 +58,12 @@ British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 - **Armin Mustafa**  -  Uni of Surrey: Semantic Co-segmentation & 4D Reconstruction for Dynamic Scene
 - **Luowei Zhou**  -  University of Michigan: Grounded Video Description	
 - **Davide Moltisanti**  -  Uni of Bristol: Action Rec. from Single Timestamp in Untrimmed Videos	
-- **Salah Al-Obaidi** |  - University of Sheffield: Temporal Salience Based Human Action Recognition 
-- **Farnoosh Heidarivincheh** | – Uni of Bristol: Action Completion: A Temporal Model for Moment	
-- **Noureldien Hussein** |  - Uni of Amsterdam: Timeception for Complex Action Recognition
+- **Salah Al-Obaidi**   - University of Sheffield: Temporal Salience Based Human Action Recognition 
+- **Farnoosh Heidarivincheh**  – Uni of Bristol: Action Completion: A Temporal Model for Moment	
+- **Noureldien Hussein**   - Uni of Amsterdam: Timeception for Complex Action Recognition
 - **Michael Wray**  -  University of Bristol: Learning Visual Actions Using Multiple Verb-Only Labels 
 - **Chien-Yi Chang**  -  Stanford University: Procedure Planning in Instructional Video
-- **Hazel Doughty** |  - Uni of Bristol: Rank-aware Temporal Attention for Skill Determination in Videos
+- **Hazel Doughty**   - Uni of Bristol: Rank-aware Temporal Attention for Skill Determination in Videos
 - **Mohsen Fayyaz**  -  University of Bonn: Holistic Large Scale Video Understanding
 - **Rami Ben-Ari**  -  IBM Research-AI: Object detection without labeling from video with transcripts 
 - **Yaser Souri**  -  University of Bonn: Weakly Supervised Action Segmentation Using Mutual Consistency
@@ -65,12 +72,22 @@ British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 - **Will Price**  -  University of Bristol: Benchmarking action recognition models on EPIC-Kitchens	
 - **Lilli Bruckschen**  -  University of Bonn: Detection of Human-Object Interactions in Video Streams	
 - **Jonathan Munro**  -  Uni of Bristol: Multi-Modal Domain Adaptation for Fine-grained Action Rec.	
-- **Anna Kukleva** |  - Uni of Bonn: Unsupervised learning of action with continuous temporal embedding
+- **Anna Kukleva**   - Uni of Bonn: Unsupervised learning of action with continuous temporal embedding
 - **Aishah alsehaim**  -  Durham Uni: Advance Visual Sequence Learning for Action Rec. via 3D-CNN
 - **Harri Taylor**  -  Cardiff Uni: Audio-visual explanations for activity rec. using discriminative relevance
 - **Liam Hiley**  -  Cardiff Uni: Temporal Information in Activity Rec. for Situational Understanding	
 - **Zheheng Jiang** : Context-aware Mouse Behaviour Recognition using Hidden Markov Models
 
+<!---
+## Videos of Talks
+On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Meeting Report
+After the meeting the organisers will preapre a short summary of the meeting. 
+
+This can be found [here]
+--->
 
 
 ## Registration

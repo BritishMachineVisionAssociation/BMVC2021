@@ -17,8 +17,12 @@ organisers: Chris Holder, Chris Willcocks and Gregoire Payen de La Garanderie​
 - **Alex Kendall**, University of Cambridge, Wayve
 
 ## Meeting Report
-
+After the meeting the organisers prepare a short summary of the meeting. 
 The report is available [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-20thfeb2019v2.pdf %}).
+
+## Videos of Talks
+On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepItfaJ0UInXegIDJPkxp05Te)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepItfaJ0UInXegIDJPkxp05Te" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Programme
 
@@ -42,6 +46,7 @@ Deep learning has revolutionised the world of artificial intelligence in recent 
 | 17:00 | Finish |
 
 <br>
+
 
 ## Meeting Location
 

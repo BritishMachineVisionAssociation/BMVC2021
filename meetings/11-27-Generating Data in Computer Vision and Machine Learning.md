@@ -40,6 +40,25 @@ The deadline for submission is: Wednesday 11th September, 2019
 - Generation of data through priors
 - Manual data synthesis
 
+<!---
+## Programme
+
+Visual geometry is one of the areas where applying deep learning is less obvious than in other computer vision problems and has only just started to make an impact. In this meeting, we aim to explore the key challenges in addressing the geometry related tasks with end-to-end learning.
+
+The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-09-25Programme.pdf %}).
+--->
+
+<!---
+## Videos of Talks
+On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Meeting Report
+After the meeting the organisers will preapre a short summary of the meeting. 
+
+This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-20thfeb2019v2.pdf %}).
+--->
+
 ## Registration
 
 <div class="container-fluid pb-3">
