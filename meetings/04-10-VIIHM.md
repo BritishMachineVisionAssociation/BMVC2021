@@ -19,7 +19,7 @@ organisers: Andrew Schofield
 
 ## Meeting Report
 After the meeting the organisers will prepare a short summary of the meeting. 
-The report is available [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-04-10.pdf.pdf %}).
+The report is available [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-04-10.pdf %}).
 
 ## Programme
 

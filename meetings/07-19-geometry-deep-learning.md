@@ -59,7 +59,7 @@ After the meeting the organisers will prepare a short summary of the meeting.
 <!---
 This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-20thfeb2019v2.pdf %}).
 --->
-
+<!---
 ## Registration
 
 <div class="container-fluid pb-3">
@@ -117,7 +117,7 @@ This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingrepo
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-
+--->
 ## Meeting Location
 
 British Computer Society (BCS), 5 Southampton St, London WC2E 7HA
