@@ -44,6 +44,9 @@ Visual geometry is one of the areas where applying deep learning is less obvious
 
 <br>
 
+##Videos of Talks
+On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here]:https://www.youtube.com/playlist?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf
+
 ## Registration
 
 <div class="container-fluid pb-3">
