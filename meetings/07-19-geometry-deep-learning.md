@@ -32,9 +32,11 @@ The call for Papers can be downloaded from [here]({{ site.baseurl }}{% link asse
 ## Programme
 
 Visual geometry is one of the areas where applying deep learning is less obvious than in other computer vision problems and has only just started to make an impact. In this meeting, we aim to explore the key challenges in addressing the geometry related tasks with end-to-end learning.
+
 <!--
 The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-09-25Programme.pdf %}).
 -->
+
 | 09:30-10:20 | **Keynote: Jiri Matas** |
 | 10:20-10:40 | **Coffee Break** |
 | 10:40-11:00 | **Ignas Budvytis**: Large Scale Semantic Re-Localisation |
@@ -53,8 +55,16 @@ The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/eve
 <br>
 
 ## Videos of Talks
-On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf).
+
+
+<div class="container">
+    <div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+    </div></div>
+</div>
 
 ## Meeting Report
 After the meeting the organisers will prepare a short summary of the meeting. 
