@@ -1,10 +1,10 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: Generating Data in Computer Vision and Machine Learning (27 November 2019)
+title: "Generative Networks In Computer Vision and Machine Learning (27 November 2019)"
 index: 1
 date: 2019-11-27
-meeting-title: Generating Data in Computer Vision and Machine Learning
+meeting-title: "Generative Networks In Computer Vision and Machine Learning"
 image: 19-11-27 Generating Data.png
 organisers: Nathan Olliverre
 ---
