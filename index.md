@@ -99,3 +99,7 @@ and works with the following organizations:
 <A HREF="http://www.theiet.org">![](/assets/images/layout/affiliates/logo-iet.jpg)</A>&nbsp;&nbsp;
 <A HREF="http://www.ukiva.org">![](/assets/images/layout/affiliates/logo-ukiva.jpg)</A>&nbsp;&nbsp;
 <A HREF="http://www.theava.net">![](/assets/images/layout/affiliates/logo-ava.jpg)</A>
+
+<br>
+<p><small>The British Machine Vision Association and Society for Pattern Recognition is a Company limited by guarantee, No.2543446, registered in England and Wales. Registered Office: Department of Computer Science, Durham University, South Road, Durham, DH1 3LE, UK.  The Association is a non-profit-making body and is registered as charity No.1002307.</small></p>
+
