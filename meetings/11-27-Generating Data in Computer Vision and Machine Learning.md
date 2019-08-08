@@ -14,8 +14,7 @@ organisers: Nathan Olliverre
 
 ## Call for papers:
 
-With the advancements in Computer Vision and Machine Learning the requirement for high quality and labelled data has increased but with those advancements novel techniques in synthesising data have come to the fore and has also have led to methods for the creation of new data. This BMVA Symposium looks to bring together those who have a focus or interest in data generation for a day of talks previewing
-novel and exciting research in the area.
+Generative networks have come to the forefront of research in Computer Vision and Machine Learning having achieved impressive results in various real-world applications such as: image generation, processing and editing, visual domain adaptation and visual recognition. Variants of networks and models have emerged with improvements to sample quality and training stability which has helped to produce state-of-the-art performances. This BMVA Symposium looks to bring together those who have a focus or interest in generative networks for a day of talks previewing novel and exciting research in the area.
 
 The Call for Papers can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-11-27Call.pdf %}).
 
@@ -24,7 +23,7 @@ The BMVA encourages academics (student or staff) and practitioners in the area t
 
 Submission form: 
 <a href="https://nathan031196.typeform.com/to/iTFURe" target="_blank">https://nathan031196.typeform.com/to/iTFURe</a>
-The deadline for submission is: Wednesday 11th September, 2019
+The deadline for submission is: Monday 16th September, 2019
 
 ## The goals of the symposium are:
 -   To hear from a number of invited keynote speakers and accepted papers in the areas of supervised and unsupervised generative techniques.
