@@ -18,8 +18,8 @@ Generative networks have come to the forefront of research in Computer Vision an
 
 The Call for Papers can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-11-27Call.pdf %}).
 
-## Submission of Posters
-The BMVA encourages academics (student or staff) and practitioners in the area to apply with work related to data synthesis or data generation. Abstracts should be a maximum of 500 words (not including references) and submitted online.
+## Call for Papers
+All those interested in presenting (academics (student or staff) and industrial practitioners in the area) at this meeting are invited to submit an abstract of their talk:
 
 Submission form: 
 <a href="https://nathan031196.typeform.com/to/iTFURe" target="_blank">https://nathan031196.typeform.com/to/iTFURe</a>
@@ -32,7 +32,7 @@ The deadline for submission is: Monday 16th September, 2019
 
 
 
-## Meeting areas of interest :
+## Meeting areas of interest:
 - Generative Adversarial Networks
 - Variable Auto Encoders
 - Transfer Learning
