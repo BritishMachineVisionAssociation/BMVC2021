@@ -18,10 +18,10 @@ Generative networks have come to the forefront of research in Computer Vision an
 
 The Call for Papers can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-11-27Call.pdf %}).
 
-## Call for Papers
+## Submission form: 
 All those interested in presenting (academics (student or staff) and industrial practitioners in the area) at this meeting are invited to submit an abstract of their talk:
 
-Submission form: 
+
 <a href="https://nathan031196.typeform.com/to/iTFURe" target="_blank">https://nathan031196.typeform.com/to/iTFURe</a>
 The deadline for submission is: Monday 16th September, 2019
 
