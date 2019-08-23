@@ -14,7 +14,7 @@ You can now join the BMVA via [Eventbrite](https://www.eventbrite.co.uk/e/bmva-m
         <div class="card-body mx-auto">
           Please join using the options below (scroll for more options):
         </div>
-        <div id="eventbrite-widget-container-49987702564" class="embed-responsive"></div>
+        <div id="eventbrite-widget-container-70276325381" class="embed-responsive"></div>
     </div>
 </div>
 
