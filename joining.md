@@ -6,7 +6,7 @@ permalink: /joining
 
 ## Joining the BMVA
 
-You can now join the BMVA via [Eventbrite](https://www.eventbrite.co.uk/e/bmva-membership-2019-tickets-49987702564):
+You can now join the BMVA via [Eventbrite](https://www.eventbrite.co.uk/e/bmva-membership-2020-tickets-70276325381):
 
 <div class="container-fluid pb-3">
     <!--<button id="eventbrite-widget-trigger" type="button">Buy Tickets</button>-->
@@ -85,12 +85,12 @@ re-acquaint you!
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '49987702564',
+        eventId: '70276325381',
 
         //modal: true,
         //modalTriggerElementId: "eventbrite-widget-trigger",
 
-        iframeContainerId: 'eventbrite-widget-container-49987702564',
+        iframeContainerId: 'eventbrite-widget-container-70276325381',
         // Optional
         iframeContainerHeight: height_to_use,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         iFrameAutoAdapt: 100,
