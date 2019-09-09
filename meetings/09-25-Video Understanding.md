@@ -22,7 +22,7 @@ New models for video understanding remain a bottleneck for research despite the 
 
 The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-09-25Programme.pdf %}).
 	
-9:00-9:45	|**Keynote: Jeff Zachs** |	University of Washington	
+9:00-9:45	|**Keynote: Jeff Zacks** |	Washington University in St. Louis	
 9:45-10:05	|**Rahul Sukthankar** |	Google, CMU	
 10:05-10:25	|**Cees Snoek** |	University of Amsterdam	
 10:25-10:45	|**Mubarak Shah** |	University of Central Florida	
