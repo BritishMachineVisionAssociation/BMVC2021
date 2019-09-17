@@ -22,6 +22,10 @@ organisers: Vassileios Balntas and Krystian Mikolajczyk
 - Daniyar Turmukhambetov & Michael Firman - Niantic Labs
 - Relja Arandjelović - Deepmind
 
+## Meeting Report
+After the meeting the organisers prepare a short summary of the meeting. 
+The report is available [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-07-19.pdf %}).
+
 <!---
 ## Call for Papers
 
