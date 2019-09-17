@@ -46,7 +46,7 @@ The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/eve
 17:40-18:00	|**Discussion and Concluding Remarks** |	
 
 ## Venuce Change
-The BCS has moved, the meeting will take place at 
+The BCS has moved, the meeting will take palce at 
 British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 
 ## Posters: 
