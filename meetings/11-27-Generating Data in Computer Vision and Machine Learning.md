@@ -56,7 +56,7 @@ The deadline for submission is: Monday 16th September, 2019
 10:55 - 11:10 | Coffee Break |
 11:15 - 12:00 | **Keynote: Guang Yang (Imperial College London)** |
 12:05 - 12:25 | Generative System to Assist the Artist in the Choice of 3D Composition for a Still Life Painting | **Guido Salimbeni** 
-12:30 - 12:50 | On extending time validity of deep learning models with generative adversarial approach: An application to malware detection case | **Katrina Mayer** |
+12:30 - 12:50 | On extending time validity of deep learning models with generative adversarial approach: An application to malware detection case | **Katrina Mayer** 
 14:00 - 14:20 |HoloGAN: Unsupervised learning of 3D representations from natural images | **Thu Nguyen-Phuoc** 
 14:25 - 14:45 |Learning Human Reconstruction from Synthetic Dataset | **Akin Caliskan** 
 15:10 - 15:30 | AI & Auto Colourisation - Black & White to Colour with Generative Adversarial Networks | **Marc Górriz Blanch**
