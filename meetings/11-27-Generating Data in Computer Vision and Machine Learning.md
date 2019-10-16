@@ -34,7 +34,7 @@ The deadline for submission is: Monday 16th September, 2019
 
 ## Meeting areas of interest:
 - Generative Adversarial Networks
-- Variable Auto Encoders
+- Variational Auto-Encoders
 - Transfer Learning
 - Generation of data through priors
 - Manual data synthesis
