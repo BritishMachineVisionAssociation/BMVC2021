@@ -9,9 +9,6 @@ image: 19-11-27 Generating Data.png
 organisers: Nathan Olliverre
 ---
 
-
-
-
 ## Programme
 
 Generative networks have come to the forefront of research in Computer Vision and Machine Learning having achieved impressive results in various real-world applications such as: image generation, processing and editing, visual domain adaptation and visual recognition. Variants of networks and models have emerged with improvements to sample quality and training stability which has helped to produce state-of-the-art performances. This BMVA Symposium looks to bring together those who have a focus or interest in generative networks for a day of talks previewing novel and exciting research in the area.
