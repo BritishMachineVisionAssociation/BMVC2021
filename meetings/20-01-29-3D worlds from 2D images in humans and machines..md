@@ -19,6 +19,14 @@ When humans view a photograph they perceive the 3D world that constructed the im
 
 Papers are invited covering aspects of 3D scene perception in humans and 3D uplift in machines including whole scene perception / uplift, object and body pose perception / uplift. Abstracts are not published and re-presentation of previous work is acceptable.
 
+## Submission Deadline 22nd November
+
+Papers are invited covering aspects of 3D scene perception in humans and 3D uplift in machines including whole scene perception / uplift, object and body pose perception / uplift. Abstracts are not published and re-presentation of previous work is acceptable. www.bmva.com
+
+## Call for Papers pdf
+
+A copy of the call for papers can be found [here]({{ site.baseurl }}{% link assets/events/20-01-29Call.pdf %}).
+
 ## Meeting Location
 
 The BCS has moved, the meeting will take place at:
