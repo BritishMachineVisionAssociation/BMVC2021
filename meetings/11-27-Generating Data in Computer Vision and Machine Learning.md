@@ -12,12 +12,21 @@ organisers: Nathan Olliverre
 
 
 
-## Call for papers:
+## Programme
 
-Generative networks have come to the forefront of research in Computer Vision and Machine Learning having achieved impressive results in various real-world applications such as: image generation, processing and editing, visual domain adaptation and visual recognition. Variants of networks and models have emerged with improvements to sample quality and training stability which has helped to produce state-of-the-art performances. This BMVA Symposium looks to bring together those who have a focus or interest in generative networks for a day of talks previewing novel and exciting research in the area.
+Generative networks have been at the forefront of research in Computer Vision and Machine Learning in the last
+couple of years. Generative Networks have achieved impressive results for many real-world applications. As an
+active research topic, many GAN variants have emerged with improvements in sample quality and training stability.
+These novel techniques in synthesising have come to the fore and have been used for image generation,
+image processing, image synthesis from captions, image editing, visual domain adaptation, data generation for visual
+recognition, and many other applications, often leading to state of the art results. This BMVA Symposium looks to
+bring together those who have a focus or interest in Generative network such as GANs and VAEs for a day of talks
+previewing novel and exciting research in the area.
 
-The Call for Papers can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-11-27Call.pdf %}).
-
+<!---
+The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-11-27Programme.pdf %}).
+--->
+<!---
 ## Submission form: 
 All those interested in presenting (academics (student or staff) and industrial practitioners in the area) at this meeting are invited to submit an abstract of their talk:
 
@@ -38,14 +47,23 @@ The deadline for submission is: Monday 16th September, 2019
 - Transfer Learning
 - Generation of data through priors
 - Manual data synthesis
-
-<!---
-## Programme
-
-Visual geometry is one of the areas where applying deep learning is less obvious than in other computer vision problems and has only just started to make an impact. In this meeting, we aim to explore the key challenges in addressing the geometry related tasks with end-to-end learning.
-
-The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-09-25Programme.pdf %}).
 --->
+
+
+09:15 - 10:00 |**Keynote: Thomas Kustner (Imperial College London)**
+10:05 - 10:25 | Learning Generative 3D Face Models with Deep Disentangled Representations |**Victoria Fernandez Abrevaya**
+10:45 - 11:05 |Nonparametric Models and Uncertainty Propagation in Generative Deep Networks |**Neil Campbell**
+10:55 - 11:10 | Coffee Break
+11:15 - 12:00 | **Keynote: Guang Yang (Imperial College London)**
+12:05 - 12:25 | Generative System to Assist the Artist in the Choice of 3D Composition for a Still Life Painting | **Guido Salimbeni**
+12:30 - 12:50 | On extending time validity of deep learning models with generative adversarial approach: An application to malware detection case | **Katrina Mayer**
+14:00 - 14:20 |HoloGAN: Unsupervised learning of 3D representations from natural images | **Thu Nguyen-Phuoc**
+14:25 - 14:45 |Learning Human Reconstruction from Synthetic Dataset | **Akin Caliskan**
+15:10 - 15:30  | AI & Auto Colourisation - Black & White to Colour with Generative Adversarial Networks | **Marc Górriz Blanch**
+15:35 - 15:55 |   **Chaozheng Wang** 
+15:55 - 16:15 | Gated Variational AutoEncoders: Incorporating Weak Supervision to Encourage Disentanglement |** Matthew J. Vowels **
+16:15 - 17:00 | **Keynote: Emanuele Sansone (Huawei Technologies)**
+
 
 <!---
 ## Videos of Talks
@@ -57,6 +75,11 @@ After the meeting the organisers will preapre a short summary of the meeting.
 
 This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-02-20.pdf %}).
 --->
+
+## Venuce Change
+The BCS has moved, the meeting will take place at 
+British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
+
 
 ## Registration
 
