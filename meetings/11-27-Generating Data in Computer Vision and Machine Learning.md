@@ -11,16 +11,10 @@ organisers: Nathan Olliverre
 
 ## Programme
 
-Generative networks have come to the forefront of research in Computer Vision and Machine Learning having achieved impressive results in various real-world applications such as: image generation, processing and editing, visual domain adaptation and visual recognition. Variants of networks and models have emerged with improvements to sample quality and training stability which has helped to produce state-of-the-art performances. This BMVA Symposium looks to bring together those who have a focus or interest in generative networks for a day of talks previewing novel and exciting research in the area.
+Generative networks have been at the forefront of research in Computer Vision and Machine Learning in the last couple of years. Generative Networks have achieved impressive results for many real-world applications. As an active research topic, many GAN variants have emerged with improvements in sample quality and training stability. These novel techniques in synthesising have come to the fore and have been used for image generation, image processing, image synthesis from captions, image editing, visual domain adaptation, data generation for visual recognition, and many other applications, often leading to state of the art results. This BMVA Symposium looks to bring together those who have a focus or interest in Generative network such as GANs and VAEs for a day of talks previewing novel and exciting research in the area.
 
 The Call for Papers can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-11-27Call.pdf %}).
 
-## Submission form: 
-All those interested in presenting (academics (student or staff) and industrial practitioners in the area) at this meeting are invited to submit an abstract of their talk:
-
-
-<a href="https://nathan031196.typeform.com/to/iTFURe" target="_blank">https://nathan031196.typeform.com/to/iTFURe</a>
-The deadline for submission is: Monday 16th September, 2019
 
 ## The goals of the symposium are:
 -   To hear from a number of invited keynote speakers and accepted papers in the areas of supervised and unsupervised generative techniques.
