@@ -13,28 +13,11 @@ organisers: Nathan Olliverre
 
 Generative networks have been at the forefront of research in Computer Vision and Machine Learning in the last couple of years. Generative Networks have achieved impressive results for many real-world applications. As an active research topic, many GAN variants have emerged with improvements in sample quality and training stability. These novel techniques in synthesising have come to the fore and have been used for image generation, image processing, image synthesis from captions, image editing, visual domain adaptation, data generation for visual recognition, and many other applications, often leading to state of the art results. This BMVA Symposium looks to bring together those who have a focus or interest in Generative network such as GANs and VAEs for a day of talks previewing novel and exciting research in the area.
 
-The Call for Papers can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-11-27Call.pdf %}).
+09:15 - 10:00 - **Keynote: Thomas Kustner (Imperial College London)**
 
-
-## The goals of the symposium are:
--   To hear from a number of invited keynote speakers and accepted papers in the areas of supervised and unsupervised generative techniques.
--   To bring together experts and students of data synthesis.
--   To identify opportunities for further research and collaboration.
-
-
-
-## Meeting areas of interest:
-- Generative Adversarial Networks
-- Variable Auto Encoders
-- Transfer Learning
-- Generation of data through priors
-- Manual data synthesis
+10:05 - 10:25 - Learning Generative 3D Face Models with Deep Disentangled Representations - **Victoria Fernandez Abrevaya**
 
 <!---
-## Programme
-
-Visual geometry is one of the areas where applying deep learning is less obvious than in other computer vision problems and has only just started to make an impact. In this meeting, we aim to explore the key challenges in addressing the geometry related tasks with end-to-end learning.
-
 The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-09-25Programme.pdf %}).
 --->
 
