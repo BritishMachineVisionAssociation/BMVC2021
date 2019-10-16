@@ -9,6 +9,10 @@ image: 19-11-27 Generating Data.png
 organisers: Nathan Olliverre
 ---
 
+## Keynote Speakers
+
+Thomas Kustner, Guang Yang, Emanuele Sansone
+
 ## Programme
 
 Generative networks have been at the forefront of research in Computer Vision and Machine Learning in the last couple of years. Generative Networks have achieved impressive results for many real-world applications. As an active research topic, many GAN variants have emerged with improvements in sample quality and training stability. These novel techniques in synthesising have come to the fore and have been used for image generation, image processing, image synthesis from captions, image editing, visual domain adaptation, data generation for visual recognition, and many other applications, often leading to state of the art results. This BMVA Symposium looks to bring together those who have a focus or interest in Generative network such as GANs and VAEs for a day of talks previewing novel and exciting research in the area.
