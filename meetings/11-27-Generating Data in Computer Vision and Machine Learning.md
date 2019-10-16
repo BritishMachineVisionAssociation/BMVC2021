@@ -18,28 +18,7 @@ Thomas Kustner, Guang Yang, Emanuele Sansone
 
 Generative networks have been at the forefront of research in Computer Vision and Machine Learning in the last couple of years. Generative Networks have achieved impressive results for many real-world applications. As an active research topic, many GAN variants have emerged with improvements in sample quality and training stability. These novel techniques in synthesising have come to the fore and have been used for image generation, image processing, image synthesis from captions, image editing, visual domain adaptation, data generation for visual recognition, and many other applications, often leading to state of the art results. This BMVA Symposium looks to bring together those who have a focus or interest in Generative network such as GANs and VAEs for a day of talks previewing novel and exciting research in the area.
 
-<!---
 The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-11-27Programme.pdf %}).
---->
-<!---
-## Submission form:
-All those interested in presenting (academics (student or staff) and industrial practitioners in the area) at this meeting are invited to submit an abstract of their talk:
-
-<a href="https://nathan031196.typeform.com/to/iTFURe" target="_blank">https://nathan031196.typeform.com/to/iTFURe</a>
-The deadline for submission is: Monday 16th September, 2019
-
-## The goals of the symposium are:
--   To hear from a number of invited keynote speakers and accepted papers in the areas of supervised and unsupervised generative techniques.
--   To bring together experts and students of data synthesis.
--   To identify opportunities for further research and collaboration.
-
-## Meeting areas of interest:
-- Generative Adversarial Networks
-- Variational Auto-Encoders
-- Transfer Learning
-- Generation of data through priors
-- Manual data synthesis
---->
 
 09:15 - 10:00 - **Keynote: Thomas Kustner (Imperial College London)** 
 
