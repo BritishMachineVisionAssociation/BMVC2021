@@ -37,7 +37,7 @@ Generative networks have been at the forefront of research in Computer Vision an
 
 15:10 - 15:30 - AI & Auto Colourisation - Black & White to Colour with Generative Adversarial Networks - **Marc Górriz Blanch**
 
-15:35 - 15:55 -   **Chaozheng Wang**  
+15:35 - 15:55 - SymbolGAN and Deep Style Transfer - **Chaozheng Wang**  
 
 15:55 - 16:15 - Gated Variational AutoEncoders: Incorporating Weak Supervision to Encourage Disentanglement - **Matthew J. Vowels**
 
