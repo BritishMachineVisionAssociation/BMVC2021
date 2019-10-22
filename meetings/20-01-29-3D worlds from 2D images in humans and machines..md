@@ -15,13 +15,11 @@ James Elder. Professor of Human and Computer Vision, York University, Toronto.
 
 ## Call for Papers
 
-When humans view a photograph they perceive the 3D world that constructed the image. They can, for example, describe the depth relationships between objects, plan a route through the scene and imagine the scene from a different viewpoint. This process is automatic and compulsive. For example, even though humans possess size constancy they will readily misinterpret the size of a person in order to make sense of the rest of the scene as a 3D world.  State of the art computer vision systems are now also very good at reconstructing 3D layout from 2D images (3D uplift) although, unlike humans, this is often restricted to specific domains or requires multiple views. This workshop will consider recent developments in 3D uplift as well as our current knowledge of scene understanding in human vision. 
-
-Papers are invited covering aspects of 3D scene perception in humans and 3D uplift in machines including whole scene perception / uplift, object and body pose perception / uplift. Abstracts are not published and re-presentation of previous work is acceptable.
+When humans view a photograph they perceive the 3D world that constructed the image. They can, for example, describe the depth relationships between objects, plan a route through the scene and imagine the scene from a different viewpoint. This process is automatic and compulsive. For example, even though humans possess size constancy they will readily misinterpret the size of a person in order to make sense of the rest of the scene as a 3D world.  State of the art computer vision systems are now also very good at reconstructing 3D layout from 2D images (3D uplift) although, unlike humans, this is often restricted to specific domains or requires multiple views. This workshop will consider recent developments in 3D uplift as well as our current knowledge of scene understanding in human vision.
 
 ## Submission Deadline 22nd November
 
-Papers are invited covering aspects of 3D scene perception in humans and 3D uplift in machines including whole scene perception / uplift, object and body pose perception / uplift. Abstracts are not published and re-presentation of previous work is acceptable. www.bmva.com
+Papers are invited covering aspects of 3D scene perception in humans and 3D uplift in machines including whole scene perception / uplift, object and body pose perception / uplift. Abstracts are not published and re-presentation of previous work is acceptable. <https://forms.gle/Fs4fyV84H4CysMKY9>
 
 ## Call for Papers pdf
 
@@ -107,12 +105,3 @@ This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingrepo
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-
-## Meeting Location
-
-The BCS has moved, the meeting will take place at: 
-
-British Computer Society (BCS), 25 Copthall Avenue, London EC2R 7BP 
-
-{% include bcs-map.html %}
-
