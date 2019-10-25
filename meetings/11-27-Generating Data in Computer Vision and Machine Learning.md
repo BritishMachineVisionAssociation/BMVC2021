@@ -21,7 +21,7 @@ Generative networks have been at the forefront of research in Computer Vision an
 
 10:05 - 10:25 - Learning Generative 3D Face Models with Deep Disentangled Representations - **Victoria Fernandez Abrevaya**
 
-10:45 - 11:05 - Nonparametric Models and Uncertainty Propagation in Generative Deep Networks - **Neil Campbell**
+10:45 - 11:05 - Nonparametric Models and Uncertainty Propagation in Generative Deep Networks - **Neill Campbell**
 
 10:55 - 11:10 - Coffee Break
 
