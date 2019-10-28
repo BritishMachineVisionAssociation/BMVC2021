@@ -78,16 +78,16 @@ British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 - **Liam Hiley**  -  Cardiff Uni: Temporal Information in Activity Rec. for Situational Understanding	
 - **Zheheng Jiang** : Context-aware Mouse Behaviour Recognition using Hidden Markov Models
 
-<!---
+
 ## Videos of Talks
-On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIsW0S7K_ozIOS4_DGy0qoJf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/watch?v=uMZ_avMVUgM&list=PLW8VWHVjepItdBf7nDvs5MVMRZrF_l3jO)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uMZ_avMVUgM&list=PLW8VWHVjepItdBf7nDvs5MVMRZrF_l3jO" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Meeting Report
-After the meeting the organisers will preapre a short summary of the meeting. 
+After the meeting the organisers will preapre a short summary of the meeting.
 
-This can be found [here]
---->
+This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-09-25.pdf %})
+
 
 
 ## Registration
