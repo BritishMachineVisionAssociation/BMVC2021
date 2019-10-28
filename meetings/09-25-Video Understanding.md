@@ -16,6 +16,22 @@ organisers: Hilde Kuehne, Dima Damen, Juergen Gall and Ivan Laptev
 The call for Papers can be downloaded from [here]({{ site.baseurl }}{% link assets/events/19-09-25Programme.pdf %}).
 --->
 
+## Videos of Talks
+On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/watch?v=uMZ_avMVUgM&list=PLW8VWHVjepItdBf7nDvs5MVMRZrF_l3jO)
+
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
+		<div class="video-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uMZ_avMVUgM&list=PLW8VWHVjepItdBf7nDvs5MVMRZrF_l3jO" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div></div>
+</div>
+
+## Meeting Report
+After the meeting the organisers prepare a short summary of the meeting.
+
+This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-09-25.pdf %})
+
 ## Programme
 
 New models for video understanding remain a bottleneck for research despite the increase in the number of large-scale video datasets. The symposium’s objective is to share the latest research, but also feedback to the community about the major challenges, and plan for an ongoing collaboration on video understanding beyond the simplified concept of classification of trimmed videos.  
@@ -45,7 +61,7 @@ The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/eve
 17:20-17:40	|**Efstratios Gavves** |	University of Amsterdam	
 17:40-18:00	|**Discussion and Concluding Remarks** |	
 
-## Venuce Change
+## Venue Change
 The BCS has moved, the meeting will take palce at 
 British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 
@@ -77,18 +93,6 @@ British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 - **Harri Taylor**  -  Cardiff Uni: Audio-visual explanations for activity rec. using discriminative relevance
 - **Liam Hiley**  -  Cardiff Uni: Temporal Information in Activity Rec. for Situational Understanding	
 - **Zheheng Jiang** : Context-aware Mouse Behaviour Recognition using Hidden Markov Models
-
-
-## Videos of Talks
-On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/watch?v=uMZ_avMVUgM&list=PLW8VWHVjepItdBf7nDvs5MVMRZrF_l3jO)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uMZ_avMVUgM&list=PLW8VWHVjepItdBf7nDvs5MVMRZrF_l3jO" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Meeting Report
-After the meeting the organisers will preapre a short summary of the meeting.
-
-This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-09-25.pdf %})
-
-
 
 ## Registration
 
