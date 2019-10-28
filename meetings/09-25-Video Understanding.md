@@ -22,7 +22,7 @@ On our BMVA youtube channel there are recorded talks of the slides and speaker f
 <div class="container">
 	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
 		<div class="video-container">
-			<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uMZ_avMVUgM&list=PLW8VWHVjepItdBf7nDvs5MVMRZrF_l3jO" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepItdBf7nDvs5MVMRZrF_l3jO " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		</div>
 	</div></div>
 </div>
@@ -62,7 +62,7 @@ The Programme can be downloaded from [here]({{ site.baseurl }}{% link assets/eve
 17:40-18:00	|**Discussion and Concluding Remarks** |	
 
 ## Venue Change
-The BCS has moved, the meeting will take palce at 
+The BCS has moved, the meeting took palce at 
 British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 
 ## Posters: 
@@ -94,6 +94,7 @@ British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
 - **Liam Hiley**  -  Cardiff Uni: Temporal Information in Activity Rec. for Situational Understanding	
 - **Zheheng Jiang** : Context-aware Mouse Behaviour Recognition using Hidden Markov Models
 
+<!---
 ## Registration
 
 <div class="container-fluid pb-3">
@@ -152,11 +153,4 @@ British Computer Society BCS, 25 Copthall Avenue, London EC2R 7BP 
     });
 </script>
 
-## Meeting Location
-
-The BCS has moved, the meeting will take place at: 
-
-British Computer Society (BCS), 25 Copthall Avenue, London EC2R 7BP 
-
-{% include bcs-map.html %}
-
+--->
