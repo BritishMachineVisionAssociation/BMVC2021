@@ -32,6 +32,15 @@ After the meeting the organisers prepare a short summary of the meeting.
 
 This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-09-25.pdf %})
 
+## Photos from the day
+
+Below are four photos to give youa favour of the day 
+
+![Pic1](/assets/images/events/19-09-25-Video_Understanding_Pic1.jpg)
+![Pic2](/assets/images/events/19-09-25-Video_Understanding_Pic2.jpg)
+![Pic3](/assets/images/events/19-09-25-Video_Understanding_Pic3.jpg)
+![Pic4](/assets/images/events/19-09-25-Video_Understanding_Pic4.jpg)
+
 ## Programme
 
 New models for video understanding remain a bottleneck for research despite the increase in the number of large-scale video datasets. The symposium’s objective is to share the latest research, but also feedback to the community about the major challenges, and plan for an ongoing collaboration on video understanding beyond the simplified concept of classification of trimmed videos.  
