@@ -28,6 +28,8 @@ PDF files of many of the back-issues of the BMVA newsletter can be found below.
 
 |&nbsp;&nbsp;&nbsp;Year&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Q1&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Q2&nbsp;&nbsp;&nbsp; | Q3&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Q4&nbsp;&nbsp;&nbsp; |
 |:-:|:-:|:-:|:-:|:-:|
+| 2019 | [Mar](http://www.bmva.org/bmva-news/2019-03.pdf) |  |  |  |
+| 2018 | [Mar](http://www.bmva.org/bmva-news/2018-03.pdf) | [Jun](http://www.bmva.org/bmva-news/2018-06.pdf) | [Sep](http://www.bmva.org/bmva-news/2018-09.pdf) | [Dec](http://www.bmva.org/bmva-news/2018-12.pdf) |
 | 2017 | [Mar](http://www.bmva.org/bmva-news/2017-03.pdf) | [Jun](http://www.bmva.org/bmva-news/2017-06.pdf) | [Sep](http://www.bmva.org/bmva-news/2017-09.pdf) | [Dec](http://www.bmva.org/bmva-news/2017-12.pdf) |
 | 2016 | [Mar](http://www.bmva.org/bmva-news/2016-03.pdf) | [Jun](http://www.bmva.org/bmva-news/2016-06.pdf) | [Sep](http://www.bmva.org/bmva-news/2016-09.pdf) | [Dec](http://www.bmva.org/bmva-news/2016-12.pdf) |
 | 2015 | [Mar](http://www.bmva.org/bmva-news/2015-03.pdf) | [Jun](http://www.bmva.org/bmva-news/2015-06.pdf) | [Sep](http://www.bmva.org/bmva-news/2015-09.pdf) | [Dec](http://www.bmva.org/bmva-news/2015-12.pdf) |
