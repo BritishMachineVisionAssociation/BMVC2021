@@ -17,7 +17,7 @@ The call for Papers can be downloaded from [here]({{ site.baseurl }}{% link asse
 --->
 
 ## Videos of Talks
-On our BMVA youtube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/watch?v=uMZ_avMVUgM&list=PLW8VWHVjepItdBf7nDvs5MVMRZrF_l3jO)
+On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/watch?v=uMZ_avMVUgM&list=PLW8VWHVjepItdBf7nDvs5MVMRZrF_l3jO)
 
 <div class="container">
 	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
@@ -34,7 +34,7 @@ This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingrepo
 
 ## Photos from the day
 
-Below are four photos to give youa favour of the day 
+Below are four photos to give you a favour of the day 
 
 ![Pic1](/assets/images/events/19-09-25-Video_Understanding_Pic1.jpg)
 ![Pic2](/assets/images/events/19-09-25-Video_Understanding_Pic2.jpg)

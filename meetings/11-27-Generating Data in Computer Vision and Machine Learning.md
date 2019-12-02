@@ -15,33 +15,55 @@ Thomas Kustner, Guang Yang, Emanuele Sansone
 
 ## Programme
 
-Generative networks have been at the forefront of research in Computer Vision and Machine Learning in the last couple of years. Generative Networks have achieved impressive results for many real-world applications. As an active research topic, many GAN variants have emerged with improvements in sample quality and training stability. These novel techniques in synthesising have come to the fore and have been used for image generation, image processing, image synthesis from captions, image editing, visual domain adaptation, data generation for visual recognition, and many other applications, often leading to state of the art results. This BMVA Symposium looks to bring together those who have a focus or interest in Generative network such as GANs and VAEs for a day of talks previewing novel and exciting research in the area.
+Generative networks have been at the forefront of research in Computer Vision and Machine Learning in the last couple of years. Generative Networks have achieved impressive results for many real-world applications. As an active research topic, many GAN variants have emerged with improvements in sample quality and training stability. These novel techniques in synthesising have come to the fore and have been used for image generation, image processing, image synthesis from captions, image editing, visual domain adaptation, data generation for visual recognition, and many other applications, often leading to state of the art results. This BMVA Symposium brought together those who have a focus or interest in Generative network such as GANs and VAEs for a day of talks previewing novel and exciting research in the area.
 
-09:15 - 10:00 - **Keynote: Thomas Kustner (Imperial College London)**
+## Meeting Report
+After the meeting the organisers prepared a short summary of the meeting.
 
-10:05 - 10:25 - Learning Generative 3D Face Models with Deep Disentangled Representations - **Victoria Fernandez Abrevaya**
+This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-11-27.pdf %})
 
-10:45 - 11:05 - Nonparametric Models and Uncertainty Propagation in Generative Deep Networks - **Neill Campbell**
+## Videos of Talks
+On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/watch?v=uMZ_avMVUgM&list=PLW8VWHVjepItIBW64vA8lOJxlNmBAIvTy)
 
-10:55 - 11:10 - Coffee Break
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
+		<div class="video-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepItIBW64vA8lOJxlNmBAIvTy " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div></div>
+</div>
 
-11:15 - 12:00 - **Keynote: Guang Yang (Imperial College London)**
+## Programme
 
-12:05 - 12:25 - Generative System to Assist the Artist in the Choice of 3D Composition for a Still Life Painting - **Guido Salimbeni**
+09:30 - 10:20 - **Keynote: Thomas Kustner (Imperial College London)**
 
-12:30 - 12:50 - On extending time validity of deep learning models with generative adversarial approach: An application to malware detection case - **Katrina Mayer**
+10:20 - 10:40 - Generative System to Assist the Artist in the Choice of 3D Composition for a Still Life Painting - **Guido Salimbeni**
 
-14:00 - 14:20 - HoloGAN: Unsupervised learning of 3D representations from natural images  - **Thu Nguyen-Phuoc**
+10:40 - 11:00 - AI & Auto Colourisation - Black & White to Colour with Generative Adversarial Networks - **Marc Górriz Blanch**
 
-14:25 - 14:45 -Learning Human Reconstruction from Synthetic Dataset - **Akin Caliskan**
+11:00 - 11:20 - Coffee Break
 
-15:10 - 15:30 - AI & Auto Colourisation - Black & White to Colour with Generative Adversarial Networks - **Marc Górriz Blanch**
+11:20 - 11:50 - **Keynote: Guang Yang (Imperial College London)**
 
-15:35 - 15:55 - SymbolGAN and Deep Style Transfer - **Chaozheng Wang**  
+11:50 - 12:10 - Nonparametric Models and Uncertainty Propagation in Generative Deep Networks - **Neill Campbell**
 
-15:55 - 16:15 - Gated Variational AutoEncoders: Incorporating Weak Supervision to Encourage Disentanglement - **Matthew J. Vowels**
+12:10 - 12:30 - HoloGAN: Unsupervised learning of 3D representations from natural images  - **Thu Nguyen-Phuoc**
 
-16:15 - 17:00  **Keynote: Emanuele Sansone (Huawei Technologies)**
+12:30 - 13:30 - Lunch
+
+13:30 - 13:50 - Gated Variational AutoEncoders: Incorporating Weak Supervision to Encourage Disentanglement - **Matthew J. Vowels**
+
+13:50 - 14:40 - **Keynote: Alison Lowdnes (Nvidia)**
+
+14:40 - 15:00 -Learning Human Reconstruction from Synthetic Dataset - **Akin Caliskan**
+
+15:00 - 15:20 - Coffee Break
+
+15:20 - 15:40 - Learning Generative 3D Face Models with Deep Disentangled Representations - **Victoria Fernandez Abrevaya**
+
+15:40 - 16:00 - SymbolGAN and Deep Style Transfer - **Chaozheng Wang**  
+
+16:00 - 17:00  **Keynote: Emanuele Sansone (Huawei Technologies)**
 
 ## Meeting Location
 
