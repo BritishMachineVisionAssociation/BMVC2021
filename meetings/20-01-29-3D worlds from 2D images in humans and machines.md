@@ -21,7 +21,7 @@ When humans view a photograph they perceive the 3D world that constructed the im
 
 Papers are invited covering aspects of 3D scene perception in humans and 3D uplift in machines including whole scene perception / uplift, object and body pose perception / uplift. Abstracts are not published and re-presentation of previous work is acceptable. <https://forms.gle/Fs4fyV84H4CysMKY9>
 
-## Call for Papers pdf
+## Call for Papers 
 
 A copy of the call for papers can be found [here]({{ site.baseurl }}{% link assets/events/20-01-29Call.pdf %}).
 
