@@ -13,9 +13,23 @@ organisers: Andrew Schofield, Aston University. Richard Bowden, University of Su
 
 James Elder. Professor of Human and Computer Vision, York University, Toronto.
 
-## Call for Papers
+## Programme
 
 When humans view a photograph they perceive the 3D world that constructed the image. They can, for example, describe the depth relationships between objects, plan a route through the scene and imagine the scene from a different viewpoint. This process is automatic and compulsive. For example, even though humans possess size constancy they will readily misinterpret the size of a person in order to make sense of the rest of the scene as a 3D world.  State of the art computer vision systems are now also very good at reconstructing 3D layout from 2D images (3D uplift) although, unlike humans, this is often restricted to specific domains or requires multiple views. This workshop will consider recent developments in 3D uplift as well as our current knowledge of scene understanding in human vision.
+
+10:00 - Registration and Coffee
+10:30 - **Keynote talk James Elder, York University, Canada**
+11:30 - **Will Smith**, University of York, Self-supervised shape from shading and inverse rendering in the wild
+11:50 - **Rebecca Lawson**, University of Liverpool, Size perception for real, 3D objects and for 2D images on a specified plane
+12:10 - **Paul Linton**, City, University of London, Does Human Vision Triangulate Absolute Distance?
+12:30 Lunch
+13:30 - **Keynote talk Johannes Burge, University of Pennsylvania**
+14:30 - **Dhanraj Vishwanath**, University of St Andrews, What constitutes the perception of pictorial depth?
+14:50 - **Robert Black**, RealSpace, 'Paradoxical' Bi-Ocular Stereoscopy - 25 years on
+15:10 Coffee
+15:40 **Keynote TBA**
+
+
 
 ## Submission Deadline 22nd November
 
@@ -23,7 +37,7 @@ Papers are invited covering aspects of 3D scene perception in humans and 3D upli
 
 ## Call for Papers 
 
-A copy of the call for papers can be found [here]({{ site.baseurl }}{% link assets/events/20-01-29Call.pdf %}).
+A copy of the Programme can be found [here]({{ site.baseurl }}{% link assets/events/20-01-29Programme.pdf %}).
 
 ## Meeting Location
 
