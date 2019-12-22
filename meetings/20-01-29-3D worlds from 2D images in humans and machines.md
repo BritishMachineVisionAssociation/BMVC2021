@@ -12,6 +12,7 @@ organisers: Andrew Schofield, Aston University. Richard Bowden, University of Su
 ## Keynote Speaker
 
 James Elder. Professor of Human and Computer Vision, York University, Toronto.
+Johannes Burge, University of Pennsylvania
 
 ## Programme
 
