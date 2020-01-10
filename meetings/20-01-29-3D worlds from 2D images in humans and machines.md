@@ -13,6 +13,7 @@ organisers: Andrew Schofield, Aston University. Richard Bowden, University of Su
 
 James Elder. Professor of Human and Computer Vision, York University, Toronto.
 Johannes Burge, University of Pennsylvania
+Lourdes Agapito, University College London.
 
 ## Programme
 
@@ -20,32 +21,40 @@ When humans view a photograph they perceive the 3D world that constructed the im
 
 10:00 - Registration and Coffee
 
-10:30 - **Keynote talk James Elder, York University, Canada**
+10:30 - **Andrew Schofield,** Aston University, Welcome and Introduction
 
-11:30 - **Will Smith**, University of York, Self-supervised shape from shading and inverse rendering in the wild
+10:35 - **Wendy Adams,** University of Southampton, The Southampton & York Natural image Dataset
 
-11:50 - **Rebecca Lawson**, University of Liverpool, Size perception for real, 3D objects and for 2D images on a specified plane
+10:45 - **Keynote talk James Elder,** York University, Canada
 
-12:10 - **Paul Linton**, City, University of London, Does Human Vision Triangulate Absolute Distance?
+11:30 - **Rebecca Lawson, University of Liverpool, Size perception for real, 3D objects and for 2D images on a specified plane
+
+11:50 - **Paul Linton,** City, University of London, Does Human Vision Triangulate Absolute Distance?
+
+12:10 - **Brian Rogers,** University of Oxford, 3D worlds from 2D images: a mistaken conception
 
 12:30 Lunch
 
-13:30 - **Keynote talk Johannes Burge, University of Pennsylvania**
+13:30 - **Keynote talk Johannes Burge,** University of Pennsylvania
 
-14:30 - **Dhanraj Vishwanath**, University of St Andrews, What constitutes the perception of pictorial depth?
+14:20 - **Dhanraj Vishwanath,** University of St Andrews, What constitutes the perception of pictorial depth?
 
-14:50 - **Robert Black**, RealSpace, 'Paradoxical' Bi-Ocular Stereoscopy - 25 years on
+14:40 - **Robert Black,** RealSpace, ‘Paradoxical’ Bi-Ocular Stereoscopy - 25 years on
 
-15:10 Coffee
+15:00 – Coffee
 
-15:40 **Keynote TBA**
+15:20 **Keynote talk Lourdes Agapito,** University College London.
+
+16:10 **Will Smith,** University of York, Self-supervised shape from shading and inverse rendering in the wild  
+
+16:30 **Oisin Mac Aodha,** University of Edinburgh, Digging into Monocular Depth Estimation
 
 
 A copy of the Programme can be found [here]({{ site.baseurl }}{% link assets/events/20-01-29Programme.pdf %}).
 
 ## Meeting Location
 
-The BCS has moved, the meeting will take place at:
+The BCS  moved in September, the meeting will take place at:
 
 British Computer Society (BCS), 25 Copthall Avenue, London EC2R 7BP
 
