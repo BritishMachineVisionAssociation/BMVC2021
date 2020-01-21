@@ -27,7 +27,7 @@ When humans view a photograph they perceive the 3D world that constructed the im
 
 10:45 - **Keynote talk James Elder,** York University, Canada
 
-11:30 - **Rebecca Lawson, University of Liverpool, Size perception for real, 3D objects and for 2D images on a specified plane
+11:30 - **Rebecca Lawson**, University of Liverpool, Size perception for real, 3D objects and for 2D images on a specified plane
 
 11:50 - **Paul Linton,** City, University of London, Does Human Vision Triangulate Absolute Distance?
 
