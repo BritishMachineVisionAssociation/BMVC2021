@@ -15,6 +15,26 @@ James Elder. Professor of Human and Computer Vision, York University, Toronto.
 Johannes Burge, University of Pennsylvania
 Lourdes Agapito, University College London.
 
+## Meeting Report
+
+After the meeting the organisers prepared a short summary of the meeting.
+**Coming Soon**
+<!--
+This can be found [here]({{ site.baseurl }}{% link assets/events/bmvameetingreport-19-11-27.pdf %})
+!-->
+
+## Videos of Talks
+
+On our BMVA YouTube channel there are recorded talks of the slides and speaker from the day [here](https://www.youtube.com/playlist?list=PLW8VWHVjepIsuKddDZmImJJ2vAqDcBQNO)
+
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-lg-10 mx-auto">
+		<div class="video-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLW8VWHVjepIsuKddDZmImJJ2vAqDcBQNO " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div></div>
+</div>
+
 ## Programme
 
 When humans view a photograph they perceive the 3D world that constructed the image. They can, for example, describe the depth relationships between objects, plan a route through the scene and imagine the scene from a different viewpoint. This process is automatic and compulsive. For example, even though humans possess size constancy they will readily misinterpret the size of a person in order to make sense of the rest of the scene as a 3D world.  State of the art computer vision systems are now also very good at reconstructing 3D layout from 2D images (3D uplift) although, unlike humans, this is often restricted to specific domains or requires multiple views. This workshop will consider recent developments in 3D uplift as well as our current knowledge of scene understanding in human vision.
