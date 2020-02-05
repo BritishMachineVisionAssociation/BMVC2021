@@ -33,7 +33,7 @@ Other topics within the broadly applicable domain of localization and spatial aw
 
 ## Submission Deadline 
 
-Papers are invited covering aspects of Localization and Spatial Awareness in Computer Vision. Abstracts are not published and re-presentation of previous work is acceptable. Please submit a title and abstract via https://forms.gle/6ZQd9KM5ABqWfm958 by 18th March.
+Papers are invited covering aspects of Localization and Spatial Awareness in Computer Vision. Abstracts are not published and re-presentation of previous work is acceptable. Please submit a title and abstract via <https://forms.gle/6ZQd9KM5ABqWfm958> by 18th March.
 
 ## Meeting Location
 
@@ -100,3 +100,5 @@ British Computer Society (BCS), 25 Copthall Avenue, London EC2R 7BP
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
+
+
