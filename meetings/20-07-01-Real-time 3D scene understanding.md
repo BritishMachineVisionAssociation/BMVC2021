@@ -84,3 +84,4 @@ British Computer Society (BCS), 25 Copthall Avenue, London EC2R 7BP
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
+Register for a ticket here [here](<https://www.eventbrite.co.uk/e/bmva-symposium-localization-and-spatial-awareness-in-computer-vision-registration-91995660497>)
