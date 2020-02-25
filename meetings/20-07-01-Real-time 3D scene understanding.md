@@ -5,19 +5,24 @@ title: "Real-time 3D scene understanding. (1st July 2020)"
 index: 1
 date: 2020-07-01
 meeting-title: "Real-time 3D scene understanding"
-image: placeholder.png
+image: 20-07-01_SceneUnderstanding.png
 organisers: Mihai Bujanca (Manchester University) Horia Porav (University of Oxford)
 ---
 
 ## Keynote Speaker
-Andrew Davison
+Andrew Davison (Imperial College London) & Davide Scaramuzza (University of Zurich)
 ## Call for Papers
 
-Coming soon
+In 2015, a BMVA meeting named “Real-time 3D scene understanding in year 2020“ took place.  Tremendous efforts have been devoted to 3D scene understanding over the last decade. Due to their success, a broad range of critical applications like 3D navigation, home robotics, and virtual/augmented reality have been made possible already or are within reach. These applications have drawn the attention and increased aspirations of researchers from the field of computer vision, computer graphics, and robotics. 
+This meeting will look at the various aspects of 3D scene understanding, from reconstruction and parsing of 3D scenes, to interaction, data representation, and modelling agents in the scene. Starting from the predictions made in the 2015 meeting, we will look at the past, present, and future of 3D scene understanding. The discussion will be focused around the most promising research directions, and what the state-of-the-art might be in 2025.
+
 
 ## Submission Deadline 
 
-Papers are invited covering aspects of Real-time 3D scene understanding in Computer Vision. Abstracts are not published and re-presentation of previous work is acceptable.
+We wish to encourage submissions from students as well as academic and industry researchers in the area. Abstracts are not published and re-presentation of previous work is acceptable. All those interested in presenting at this meeting are invited to submit a summary of their talk by 
+22th April 2020 at: 
+<https://forms.gle/vWJytu5NkHcJpXnGA>
+
 
 ## Meeting Location
 
