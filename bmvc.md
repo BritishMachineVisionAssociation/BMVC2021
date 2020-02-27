@@ -6,11 +6,80 @@ permalink: /bmvc
 
 ## The British Machine Vision Conference (BMVC)
 
-[BMVC 2019](https://bmvc2019.org/) will be held in Cardiff on 9th — 12th September 2019.
+[BMVC 2020](http://www.bmvc2020.com/) will be held in Manchester on 7th — 11th September 2020.
 
+<!--
 <p style="pb-2">
-<a href="https://bmvc2019.org/"><img src="{{ site.baseurl }}/assets/images/events/bmvc2019.png" class="img-fluid rounded mx-auto d-block" style="max-width: 250px;" alt="BMVC 2019 Logo"></a>
+<a href="http://www.bmvc2020.com/"><img src="{{ site.baseurl }}/assets/images/events/bmvc2020-banner.png" class="img-fluid rounded mx-auto d-block" style="" alt="BMVC 2020 Logo"></a>
 </p>
+-->
+
+<div class="row pb-2" id="">
+    <div class="text-center mx-auto" style="position: relative;">
+        <img src="{{ site.baseurl }}/assets/images/events/bmvc2020-banner.png" alt="" class="img-fluid rounded mx-auto d-block">
+        <div style="position: absolute; top: 35%; left: 0; width: 100%;">
+            <h1 class="pb-3 pt-3" style="color: white; background-color: #0000006F; ">BMVC Manchester 2020</h1>
+        </div>
+    </div>
+</div>
+
+
+### Timeline
+
+
+<div class="row pl-4 pr-4 pt-2 pb-2">
+<table style="width:100%;" class="table">
+<colgroup>
+<col width="30%" />
+<col width="30%" />
+</colgroup>
+<thead class="thead-dark">
+<tr class="header sticky-top" style="top: 56px;">
+<th scope="col" align="center">Deadline</th>
+<th scope="col" align="center">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Workshop Proposals</td>
+<td align="left">Thursday 2nd April</td>
+</tr>
+<tr class="even">
+<td align="left">Paper Abstracts</td>
+<td align="left">Thursday 23rd April</td>
+</tr>
+<tr class="odd">
+<td align="left">Paper Submission</td>
+<td align="left">Thursday 30th April</td>
+</tr>
+<tr class="even">
+<td align="left">Reviews Submitted</td>
+<td align="left">Thursday 4th June</td>
+</tr>
+<tr class="odd">
+<td align="left">Area Chair Decisions</td>
+<td align="left">Thursday 25th June</td>
+</tr>
+<tr class="even">
+<td align="left">Author Notifications</td>
+<td align="left">Thursday 2nd July</td>
+</tr>
+<tr class="odd">
+<td align="left">Camera Ready Submission</td>
+<td align="left">Thursday 23rd July</td>
+</tr>
+<tr class="even">
+<td align="left">Conference</td>
+<td align="left">7th - 11th September</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+
+
+
 
 ### Proposals to Host a Future BMVC
 
@@ -26,6 +95,7 @@ The BMVC proceedings style files are available on [GitHub](https://github.com/Br
 The online proceedings for past conferences are available:
 
 <ul>
+<li><a href="https://bmvc2019.org/">BMVC 2019</a>, Cardiff</li>
 <li><a href="http://www.bmva.org/bmvc/2018/index.html">BMVC 2018</a>, Northumbria</li>
 <li><a href="http://www.bmva.org/bmvc/2017/index.html">BMVC 2017</a>, London</li>
 <li><a href="http://www.bmva.org/bmvc/2016/index.html">BMVC 2016</a>, York</li>
