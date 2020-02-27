@@ -109,7 +109,7 @@ Topics include, but are not limited to:
 -  3D computer vision
 -  RGBD analysis
 
-Accepted papers will be included the conference proceedings published and DOI indexed by BMVA. Past proceedings can be found online [here]({{ site.baseurl }}/bmvc/). Prospective authors can have a look at the [2019 edition](https://bmvc2019.org/programme/), as an example.
+Accepted papers will be included the conference proceedings published and DOI indexed by BMVA. Past proceedings can be found online [here]({{ site.baseurl }}/bmvc). Prospective authors can have a look at the [2019 edition](https://bmvc2019.org/programme/), as an example.
 
 The abstract deadline is Thursday 23rd April 2020 and the paper submission deadline is Thursday 30th April 2020 (both 23:59, Pacific Time). 
 
