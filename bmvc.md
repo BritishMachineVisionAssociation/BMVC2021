@@ -76,7 +76,55 @@ permalink: /bmvc
 </table>
 </div>
 
+### Call for Papers
 
+The British Machine Vision Conference (BMVC) is one of the major international conferences on computer vision and related areas. It is organised by the British Machine Vision Association (BMVA). The 31st BMVC will be held in Manchester, 7th—11th Sept 2020.
+
+Authors are invited to submit full-length high-quality papers in image processing, machine vision, and related areas for 2020 British Machine Vision Conference. Submitted papers will be refereed on their originality, presentation, empirical results, and quality of evaluation.
+
+All papers will be reviewed doubly blind, normally by three members of our international programme committee. Please note that BMVC is a single track meeting with oral and poster presentations and will include three keynote presentations and two tutorials.
+
+**Please Note**: In keeping with conferences in the field (e.g. [NeurIPS](https://medium.com/@NeurIPSConf/getting-started-with-neurips-2020-e350f9b39c28)) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers and make use of a compulsory abstract submission deadline a week before the paper submission deadline. The CMT submission site will ask authors to acknowledge this commitment and failure to engage with the reviewing process might be grounds for rejection.
+
+Topics include, but are not limited to:
+
+-  Statistics and machine learning for vision
+-  Stereo, calibration, geometric modelling and processing
+-  Face and gesture recognition
+-  Early and biologically inspired vision
+-  Motion, flow and tracking
+-  Segmentation and grouping
+-  Model-based vision
+-  Image processing techniques and methods
+-  Texture, shape and colour
+-  Video analysis
+-  Document processing and recognition
+-  Vision for quality assurance, medical diagnosis, etc.
+-  Vision for visualisation, interaction, and graphics
+-  Object detection and recognition
+-  Shape-from-X
+-  Video analysis for action and event recognition
+-  Illumination and reflectance
+-  Deep learning for vision
+-  3D computer vision
+-  RGBD analysis
+
+Accepted papers will be included the conference proceedings published and DOI indexed by BMVA. Past proceedings can be found online [here]({{ site.baseurl }}/bmvc/). Prospective authors can have a look at the [2019 edition](https://bmvc2019.org/programme/), as an example.
+
+The abstract deadline is Thursday 23rd April 2020 and the paper submission deadline is Thursday 30th April 2020 (both 23:59, Pacific Time). 
+
+Selected best papers are invited to a special issue of the International Journal of Computer Vision (IJCV) for BMVC 2020 Best Papers.
+
+Any queries to the Programme Chairs should be sent to [bmvc-2020-pc@lists.bath.ac.uk](mailto:bmvc-2020-pc@lists.bath.ac.uk).
+
+The BMVC 2020 Programme Chairs are:
+- Neill Campbell (University of Bath)
+- Lourdes Agapito (University College London)
+- William Smith (University of York)
+- Martin Fergie (University of Manchester)
+- Moi Hoon Yap (Manchester Metropolitan University)
+
+A PDF version of this call for papers may be downloaded [here]({{ site.baseurl }}/assets/events/bmvc2020cfp.pdf).
 
 
 
