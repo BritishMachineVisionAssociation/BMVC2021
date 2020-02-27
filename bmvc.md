@@ -8,20 +8,22 @@ permalink: /bmvc
 
 [BMVC 2020](http://www.bmvc2020.com/) will be held in Manchester on 7th — 11th September 2020.
 
-<!--
 <p style="pb-2">
-<a href="http://www.bmvc2020.com/"><img src="{{ site.baseurl }}/assets/images/events/bmvc2020-banner.png" class="img-fluid rounded mx-auto d-block" style="" alt="BMVC 2020 Logo"></a>
+<a href="http://www.bmvc2020.com/"><img src="{{ site.baseurl }}/assets/images/events/bmvc2020.png" class="img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="BMVC 2020 Logo"></a>
 </p>
--->
 
+
+<!--background-color: #0000006F; "-->
+<!--
 <div class="row pb-2" id="">
     <div class="text-center mx-auto" style="position: relative;">
         <img src="{{ site.baseurl }}/assets/images/events/bmvc2020-banner.png" alt="" class="img-fluid rounded mx-auto d-block">
-        <div style="position: absolute; top: 35%; left: 0; width: 100%;">
-            <h1 class="pb-3 pt-3" style="color: white; background-color: #0000006F; ">BMVC Manchester 2020</h1>
+        <div style="position: absolute; top: 30%; left: 0; width: 100%;">
+            <a href="http://www.bmvc2020.com/"><img src="{{ site.baseurl }}/assets/images/events/bmvc2020.png" class="pb-3 pt-3 img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="BMVC 2020 Logo"></a>
         </div>
     </div>
 </div>
+-->
 
 
 ### Timeline
