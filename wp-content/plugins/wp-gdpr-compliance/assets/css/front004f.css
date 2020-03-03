@@ -396,6 +396,7 @@ div.wpgdprc-consent-modal footer.wpgdprc-consent-modal__footer {
 }
 
 @media only screen and (min-width: 768px) {
+
     div.wpgdprc-consent-modal nav.wpgdprc-consent-modal__navigation,
     div.wpgdprc-consent-modal div.wpgdprc-consent-modal__information {
         float: left;
@@ -421,6 +422,7 @@ abbr.wpgdprc-required + abbr.required {
     from {
         opacity: 0;
     }
+
     to {
         opacity: 1;
     }
@@ -430,6 +432,7 @@ abbr.wpgdprc-required + abbr.required {
     from {
         opacity: 1;
     }
+
     to {
         opacity: 0;
     }

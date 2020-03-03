@@ -13,7 +13,8 @@
     var _readCookie = function (name) {
             if (name) {
                 for (var e = encodeURIComponent(name) + '=', o = document.cookie.split(';'), r = 0; r < o.length; r++) {
-                    for (var n = o[r]; ' ' === n.charAt(0);) {
+                    for (var n = o[r];
+                        ' ' === n.charAt(0);) {
                         n = n.substring(1, n.length);
                     }
                     if (n.indexOf(e) === 0) {
@@ -242,10 +243,10 @@
             var _getTargetByPlacement = function (placement) {
                     var output;
                     switch (placement) {
-                        case 'head' :
+                        case 'head':
                             output = document.head;
                             break;
-                        case 'body' :
+                        case 'body':
                             output = document.querySelector('#wpgdprc-consent-body');
                             if (output === null) {
                                 var bodyElement = document.createElement('div');
@@ -254,7 +255,7 @@
                                 output = '#' + bodyElement.id;
                             }
                             break;
-                        case 'footer' :
+                        case 'footer':
                             output = document.body;
                             break;
                     }
