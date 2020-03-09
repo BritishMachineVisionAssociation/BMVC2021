@@ -125,6 +125,7 @@ The BMVC 2020 Programme Chairs are:
 - William Smith (University of York)
 - Martin Fergie (University of Manchester)
 - Moi Hoon Yap (Manchester Metropolitan University)
+- Oisin Mac Aodha (University of Edinburgh)
 
 A PDF version of this call for papers may be downloaded [here]({{ site.baseurl }}/assets/events/bmvc2020cfp.pdf).
 
