@@ -1,13 +1,18 @@
 ---
 layout: meeting
 type: One Day Meeting
-title: "Localization and Spatial Awareness in Computer Vision. (27th May 2020)"
+title: "POSTPONED Localization and Spatial Awareness in Computer Vision. (27th May 2020) **POSTPONED"
 index: 1
 date: 2020-05-27
-meeting-title: "Localization and Spatial Awareness in Computer Vision"
+meeting-title: "POSTPONED** Localization and Spatial Awareness in Computer Vision **POSTPONED"
 image: 20-05-27 Localization.png
 organisers: Toby Breckon - Durham, Khalid Ismail - Durham, Andrew Calway - Bristol, Tim Lukins - Machines with Vision
 ---
+
+## This meeting has been postponed until the autumn
+
+When a new data has been set we will advertise the meeting again
+
 
 A copy of the Call for Papers can be found [here]({{ site.baseurl }}{% link assets/events/20-05-27Call.pdf %}).
 ## Call for Papers
