@@ -17,3 +17,15 @@
   date: 2019-07-24
   image: miua2019.png
   link: https://miua2019.com
+
+- type: BMVC Conference
+  title: BMVC 2020 in Manchester
+  date: 2020-09-07
+  image: bmvc2020.png
+  link: /bmvc
+
+- type: Deadline
+  title: BMVC Paper Deadline
+  date: 2020-04-30
+  image: bmvc2020.png
+  link: /bmvc
