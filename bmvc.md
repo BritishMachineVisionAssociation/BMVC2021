@@ -78,6 +78,43 @@ permalink: /bmvc
 </table>
 </div>
 
+
+### FAQ
+
+<div class="row pl-4 pr-4 pt-2 pb-2">
+<table class="table table-striped table-bordered">
+  <!--<thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>-->
+  <tbody>
+    <tr><th scope="row">Is BMVC 2020 still on?</th></tr>
+    <tr><td>Yes. BMVC is in mid September and we can expect a lot of news between now and then.</td></tr>
+
+    <tr><th scope="row">Will the paper submission deadline or other main conference deadlines be extended because of COVID-19?</th></tr>
+    <tr><td>We have no plan to extend the deadline.</td></tr>
+
+    <tr><th scope="row">Will all authors on a paper need to make themselves available as reviewers?</th></tr>
+    <tr><td>Our expectation is that the majority of authors should make themselves available as reviewers. At the time of abstract submission on CMT (a week before the paper deadline) the author list should be entered on CMT and an option will be available for authors to indicate which authors will be able to review - requests for certain authors to not be considered as reviewers can also be entered with a suitable justification. For example, junior researchers (e.g. early PhD and below) or authors who are not computer vision researchers (e.g. providing domain expertise for experiments) would be considered reasonable justification.</td></tr>
+
+    <tr><th scope="row">How will presentations be handled for authors that cannot get a travel visa or for which there is a COVID-19 travel ban?</th></tr>
+    <tr><td>No author will be disadvantaged due to restrictions on travel. Accepted papers will still be published subject to authors satisfying registration and presentation requirements. We are investigating options, e.g. remote presentations, and will provide more information in the coming months.</td></tr>
+
+    <tr><th scope="row">Will there be support for remote attendance/registration?</th></tr>
+    <tr><td>Remote attendance options are currently being explored and updates will be posted on the website when we have them.</td></tr>
+
+    <!--<tr><th scope="row">What is the refund policy if people cannot attend?</th></tr>
+    <tr><td>More information will be available once conference registration is open.</td></tr>-->
+
+  </tbody>
+</table>
+</div>
+
+
 ### Call for Papers
 
 The British Machine Vision Conference (BMVC) is one of the major international conferences on computer vision and related areas. It is organised by the British Machine Vision Association (BMVA). The 31st BMVC will be held in Manchester, 7th—11th Sept 2020.

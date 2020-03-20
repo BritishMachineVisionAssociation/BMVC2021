@@ -594,11 +594,11 @@ permalink: /bmvc/statistics/
 </table>
 
 ----
-<sup>*</sup> Residential, non-student, including tutorial, all meals (inc banquet), and 3 nights b&b\\
-<sup>+</sup> Papers with any UK author\\
-<sup>†</sup> Papers with any non-UK author\\
-Note that the above two may sum to more than 100%.  "~" entries are computed as 100-the other.\\
-<sup>!</sup> Non Residential\\
+<sup>*</sup> Residential, non-student, including tutorial, all meals (inc banquet), and 3 nights B&B<br/>
+<sup>+</sup> Papers with any UK author<br/>
+<sup>†</sup> Papers with any non-UK author<br/>
+Note that the above two may sum to more than 100%.  "~" entries are computed as 100-the other.<br/>
+<sup>!</sup> Non-residential
 
 ## BMVC Invited Speakers and Tutorials
 
@@ -654,7 +654,7 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <td align="right">2012</td>
 <td align="left">Surrey</td>
 <td align="left">J Matas, S Sclaroff</td>
-<td align="left">H JÃ©gou, P Kohli</td>
+<td align="left">H Jégou, P Kohli</td>
 </tr>
 <tr class="odd">
 <td align="right">2011</td>
@@ -713,7 +713,7 @@ Note that the above two may sum to more than 100%.  "~" entries are computed as 
 <tr class="even">
 <td align="right">2002</td>
 <td align="left">Cardiff</td>
-<td align="left">Y Aloimonos, V HlavÃ¡c</td>
+<td align="left">Y Aloimonos, V Hlaváč</td>
 <td align="left">M Trucco</td>
 </tr>
 <tr class="odd">
