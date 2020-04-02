@@ -42,10 +42,10 @@ permalink: /bmvc
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<!--<tr class="odd">
 <td align="left">Workshop Proposals</td>
 <td align="left">Thursday 2nd April</td>
-</tr>
+</tr>-->
 <tr class="even">
 <td align="left">Paper Abstracts</td>
 <td align="left">Thursday 23rd April</td>
