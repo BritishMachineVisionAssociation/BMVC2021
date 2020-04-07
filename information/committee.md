@@ -17,16 +17,16 @@ The current ExCo is as follows:
 
 | Office | Person |
 |:-------|:-------|
-| Chairman | Dr Adrian Clark (E18) |
+| Chairman | Dr Neill Campbell (E19) |
 | Treasurer and Company Secretary&nbsp;&nbsp;&nbsp;| Prof Toby Breckon (E18) |
 | Membership secretary | Dr Helen Cooper |
 | ExCo Meetings secretary | Dr Helen Cooper |
-| IAPR representatives | Prof Majid Mirmehdi (E17) |
+| IAPR representatives | Prof Majid Mirmehdi (E19) |
 | | Prof Robert Fisher (co-opt) |
 | Meetings coordinator | Dr Andrew Gilbert (E18) |
-| Newsletter editor | Prof Roy Davies (E17) |
+| Newsletter editor | Prof Roy Davies (E19) |
 | Social media | |
-| Website | Dr Neill Campbell (E17) |
+| Website | Dr Neill Campbell (E19) |
 | Industrial liaison | Dr Stephen Pollard (co-opt) |
 | Bursaries | Prof Lourdes Agapito (co-opt) |
 | Thesis archive | Dr Adrian Clark |
