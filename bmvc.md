@@ -28,6 +28,7 @@ permalink: /bmvc
 
 ### Timeline
 
+<p align="center"><strong>Please note all deadlines are at 11:59 PT.</strong></p>
 
 <div class="row pl-4 pr-4 pt-2 pb-2">
 <table style="width:100%;" class="table">
@@ -56,21 +57,25 @@ permalink: /bmvc
 </tr>
 <tr class="even">
 <td align="left">Reviews Submitted</td>
-<td align="left">Thursday 4th June</td>
+<td align="left">Thursday 18th June</td>
 </tr>
 <tr class="odd">
-<td align="left">Area Chair Decisions</td>
-<td align="left">Thursday 25th June</td>
-</tr>
-<tr class="even">
-<td align="left">Author Notifications</td>
+<td align="left">Author Rebuttals Submitted</td>
 <td align="left">Thursday 2nd July</td>
 </tr>
-<tr class="odd">
-<td align="left">Camera Ready Submission</td>
+<tr class="even">
+<td align="left">Area Chair Decisions</td>
 <td align="left">Thursday 23rd July</td>
 </tr>
+<tr class="odd">
+<td align="left">Author Notifications</td>
+<td align="left">Thursday 27th July</td>
+</tr>
 <tr class="even">
+<td align="left">Camera Ready Submission</td>
+<td align="left">Thursday 13th August</td>
+</tr>
+<tr class="odd">
 <td align="left">Conference</td>
 <td align="left">7th - 11th September</td>
 </tr>
