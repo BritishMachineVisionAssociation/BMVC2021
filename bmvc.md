@@ -28,7 +28,7 @@ permalink: /bmvc
 
 ### Timeline
 
-<p align="center"><strong>Please note all deadlines are at 11:59 PT.</strong></p>
+<p align="center"><strong>Please note all deadlines are at 23:59 PT.</strong></p>
 
 <div class="row pl-4 pr-4 pt-2 pb-2">
 <table style="width:100%;" class="table">
