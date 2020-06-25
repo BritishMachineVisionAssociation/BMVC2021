@@ -6,7 +6,7 @@ permalink: /bmvc
 
 ## The British Machine Vision Conference (BMVC)
 
-[BMVC 2020](http://www.bmvc2020.com/) will be held in Manchester on 7th — 11th September 2020.
+[BMVC 2020](http://www.bmvc2020.com/) will be held on 7th — 11th September 2020. Please see the main conference site at: [http://www.bmvc2020.com/](http://www.bmvc2020.com/).
 
 <p style="pb-2">
 <a href="http://www.bmvc2020.com/"><img src="{{ site.baseurl }}/assets/images/events/bmvc2020.png" class="img-fluid rounded mx-auto d-block" style="max-width: 450px;" alt="BMVC 2020 Logo"></a>
@@ -25,6 +25,7 @@ permalink: /bmvc
 </div>
 -->
 
+<!--
 
 ### Timeline
 
@@ -43,10 +44,6 @@ permalink: /bmvc
 </tr>
 </thead>
 <tbody>
-<!--<tr class="odd">
-<td align="left">Workshop Proposals</td>
-<td align="left">Thursday 2nd April</td>
-</tr>-->
 <tr class="even">
 <td align="left">Paper Abstracts</td>
 <td align="left">Thursday 23rd April</td>
@@ -83,6 +80,7 @@ permalink: /bmvc
 </table>
 </div>
 
+-->
 
 ### FAQ
 
