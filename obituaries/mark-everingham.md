@@ -98,7 +98,7 @@ You could not help noticing Mark if he was in the room, be it at a social occasi
     <div class="hentry">
       <div class="comment_head">
         <a name="comment_2ae3e342aeddbcc43e58bc7f05884656" id="comment_2ae3e342aeddbcc43e58bc7f05884656"></a>
-        <span class="vcard author"><span class="fn">Dina Damen</span></span>, <abbr class="published" title="2012-07-19T23:28:13Z">2012/07/19 23:28</abbr>
+        <span class="vcard author"><span class="fn">Dima Damen</span></span>, <abbr class="published" title="2012-07-19T23:28:13Z">2012/07/19 23:28</abbr>
       </div>
       <div class="comment_body entry-content">
 Mark moved to Leeds a few months after I started my PhD. Despite Mark’s known difficult-to-satisfy attitude, he was always ready to discuss ideas and answer questions. I recall how he spent one afternoon helping me solve a code problem, and another giving me advice on how to formulate a solution more clearly. Mark was always keen on clarity. In seminars, speakers knew they wouldn’t be allowed to finish their talk before Mark dissected their work, and exposed all implementation details. <br/><br/>I will always be grateful for him for giving me my first chance in reviewing a paper, and helping in organising a conference during BMVC08. Through his life, Mark taught us how to rigorously assess methods we read/hear about. After he departed, he made sure to leave behind a set of lessons we will always sadly remember. “Do not let the progress of your research affect your mood”, his words still ring clearly in my ears.
