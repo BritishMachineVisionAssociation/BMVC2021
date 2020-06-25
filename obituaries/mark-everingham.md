@@ -4,6 +4,10 @@ title: Mark Everingham
 custom_css: ".fn { font-weight: bold; } .hentry { padding-top: 1rem; padding-bottom: 1rem; } .published { -webkit-text-decoration: none; text-decoration: none; } .comment_head { padding-bottom: 0.5rem; }  "
 ---
 
+
+
+<img id="mugshot" src="{{ site.baseurl }}/assets/images/obituaries/mark_everingham.jpg" height="auto" draggable="false" style="user-drag:none; -moz-user-select:none; -webkit-user-drag:none; margin-right: 18px;"/>
+
 ## Mark Everingham, 1973--2012
 
 This site is in tribute to Mark Everingham, a wonderful partner, son and
