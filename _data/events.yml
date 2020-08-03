@@ -12,20 +12,14 @@
   image: 07-08-bmva-summer-school.png
   link: https://cvss.blogs.lincoln.ac.uk/
 
-- type: Conference
-  title: MIUA 2019 in Liverpool
-  date: 2019-07-24
-  image: miua2019.png
-  link: https://miua2019.com
+- type: Camera Ready Paper Submission
+  title: 
+  date: 2020-08-13
 
-- type: BMVC Conference
-  title: BMVC 2020 in Manchester
+- type: BMVC Virtual Conference Starts
+  title: 
   date: 2020-09-07
-  image: bmvc2020.png
-  link: /bmvc
 
-- type: Deadline
-  title: BMVC Paper Deadline
-  date: 2020-04-30
-  image: bmvc2020.png
-  link: /bmvc
+- type: BMVC Virtual Conference Ends
+  title: 
+  date: 2020-09-10

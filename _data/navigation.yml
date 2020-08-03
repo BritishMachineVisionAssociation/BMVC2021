@@ -1,6 +1,11 @@
 pages:
   - title: Home
     url: /
+  - title: Dates
+    url: /dates
+  - title: Authors
+    url: /authors
+    dropdown: true
   - title: BMVC
     url: /bmvc
   - title: MIUA
