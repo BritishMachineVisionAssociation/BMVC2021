@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: FAQ
-permalink: /authors/faq
+permalink: /authors/faq/
 ---
 
 <div class="row pl-4 pr-4">

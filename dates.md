@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: Dates
-permalink: /dates
+permalink: /dates/
 ---
 
 <p align="center"><strong>

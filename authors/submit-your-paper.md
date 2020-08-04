@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: Submit your Paper
-permalink: /authors/submit-your-paper
+permalink: /authors/submit-your-paper/
 ---
 
 

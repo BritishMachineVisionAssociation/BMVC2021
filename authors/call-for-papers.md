@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: Call for Papers
-permalink: /authors/call-for-papers
+permalink: /authors/call-for-papers/
 ---
 
 <!-- <p>Please refer to the <a href="../../workshops/index.html">workshops page</a> for links to workshop calls for papers. </p> -->

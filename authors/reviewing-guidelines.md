@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: Reviewing Guidelines
-permalink: /authors/reviewing-guidelines
+permalink: /authors/reviewing-guidelines/
 ---
 
 

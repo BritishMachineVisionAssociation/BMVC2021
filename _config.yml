@@ -19,8 +19,8 @@ brand: BMVC&thinsp;2020
 email: bmvc-2020-pc@lists.bath.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the 31st British Machine Vision Conference, 7th - 10th September 2020.
-baseurl: "" # "/bmva-website" # the subpath of your site, e.g. /blog
-url: "https://BritishMachineVisionAssociation.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
+url: "http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/layout/bmvc-logo.png"
 twitter_username: bmvc2020
 github_username:  BritishMachineVisionAssociation

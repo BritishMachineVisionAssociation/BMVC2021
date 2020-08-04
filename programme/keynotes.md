@@ -1,7 +1,7 @@
 ---
 layout: default_sparse
 title: Keynotes
-permalink: /programme/keynotes
+permalink: /programme/keynotes/
 ---
 
 <div class="row justify-content-around pl-4 pr-4">
