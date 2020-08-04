@@ -8,8 +8,8 @@ permalink: /dates/
             Please note all deadlines are at 23:59 PT.
         </strong></p>
 
-<div class="row pl-4 pr-4 ml-4 mr-4 pt-2 pb-2">
-<table class="table table-striped table-bordered">
+<div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
+<table class="table table-striped table-bordered" style="max-width: 750px;">
   <!--<thead>
     <tr>
       <th scope="col">#</th>
