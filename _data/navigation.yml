@@ -6,6 +6,14 @@ pages:
   - title: Authors
     url: /authors
     dropdown: true
+  - title: Programme
+    url: /programme
+    dropdown: true
+  - title: People
+    url: /people
+    dropdown: true
+
+older:
   - title: BMVC
     url: /bmvc
   - title: MIUA

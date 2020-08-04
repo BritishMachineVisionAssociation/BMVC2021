@@ -10,9 +10,14 @@ The British Machine Vision Conference (BMVC) is the British Machine Vision Assoc
 
 ## Programme
 
+This year's BMVC will be held virtually over four days with a keynote talk, two oral presentation sessions and a poster session on each day in the traditional single-track format. We are delighted to announce that our four [keynote]({{site.baseurl}}{% link programme/keynotes.md %}) speakers will be Sanja Fidler, Laura Leal-Taixé, Kate Saenko and Andrew Davison. Further programme details will be made available soon.
 
 ## Attending
 
+Registration details for the virtual conference will be made avaiable shortly. Please also follow our twitter feed <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>.
+
+<!--<i class="fab fa-twitter-square fa"></i>-->
 
 ## Authors
 
+Further details for authors can be found on the [submission pages]({{site.baseurl}}{% link authors/submit-your-paper.md %}) and the page addressing [Frequently Asked Questions]({{site.baseurl}}{% link authors/faq.md %}).

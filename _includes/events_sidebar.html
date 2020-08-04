@@ -8,7 +8,7 @@
 -->
 
 <div class="card">
-  <h5 class="card-header mb-2" style="text-align: center;">Important Dates</h5>
+  <h5 class="card-header mb-2" style="text-align: center;"><a href="{{site.baseurl}}{% link dates.md %}">Important Dates</a></h5>
   {% assign meeting_events = site.pages | where_exp:"page", "page.url contains '/meetings/'" %}
   {% assign filtered_meeting_events = meeting_events | where_exp:"page", "page.meeting-title" %}
   
