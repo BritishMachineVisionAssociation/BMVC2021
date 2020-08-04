@@ -2,15 +2,15 @@ pages:
   - title: Home
     url: /
   - title: Dates
-    url: /dates
+    url: /dates/
   - title: Authors
-    url: /authors
+    url: /authors/
     dropdown: true
   - title: Programme
-    url: /programme
+    url: /programme/
     dropdown: true
   - title: People
-    url: /people
+    url: /people/
     dropdown: true
 
 older:

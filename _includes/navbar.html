@@ -41,6 +41,7 @@
             </div>
           </li>
         {% else %}
+          <!--{% assign item_url_fix = item.url | append: '/' %}-->
           <li class="nav-item {% if item.url == page.url %}active{% endif %}">
             <a class="nav-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
           </li>
