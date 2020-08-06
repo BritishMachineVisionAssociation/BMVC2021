@@ -12,6 +12,8 @@ pages:
   - title: People
     url: /people/
     dropdown: true
+  - title: Sponsorship
+    url: /sponsorship/
 
 older:
   - title: BMVC
