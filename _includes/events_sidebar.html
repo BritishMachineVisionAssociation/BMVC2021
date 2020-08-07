@@ -1,14 +1,6 @@
-<!--
-<div class="card">
-  <h5 class="card-header mb-2" style="text-align: center;"><i class="fab fa-twitter fa-1x" style="color: gray;"></i> {{ site.twitter_username }}</h5>
-  <div class="panel panel-default responsive-twitter top1">
-    <a class="twitter-timeline" height="600" href="https://twitter.com/{{ site.twitter_username }}" data-chrome="nofooter noheader noborders">News by {{ site.twitter_username }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-</div>
--->
 
 <div class="card">
-  <h5 class="card-header mb-2" style="text-align: center;"><a href="{{site.baseurl}}{% link dates.md %}">Important Dates</a></h5>
+  <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link dates.md %}">Important Dates</a></h5>
   {% assign meeting_events = site.pages | where_exp:"page", "page.url contains '/meetings/'" %}
   {% assign filtered_meeting_events = meeting_events | where_exp:"page", "page.meeting-title" %}
   
@@ -16,22 +8,13 @@
   
   {% assign sorted_events = all_events | sort: "date" %}
 
+  <table class="table table-borderless mt-2"><tbody>
   {% for item in sorted_events %}
   {% assign data_format = item.date | date: '%d/%m/%Y' %}
-  <div class="card-body clearfix pb-0 pt-0 mb-2 date-filter" data-date-filter="{{ data_format }}">
-    <!--<h5 class="card-title">Special title treatment</h5>-->
-    <p class="card-text" style="text-indent: -1em; padding-left: 1em;">
-      <!--<span class="float-left mr-2">{{ item.date }}</span>
-      <span class="">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span>-->
-      <b>{{ item.date | date: '%d %b %Y' }}</b> &nbsp;&nbsp; {{ item.type }}<br /><a href="{% if item.link %}{{ item.link }}{% else %}{{ site.baseurl }}{{ item.url }}{% endif %}">{% if item.meeting-title %}{{ item.meeting-title }}{% else %}{{ item.title | markdownify | remove: "<p>" | remove: "</p>" }}{% endif %}</a>
-    </p>
-    <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
-  </div>
+    <tr class="card-body clearfix pb-0 pt-0 mb-1 date-filter" data-date-filter="{{ data_format }}">
+        <td><b>{{ item.date | date: '%d %b %Y' }}</b></td>
+        <td>{{ item.type }}</td>
+    </tr>
   {% endfor %}
+  </tbody></table>
 </div>
-
-
-
-<!--
-date-filter" data-date-filter="{{ event.date }}"
--->

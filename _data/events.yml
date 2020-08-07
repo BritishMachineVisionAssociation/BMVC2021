@@ -1,20 +1,12 @@
 # Events
 
-- type: Conference
-  title: BMVC 2019 in Cardiff
-  date: 2019-09-09
-  image: bmvc2019.png
-  link: https://bmvc2019.org/
-
-- type: Summer School
-  title: BMVA Summer School
-  date: 2019-07-08
-  image: 07-08-bmva-summer-school.png
-  link: https://cvss.blogs.lincoln.ac.uk/
-
 - type: Camera Ready Paper Submission
   title: 
   date: 2020-08-13
+
+- type: Virtual Conference Video Submission
+  title: 
+  date: 2020-08-20
 
 - type: BMVC Virtual Conference Starts
   title: 

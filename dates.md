@@ -51,8 +51,12 @@ permalink: /dates/
                 <td>Wednesday 29th July 2020</td>
             </tr>
             <tr>
-                <td>Camera Ready Submission</td>
+                <td>Camera Ready Submission (PDF and Supplementary Material)</td>
                 <td>Thursday 13th August 2020</td>
+            </tr>
+            <tr>
+                <td>Virtual Conference Video Submissions</td>
+                <td>Thursday 20th August 2020</td>
             </tr>
             <tr>
                 <td>Conference</td>
