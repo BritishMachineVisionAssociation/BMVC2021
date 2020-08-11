@@ -9,6 +9,7 @@ permalink: /sponsorship/
         </strong></p>
 
 
+<!--
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
     <table class="table table-striped table-bordered" style="max-width: 750px;">
         <tbody>
@@ -75,3 +76,4 @@ permalink: /sponsorship/
         </tbody>
     </table>
 </div>
+-->
