@@ -1,0 +1,43 @@
+pages:
+  - title: Home
+    url: /
+  - title: Dates
+    url: /dates/
+  - title: Authors
+    url: /authors/
+    dropdown: true
+  - title: Programme
+    url: /programme/
+    dropdown: true
+  - title: People
+    url: /people/
+    dropdown: true
+  - title: Sponsorship
+    url: /sponsorship/
+
+older:
+  - title: BMVC
+    url: /bmvc
+  - title: MIUA
+    url: /miua
+  - title: Meetings
+    url: /meetings
+    dropdown: true
+  - title: Summer School
+    url: /summer-school
+  - title: "Bursaries & Prizes"
+    url: /bursaries
+    dropdown: true
+  - title: "Information"
+    url: /information
+    dropdown: true
+  - title: Joining
+    url: /joining
+
+old:
+  - title: News
+    url: /bmva-news
+  - title: Thesis Archive
+    url: /theses
+  - title: Committee
+    url: /committee

@@ -1,0 +1,20 @@
+
+<div class="card">
+  <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link dates.md %}">Important Dates</a></h5>
+  {% assign meeting_events = site.pages | where_exp:"page", "page.url contains '/meetings/'" %}
+  {% assign filtered_meeting_events = meeting_events | where_exp:"page", "page.meeting-title" %}
+  
+  {% assign all_events = site.data.events | concat: filtered_meeting_events %}
+  
+  {% assign sorted_events = all_events | sort: "date" %}
+
+  <table class="table table-borderless mt-2"><tbody>
+  {% for item in sorted_events %}
+  {% assign data_format = item.date | date: '%d/%m/%Y' %}
+    <tr class="card-body clearfix pb-0 pt-0 mb-1 date-filter" data-date-filter="{{ data_format }}">
+        <td><b>{{ item.date | date: '%d %b %Y' }}</b></td>
+        <td>{{ item.type }}</td>
+    </tr>
+  {% endfor %}
+  </tbody></table>
+</div>
