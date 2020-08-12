@@ -20,4 +20,4 @@ Registration details for the virtual conference will be made avaiable shortly. P
 
 ## Authors
 
-Further details for authors can be found on the [submission pages]({{site.baseurl}}{% link authors/submit-your-paper.md %}) and the page addressing [Frequently Asked Questions]({{site.baseurl}}{% link authors/faq.md %}).
+Further details for authors with poster or oral presentations can be found on the [instructions for presenting authors page]({{site.baseurl}}{% link authors/instructions-for-presenting-authors.md %}) and the page addressing [Frequently Asked Questions]({{site.baseurl}}{% link authors/faq.md %}).
