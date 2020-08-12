@@ -9,66 +9,59 @@ permalink: /sponsorship/
         </strong></p>
 
 
-<!--
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
     <table class="table table-striped table-bordered" style="max-width: 750px;">
         <tbody>
             <tr>
                 <th style="text-align: center">PACKAGE OFFERS</th>
-                <th style="text-align: center">PLATINUM £4000</th>
-                <th style="text-align: center">GOLD £3000</th>
-                <th style="text-align: center">SILVER £2000</th>
+                <th style="text-align: center">PLATINUM £5000</th>
+                <th style="text-align: center">GOLD £2000</th>
+                <th style="text-align: center">SILVER £500</th>
             </tr>
             <tr>
-                <td>Company logo and link on the conference website</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-            </tr>
-            <tr>
-                <td>Company logo on conference programme</td>
+                <td>Sponsor logo and link on the conference website</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
             </tr>
             <tr>
-                <td>1 Free registration</td>
+                <td>Sponsor logo and details on sponsors page</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
             </tr>
             <tr>
-                <td>Company logo on conference livestream</td>
+                <td>Sponsor presence at the virtual careers fair</td>
+                <td align="center">✔</td>
+                <td align="center">✔</td>
+                <td align="center">✔</td>
+            </tr>
+            <tr>
+                <td>Complimentary virtual registrations</td>
+                <td align="center">8</td>
+                <td align="center">4</td>
+                <td align="center">2</td>
+            </tr>
+            <tr>
+                <td><strong>Young researcher attendance bursaries named after the sponsor</strong></td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
-                <td>1 Virtual exhibition stand</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-                <td align="center">✘</td>
-            </tr>
-            <tr>
-                <td>1 Additional free registration</td>
+                <td><strong>Acknowledgment in the opening address and sponsor logo on livestream title slide</strong></td>
                 <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
-                <td>Acknowledgment in the opening address</td>
+                <td><strong>Sponsor name associated with invited talk</strong></td>
                 <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
-                <td><strong>A Young Researcher attendance bursary named after the company</strong></td>
-                <td align="center">✔</td>
-                <td align="center">✘</td>
-                <td align="center">✘</td>
-            </tr>
-            <tr>
-                <td><strong>Company names associated with invited talks or prizes</strong></td>
+                <td><strong>Sponsor name associated with prize</strong></td>
                 <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
@@ -76,4 +69,3 @@ permalink: /sponsorship/
         </tbody>
     </table>
 </div>
--->
