@@ -42,19 +42,25 @@ permalink: /sponsorship/
                 <td align="center">4</td>
                 <td align="center">2</td>
             </tr>
-            <tr>
+            <!--<tr>
                 <td><strong>Young researcher attendance bursaries named after the sponsor</strong></td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✘</td>
+            </tr>-->
+            <tr>
+                <td>Acknowledgment in the opening address and sponsor logo on livestream title slide</td>
+                <td align="center">✔</td>
+                <td align="center">✔</td>
+                <td align="center">✘</td>
             </tr>
             <tr>
-                <td><strong>Acknowledgment in the opening address and sponsor logo on livestream title slide</strong></td>
+                <td>Sponsor promotional video shown during breaks in the livestream</td>
                 <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
-            <tr>
+            <!--<tr>
                 <td><strong>Sponsor name associated with invited talk</strong></td>
                 <td align="center">✔</td>
                 <td align="center">✘</td>
@@ -65,7 +71,7 @@ permalink: /sponsorship/
                 <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
-            </tr>
+            </tr>-->
         </tbody>
     </table>
 </div>
