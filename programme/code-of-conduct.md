@@ -6,7 +6,7 @@ permalink: /programme/code-of-conduct/
 
 <strong>BMVC 2020 will be adopting a code of conduct for attendees in line with the CVPR code of conduct, as established for our research community, reproduced below:</strong>
 
-BMVC 2020 is committed to providing an atmosphere that encourages the free expression and exchange of ideas. It is the policy of BMVC 2020 that all participants of conference activities (workshops, tutorials, exhibitions, poster sessions, etc ) will enjoy a welcoming environment free from unlawful discrimination, harassment, and retaliation.
+BMVC 2020 is committed to providing an atmosphere that encourages the free expression and exchange of ideas. It is the policy of BMVC 2020 that all participants of conference activities (presentations, forums, poster sessions, etc ) will enjoy a welcoming environment free from unlawful discrimination, harassment, and retaliation.
 
 Harassment will not be tolerated in any form, including but not limited to harassment based on gender, gender identity and expression, sexual orientation, disability, physical appearance, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances. Any report of harassment at one of our activities will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately.
 
