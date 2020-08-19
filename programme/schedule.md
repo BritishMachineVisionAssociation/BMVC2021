@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: Schedule
+title: Conference Schedule
 permalink: /programme/schedule/
 ---
 
