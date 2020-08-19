@@ -39,9 +39,8 @@ papers:
     title: "Importance of Self-Consistency in Active Learning for Semantic Segmentation"
     authors:
       - author: "S. Alireza Golestaneh (Carnegie Mellon University)"
-      - author: "S. Alireza Golestaneh (Carnegie Mellon University)"
       - author: "Kris Kitani (CMU)"
-    all_authors: "S. Alireza Golestaneh, S. Alireza Golestaneh and Kris Kitani"
+    all_authors: "S. Alireza Golestaneh and Kris Kitani"
     code: ""
     keywords:
       - word: "Active Learning"
