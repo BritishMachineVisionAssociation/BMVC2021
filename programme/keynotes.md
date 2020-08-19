@@ -6,9 +6,10 @@ permalink: /programme/keynotes/
 
 <div class="row justify-content-around pl-4 pr-4">
 
+{% assign sorted_keynotes = site.data.programme.keynotes | sort: "id" %}
 
-{% for person in site.data.programme.keynotes %}
-	<div class="col-12"><div class="row pb-2">
+{% for person in sorted_keynotes %}
+	<div class="col-12" id="{{ person.id }}"><div class="row pb-2">
 	    <div class="col-12 col-md-4 col-lg-3">
 	        <div class="text-center">
 	            <img src="{{ site.baseurl }}{{ person.img }}" class="rounded-circle img-fluid" style="max-width: 125px;">

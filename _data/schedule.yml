@@ -20,6 +20,7 @@ schedule:
         start-time: "14:30"
         end-time: "15:30"
         data: "[DATA]"
+        keynote-id: keynote-1
       - session: Poster Session 1 (Afternoon)
         start-time: "16:00"
         end-time: "18:00"
@@ -42,6 +43,7 @@ schedule:
         start-time: "14:30"
         end-time: "15:30"
         data: "[DATA]"
+        keynote-id: keynote-2
       - session: Poster Session 2 (Afternoon)
         start-time: "16:00"
         end-time: "18:00"
@@ -64,6 +66,7 @@ schedule:
         start-time: "14:30"
         end-time: "15:30"
         data: "[DATA]"
+        keynote-id: keynote-3
       - session: Poster Session 3 (Afternoon)
         start-time: "16:00"
         end-time: "18:00"
@@ -86,6 +89,7 @@ schedule:
         start-time: "14:30"
         end-time: "15:30"
         data: "[DATA]"
+        keynote-id: keynote-4
       - session: Poster Session 4 (Afternoon)
         start-time: "16:00"
         end-time: "18:00"

@@ -1,22 +1,26 @@
 keynotes:
   - name: Prof. Sanja Fidler
+    id: keynote-1
     img: /assets/images/mugshots/sanja_fidler.jpg
     url: "https://www.cs.utoronto.ca/~fidler/"
     title: "AI for 3D Content Creation"
     job: Faculty at University of Toronto and a Director of AI at NVIDIA
   - name: Prof. Laura Leal-Taixé
+    id: keynote-4
     img: /assets/images/mugshots/lealtaixe.jpg
     url: "https://dvl.in.tum.de/team/lealtaixe/"
     title: "Multiple Object Tracking: Promising Directions and Data Privacy"
     job: Faculty at the Technical University of Munich
     abstract: "Is the performance on multiple object tracking benchmarks saturating? What seem to be promising new research directions? I will first analyze the performance of recent methods, and show how powerful a simple object detector regressor can be for MOT. This analysis will uncover the main challenges that as a community we are still not tackling.
 I will then move towards end-to-end learning for MOT, and explain how graph neural networks can open the path to new research directions. Finally, I will show how computer vision tools can help us in handling data privacy in MOT benchmarks."
-  - name: Prof. Kate Saenko 
+  - name: Prof. Kate Saenko
+    id: keynote-3 
     img: /assets/images/mugshots/kate_saenko.png
     url: "http://ai.bu.edu/ksaenko.html"
     title: "Ways to Mitigate Dataset Bias"
     job: Faculty at Boston University
   - name: Prof. Andrew Davison
+    id: keynote-2
     img: /assets/images/mugshots/andy_davison.jpg
     url: "https://www.doc.ic.ac.uk/~ajd/"
     title: "Towards Graph-Based Spatial AI"
