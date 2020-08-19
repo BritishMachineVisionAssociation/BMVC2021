@@ -1,0 +1,122 @@
+# Programme Schedule..
+
+
+schedule:
+  - day: Monday 7th September
+    contents:
+      - session: Poster Session 1 (Morning)
+        start-time: "9:00"
+        end-time: "11:00"
+        data: "[DATA]"
+      - session: Oral Session 1
+        start-time: "11:00"
+        end-time: "12:00"
+        data: "[DATA]"
+      - session: Oral Session 2
+        start-time: "13:00"
+        end-time: "14:00"
+        data: "[DATA]"
+      - session: Keynote Talk 1
+        start-time: "14:30"
+        end-time: "15:30"
+        data: "[DATA]"
+      - session: Poster Session 1 (Afternoon)
+        start-time: "16:00"
+        end-time: "18:00"
+        data: "[DATA]"
+  - day: Tuesday 8th September
+    contents:
+      - session: Poster Session 2 (Morning)
+        start-time: "9:00"
+        end-time: "11:00"
+        data: "[DATA]"
+      - session: Oral Session 3
+        start-time: "11:00"
+        end-time: "12:00"
+        data: "[DATA]"
+      - session: Oral Session 4
+        start-time: "13:00"
+        end-time: "14:00"
+        data: "[DATA]"
+      - session: Keynote Talk 2
+        start-time: "14:30"
+        end-time: "15:30"
+        data: "[DATA]"
+      - session: Poster Session 2 (Afternoon)
+        start-time: "16:00"
+        end-time: "18:00"
+        data: "[DATA]"
+  - day: Wednesday 9th September
+    contents:
+      - session: Poster Session 3 (Morning)
+        start-time: "9:00"
+        end-time: "11:00"
+        data: "[DATA]"
+      - session: Oral Session 5
+        start-time: "11:00"
+        end-time: "12:00"
+        data: "[DATA]"
+      - session: Oral Session 6
+        start-time: "13:00"
+        end-time: "14:00"
+        data: "[DATA]"
+      - session: Keynote Talk 3
+        start-time: "14:30"
+        end-time: "15:30"
+        data: "[DATA]"
+      - session: Poster Session 3 (Afternoon)
+        start-time: "16:00"
+        end-time: "18:00"
+        data: "[DATA]"
+  - day: Thursday 10th September
+    contents:
+      - session: Poster Session 4 (Morning)
+        start-time: "9:00"
+        end-time: "11:00"
+        data: "[DATA]"
+      - session: Oral Session 7
+        start-time: "11:00"
+        end-time: "12:00"
+        data: "[DATA]"
+      - session: Oral Session 8
+        start-time: "13:00"
+        end-time: "14:00"
+        data: "[DATA]"
+      - session: Keynote Talk 4
+        start-time: "14:30"
+        end-time: "15:30"
+        data: "[DATA]"
+      - session: Poster Session 4 (Afternoon)
+        start-time: "16:00"
+        end-time: "18:00"
+        data: "[DATA]"
+
+
+# - type: Camera Ready Paper Submission
+#   title: 
+#   date: 2020-08-13
+
+# - type: Virtual Conference Video Submission
+#   title: 
+#   date: 2020-08-20
+
+# - type: BMVC Virtual Conference Starts
+#   title: 
+#   date: 2020-09-07
+
+# - type: BMVC Virtual Conference Ends
+#   title: 
+#   date: 2020-09-10
+
+
+
+
+
+#   09-11 Morning poster session (16-18 Shanghai, 17-19 Tokyo)
+# 11-12 Morning oral session
+# 12-13 Lunch
+# 13-14 Afternoon oral session
+# 14-14:30 Break / discussions / Q&A
+# 14:30-15:30 Keynote session
+# 15:30-16 Break / discussions / Q&A
+# 16-18 Afternoon poster session (08-10 Seattle, 11-13 Boston)
