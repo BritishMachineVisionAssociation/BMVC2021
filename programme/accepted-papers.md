@@ -45,8 +45,8 @@ index: 20
 			<td class="text-center"><strong>{{paper.order}}</strong><br><span style="opacity: 0.5;">[{{paper.id}}]</span></td>
 			<td>
 				<strong>{{paper.title}}</strong><br>{{paper.all_authors}}<br>
-				{% if paper.oral_session > 0 %}<a class="btn btn-primary btn-sm" href="{{site.baseurl}}{% link programme/schedule.md %}#session-id-{{paper.session_id}}" role="button">Oral Session {{paper.oral_session}}</a>&nbsp;{% endif %}
-				<a class="btn btn-primary btn-sm" href="{{site.baseurl}}{% link programme/schedule.md %}#poster-session-id-{{paper.poster_session}}" role="button">Poster Session {{paper.poster_session}}</a>
+				{% if paper.oral_session > 0 %}<a class="btn btn-primary btn-sm mt-1" href="{{site.baseurl}}{% link programme/schedule.md %}#session-id-{{paper.session_id}}" role="button">Oral Session {{paper.oral_session}}</a>&nbsp;{% endif %}
+				<a class="btn btn-primary btn-sm mt-1" href="{{site.baseurl}}{% link programme/schedule.md %}#poster-session-id-{{paper.poster_session}}" role="button">Poster Session {{paper.poster_session}}</a>
 			</td>
 		</tr>
 		{% endfor %}
