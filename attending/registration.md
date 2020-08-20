@@ -9,7 +9,7 @@ Registration for the virtual conference is now open. There are two options for r
 
 ### Bursaries
 
-We have 20 free bursary places available for students who would otherwise be unable to meet the costs of attending the virtual conference. If you would like to apply for a bursary please fill in the form [here]() which will also ask for proof of your student status. Unfortunately, we cannot accept a bursary registration in place of the per paper event enabling fee.
+We have 20 free bursary places available for students who would otherwise be unable to meet the costs of attending the virtual conference. If you would like to apply for a bursary please fill in the form [here](https://forms.gle/zhmYCWfRPckEFx2e8) which will also ask for proof of your student status. Unfortunately, we cannot accept a bursary registration in place of the per paper event enabling fee.
 
 ### Registration
 
