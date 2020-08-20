@@ -19,9 +19,10 @@ Please register for the virtual conference using the form below. <strong>IMPORTA
 <div class="container-fluid pb-3">
     <div class="card p-1" style="background: #F8F7FA">
         <div class="card-body mx-auto">
-          Please register using the options below (scroll for more options):
+          Please register using the options below (the form may take a few seconds to appear, please scroll if you can't see all options):
         </div>
-        <div id="eventbrite-widget-container-117309316323"></div>
+        <div id="eventbrite-widget-container-117309316323">
+        </div>
     </div>
 </div>
 
