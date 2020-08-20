@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Reviewers
 permalink: /people/reviewers/
+index: 2
 ---
 
 The conference [organisers]({{site.baseurl}}{% link people/organisers.md %}) would like to extend their gradititude to all the reviewers who worked very hard to review and discuss all the conference submissions.

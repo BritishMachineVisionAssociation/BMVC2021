@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Organisers
 permalink: /people/organisers/
+index: 0
 ---
 
 <div class="row justify-content-around pl-4 pr-4">

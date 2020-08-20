@@ -4,6 +4,7 @@ title: Conference Schedule
 permalink: /programme/schedule/
 ---
 
+Details of the conference timetable over the four days are provided below. <strong>Please note that papers for poster presentation are allocated a specific day and will be presented during both morning and afternoon sessions along with the oral papers for the sessions on the same day.</strong>
 
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
 

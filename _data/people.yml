@@ -3,22 +3,22 @@ organisers:
     img: /assets/images/mugshots/neill_campbell_headshot.jpg
     url: "http://cs.bath.ac.uk/~nc537/"
     job: Conference and Programme Chair
-  - name: Prof. Lourdes Agapito
-    img: /assets/images/mugshots/Lourdes_Agapito_headshot.jpg
-    url: "http://www0.cs.ucl.ac.uk/staff/L.Agapito/"
+  - name: Dr Oisin Mac Aodha
+    img: /assets/images/mugshots/oisin.jpg
+    url: "https://homepages.inf.ed.ac.uk/omacaod/"
     job: Programme Chair
   - name: Dr William Smith
     img: /assets/images/mugshots/will_smith_headshot.jpg
     url: "https://www-users.cs.york.ac.uk/wsmith/"
     job: Programme Chair
-  - name: Dr Oisin Mac Aodha
-    img: /assets/images/mugshots/oisin.jpg
-    url: "https://homepages.inf.ed.ac.uk/omacaod/"
-    job: Programme Chair
+  - name: Prof. Lourdes Agapito
+    img: /assets/images/mugshots/Lourdes_Agapito_headshot.jpg
+    url: "http://www0.cs.ucl.ac.uk/staff/L.Agapito/"
+    job: Programme and Awards Chair
   - name: Dr Martin Fergie
     img: /assets/images/mugshots/martin_fergie_headshot.jpg
     url: "https://mfergie.github.io/"
-    job: Programme Chair
+    job: Programme and Sponsorship Chair
   - name: Dr Moi Hoon Yap
     img: /assets/images/mugshots/moi_hoon_yap_headshot.jpg
     url: "http://www2.docm.mmu.ac.uk/STAFF/M.Yap/"

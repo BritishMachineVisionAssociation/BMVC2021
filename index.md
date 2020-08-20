@@ -10,7 +10,7 @@ The British Machine Vision Conference (BMVC) is the British Machine Vision Assoc
 
 ## Programme
 
-This year's BMVC will be held virtually over four days with a keynote talk, two oral presentation sessions and a poster session on each day in the traditional single-track format. We are delighted to announce that our four [keynote]({{site.baseurl}}{% link programme/keynotes.md %}) speakers will be Sanja Fidler, Laura Leal-Taixé, Kate Saenko and Andrew Davison. Further programme details will be made available soon.
+This year's BMVC will be held virtually over four days with a keynote talk, two oral presentation sessions and a poster session on each day in the traditional single-track format. Please see the [schedule]({{site.baseurl}}{% link programme/schedule.md %}) for the detailed timetable for the different sessions. We are delighted to announce that our four [keynote]({{site.baseurl}}{% link programme/keynotes.md %}) speakers will be Sanja Fidler, Laura Leal-Taixé, Kate Saenko and Andrew Davison. The details of the [accepted papers]({{site.baseurl}}{% link programme/accepted-papers.md %}) and their presentation times are now available. Please note that papers for poster presentation are allocated a specific day and will be presented during <strong>both morning and afternoon</strong> sessions along with the oral papers for the sessions on the same day.
 
 ## Attending
 
@@ -20,4 +20,4 @@ Registration details for the virtual conference will be made avaiable shortly. P
 
 ## Authors
 
-Further details for authors with poster or oral presentations can be found on the [instructions for presenting authors page]({{site.baseurl}}{% link authors/instructions-for-presenting-authors.md %}) and the page addressing [Frequently Asked Questions]({{site.baseurl}}{% link authors/faq.md %}).
+Further details for authors with poster or oral presentations can be found on the [instructions for presenting authors page]({{site.baseurl}}{% link authors/instructions-for-presenting-authors.md %}) and the page addressing [Frequently Asked Questions]({{site.baseurl}}{% link authors/faq.md %}). Please note that papers for poster presentation are allocated a specific day and will be presented during <strong>both morning and afternoon</strong> sessions along with the oral papers for the sessions on the same day and at least one author for each paper should make themselves available for both timeslots to participate in the interactive poster sessions.
