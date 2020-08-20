@@ -26,11 +26,14 @@ permalink: /programme/schedule/
         	{% for session in day.contents %}
         		{% capture start-mins %}{{ session.start-time | split: ":" | last }}{% endcapture %}
         		{% capture end-mins %}{{ session.end-time | split: ":" | last }}{% endcapture %}
-            <tr>
-                <td>
+            <tr >
+                <td><a class="anchor" id="session-id-{{session.session-id}}"></a>
+                	{% if session.poster-session-id %}<a class="anchor" id="poster-session-id-{{session.poster-session-id}}"></a>{% endif %}
                 	{% if session.keynote-id %}
-                		{% assign keynote_details = site.data.programme.keynotes | where: "id", session.keynote-id | first %}
-                		<a href="{{site.baseurl}}/programme/keynotes/#{{session.keynote-id}}">Keynote: {{ keynote_details.name }}</a><br><b>{{keynote_details.title}}</b>
+                		{% assign keynote-details = site.data.programme.keynotes | where: "id", session.keynote-id | first %}
+                		<a href="{{site.baseurl}}/programme/keynotes/#{{session.keynote-id}}">Keynote: {{ keynote-details.name }}</a><br><b>{{keynote-details.title}}</b>
+                	{% elsif session.title %}
+                		{{-session.session-}}: <strong>{{-session.title-}}</strong>
                 	{% else %}
                 		{{ session.session }}
                 	{% endif %}

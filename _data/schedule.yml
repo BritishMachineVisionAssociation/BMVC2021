@@ -8,14 +8,20 @@ schedule:
         start-time: "9:00"
         end-time: "11:00"
         data: "[DATA]"
+        session-id: 2
+        poster-session-id: 1
       - session: Oral Session 1
+        title: "Looking at People"
         start-time: "11:00"
         end-time: "12:00"
         data: "[DATA]"
+        session-id: 0
       - session: Oral Session 2
+        title: "Cross Modality and Weak Supervision"
         start-time: "13:00"
         end-time: "14:00"
         data: "[DATA]"
+        session-id: 1
       - session: Keynote Talk 1
         start-time: "14:30"
         end-time: "15:30"
@@ -25,20 +31,27 @@ schedule:
         start-time: "16:00"
         end-time: "18:00"
         data: "[DATA]"
+        session-id: 2
   - day: Tuesday 8th September
     contents:
       - session: Poster Session 2 (Morning)
         start-time: "9:00"
         end-time: "11:00"
         data: "[DATA]"
+        session-id: 5
+        poster-session-id: 2
       - session: Oral Session 3
+        title: "Segmentation"
         start-time: "11:00"
         end-time: "12:00"
         data: "[DATA]"
+        session-id: 3
       - session: Oral Session 4
+        title: "Shape-from-X / 3D Reconstruction"
         start-time: "13:00"
         end-time: "14:00"
         data: "[DATA]"
+        session-id: 4
       - session: Keynote Talk 2
         start-time: "14:30"
         end-time: "15:30"
@@ -48,20 +61,27 @@ schedule:
         start-time: "16:00"
         end-time: "18:00"
         data: "[DATA]"
+        session-id: 5
   - day: Wednesday 9th September
     contents:
       - session: Poster Session 3 (Morning)
         start-time: "9:00"
         end-time: "11:00"
         data: "[DATA]"
+        session-id: 8
+        poster-session-id: 3
       - session: Oral Session 5
+        title: "Computational Photography"
         start-time: "11:00"
         end-time: "12:00"
         data: "[DATA]"
+        session-id: 6
       - session: Oral Session 6
+        title: "Zero/Few Shot Learning"
         start-time: "13:00"
         end-time: "14:00"
         data: "[DATA]"
+        session-id: 7
       - session: Keynote Talk 3
         start-time: "14:30"
         end-time: "15:30"
@@ -71,20 +91,27 @@ schedule:
         start-time: "16:00"
         end-time: "18:00"
         data: "[DATA]"
+        session-id: 8
   - day: Thursday 10th September
     contents:
       - session: Poster Session 4 (Morning)
         start-time: "9:00"
         end-time: "11:00"
         data: "[DATA]"
+        session-id: 11
+        poster-session-id: 4
       - session: Oral Session 7
+        title: "Synthesis and Visualisation"
         start-time: "11:00"
         end-time: "12:00"
         data: "[DATA]"
+        session-id: 9
       - session: Oral Session 8
+        title: "Video"
         start-time: "13:00"
         end-time: "14:00"
         data: "[DATA]"
+        session-id: 10
       - session: Keynote Talk 4
         start-time: "14:30"
         end-time: "15:30"
@@ -94,6 +121,7 @@ schedule:
         start-time: "16:00"
         end-time: "18:00"
         data: "[DATA]"
+        session-id: 11
 
 
 # - type: Camera Ready Paper Submission

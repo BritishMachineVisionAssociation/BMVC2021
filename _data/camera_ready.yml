@@ -3,6 +3,7 @@ papers:
     order: 152
     oral_session: 8
     poster_session: 4
+    session_id: 10
     title: "Attention Distillation for Learning Video Representations"
     authors:
       - author: "Miao Liu (Georgia Institute of Technology)"
@@ -22,6 +23,7 @@ papers:
   - id: 9
     order: 75
     poster_session: 2
+    session_id: 5
     title: "ViewSynth: Learning Local Features from Depth using View Synthesis"
     authors:
       - author: "Jisan Mahmud (University of North Carolina at Chapel Hill)"
@@ -43,6 +45,7 @@ papers:
   - id: 10
     order: 114
     poster_session: 3
+    session_id: 8
     title: "Importance of Self-Consistency in Active Learning for Semantic Segmentation"
     authors:
       - author: "S. Alireza Golestaneh (Carnegie Mellon University)"
@@ -65,6 +68,7 @@ In this way, we are able to find the image patches over which the current model 
   - id: 14
     order: 157
     poster_session: 4
+    session_id: 11
     title: "Localizing Novel Attended Objects in Egocentric Views"
     authors:
       - author: "Shujon Naha (Indiana University)"
@@ -86,6 +90,7 @@ In this way, we are able to find the image patches over which the current model 
   - id: 16
     order: 11
     poster_session: 1
+    session_id: 2
     title: "CornerNet-Lite: Efficient Keypoint based Object Detection"
     authors:
       - author: "Hei Law (Princeton University)"
@@ -108,6 +113,7 @@ In this way, we are able to find the image patches over which the current model 
     order: 59
     oral_session: 4
     poster_session: 2
+    session_id: 4
     title: "Neighbourhood-Insensitive Point Cloud Normal Estimation Network"
     authors:
       - author: "Zirui Wang (University of Oxford)"
@@ -126,6 +132,7 @@ In this way, we are able to find the image patches over which the current model 
   - id: 31
     order: 97
     poster_session: 2
+    session_id: 5
     title: "Semi-supervised Active Learning for Instance Segmentation via Scoring Predictions"
     authors:
       - author: "Jun Wang (Ping An Technology (Shenzhen) Co. Ltd.)"
@@ -151,6 +158,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 33
     order: 125
     poster_session: 3
+    session_id: 8
     title: "Revisiting Temporal Modeling for Video Super-resolution"
     authors:
       - author: "Takashi Isobe (Tsinghua University)"
@@ -168,6 +176,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 42
     order: 69
     poster_session: 2
+    session_id: 5
     title: "Meta-RetinaNet for Few-shot Object Detection"
     authors:
       - author: "Shaoqi Li (Beihang University)"
@@ -191,6 +200,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 43
     order: 42
     poster_session: 1
+    session_id: 2
     title: "Seeing wake words: Audio-visual Keyword Spotting"
     authors:
       - author: "Liliane Momeni (University of Oxford)"
@@ -215,6 +225,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 44
     order: 109
     poster_session: 3
+    session_id: 8
     title: "An ETF view of Dropout regularization"
     authors:
       - author: "Dor Bank (Tel Aviv University)"
@@ -235,6 +246,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 46
     order: 189
     poster_session: 4
+    session_id: 11
     title: "NTGAN: Learning Blind Image Denoising without Clean Reference"
     authors:
       - author: "Rui Zhao (The Hong Kong Polytechnic University	)"
@@ -254,6 +266,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 51
     order: 107
     poster_session: 3
+    session_id: 8
     title: "Novel View Synthesis from Single Images via Point Cloud Transformation"
     authors:
       - author: "Hoang-An Le (University of Amsterdam)"
@@ -270,6 +283,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 53
     order: 39
     poster_session: 1
+    session_id: 2
     title: "A Spherical Approach to Planar Semantic Segmentation"
     authors:
       - author: "Chao Zhang (Toshiba Research Europe Ltd)"
@@ -286,6 +300,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 55
     order: 178
     poster_session: 4
+    session_id: 11
     title: "Generative Appearance Flow: A Hybrid Approach for Outdoor View Synthesis"
     authors:
       - author: "M. Usman Rafique (University of Kentucky)"
@@ -304,6 +319,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 59
     order: 64
     poster_session: 2
+    session_id: 5
     title: "Improved Trainable Calibration Method for Neural Networks"
     authors:
       - author: "Gongbo Liang (University of Kentucky)"
@@ -322,6 +338,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 63
     order: 163
     poster_session: 4
+    session_id: 11
     title: "Centroid Based Concept Learning for RGB-D Indoor Scene Classification"
     authors:
       - author: "Ali Ayub (The Pennsylvania State University)"
@@ -341,6 +358,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
     order: 1
     oral_session: 1
     poster_session: 1
+    session_id: 0
     title: "SIA-GCN: A Spatial Information Aware Graph Neural Network with 2D Convolutions for Hand Pose Estimation"
     authors:
       - author: "Deying Kong (university of california, irvine)"
@@ -360,6 +378,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 79
     order: 165
     poster_session: 4
+    session_id: 11
     title: "On the Exploration of Incremental Learning for Fine-grained Image Retrieval"
     authors:
       - author: "Wei Chen (Leiden University)"
@@ -381,6 +400,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 81
     order: 169
     poster_session: 4
+    session_id: 11
     title: "Synthetic Training for Accurate 3D Human Pose and Shape Estimation in the Wild"
     authors:
       - author: "Akash Sengupta (University of Cambridge)"
@@ -402,6 +422,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 82
     order: 33
     poster_session: 1
+    session_id: 2
     title: "Cross-dataset Color Constancy Revisited Using Sensor-to-Sensor Transfer"
     authors:
       - author: "Samu Koskinen (Huawei Technologies Oy (Finland) Co. Ltd)"
@@ -422,6 +443,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 86
     order: 162
     poster_session: 4
+    session_id: 11
     title: "Learning-based Region Selection for End-to-End Gaze Estimation"
     authors:
       - author: "Xucong Zhang (ETH Zurich)"
@@ -440,6 +462,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 90
     order: 132
     poster_session: 3
+    session_id: 8
     title: "Transferring Pretrained Networks to Small Data via Category Decorrelation"
     authors:
       - author: "Ying Jin (Tsinghua University)"
@@ -458,6 +481,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
     order: 99
     oral_session: 5
     poster_session: 3
+    session_id: 6
     title: "EPI-based Oriented Relation Networks for Light Field Depth Estimation"
     authors:
       - author: "Kunyuan Li (Hefei University of Technology)"
@@ -481,6 +505,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 97
     order: 188
     poster_session: 4
+    session_id: 11
     title: "N2NSkip: Learning Highly Sparse Networks using Neuron-to-Neuron Skip Connections"
     authors:
       - author: "Arvind Subramaniam (Bits Pilani Hyderabad Campus)"
@@ -505,6 +530,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 99
     order: 32
     poster_session: 1
+    session_id: 2
     title: "Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter"
     authors:
       - author: "Zhengyu Zhao (Radboud University)"
@@ -527,6 +553,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
     order: 102
     oral_session: 5
     poster_session: 3
+    session_id: 6
     title: "Key-Nets: Optical Transformation Convolutional Networks for Privacy Preserving Vision Sensors"
     authors:
       - author: "Jeffrey Byrne (STR"
@@ -554,6 +581,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
     order: 4
     oral_session: 2
     poster_session: 1
+    session_id: 1
     title: "Cross-Modal Hierarchical Modelling for Fine-Grained Sketch Based Image Retrieval"
     authors:
       - author: "Aneeshan Sain (University of Surrey)"
@@ -574,6 +602,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 111
     order: 182
     poster_session: 4
+    session_id: 11
     title: "A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer"
     authors:
       - author: "Vladimir Iashin (Tampere University)"
@@ -594,6 +623,7 @@ both the labeled and unlabeled data to minimize labeling effort while maximize p
   - id: 113
     order: 48
     poster_session: 1
+    session_id: 2
     title: "STQ-Nets: Unifying Network Binarization and Structured Pruning"
     authors:
       - author: "Aurobindo Munagala (IIIT Hyderabad)"
@@ -618,6 +648,7 @@ We argue that these paradigms are complementary, and can be combined to offer hi
     order: 149
     oral_session: 7
     poster_session: 4
+    session_id: 9
     title: "Multimodal Image Translation with Stochastic Style Representations and Mutual Information Loss"
     authors:
       - author: "Sanghyeon Na (Korea University)"
@@ -635,6 +666,7 @@ We argue that these paradigms are complementary, and can be combined to offer hi
   - id: 118
     order: 134
     poster_session: 3
+    session_id: 8
     title: "Point Cloud Super Resolution with Adversarial Residual Graph Networks"
     authors:
       - author: "Huikai Wu (CASIA)"
@@ -654,6 +686,7 @@ We argue that these paradigms are complementary, and can be combined to offer hi
   - id: 121
     order: 140
     poster_session: 3
+    session_id: 8
     title: "Image Harmonization with Attention-based Deep Feature Modulation"
     authors:
       - author: "Guoqing Hao (University of Tsukuba)"
@@ -672,6 +705,7 @@ We argue that these paradigms are complementary, and can be combined to offer hi
     order: 56
     oral_session: 4
     poster_session: 2
+    session_id: 4
     title: "DESC: Domain Adaptation for Depth Estimation via Semantic Consistency"
     authors:
       - author: "Adrian Lopez-Rodriguez (Imperial College London)"
@@ -694,6 +728,7 @@ We argue that these paradigms are complementary, and can be combined to offer hi
   - id: 126
     order: 12
     poster_session: 1
+    session_id: 2
     title: "High-speed Light-weight CNN Inference via Strided Convolutions on a Pixel Processor Array"
     authors:
       - author: "Yanan Liu (University of Bristol)"
@@ -717,6 +752,7 @@ We argue that these paradigms are complementary, and can be combined to offer hi
   - id: 129
     order: 28
     poster_session: 1
+    session_id: 2
     title: "ASAP-Net: Attention and Structure Aware Point Cloud Sequence Segmentation"
     authors:
       - author: "Hanwen Cao (Shanghai Jiao Tong University)"
@@ -737,6 +773,7 @@ We argue that these paradigms are complementary, and can be combined to offer hi
     order: 153
     oral_session: 8
     poster_session: 4
+    session_id: 10
     title: "Procedure Completion by Learning from Partial Summaries"
     authors:
       - author: "Ehsan Elhamifar (Northeastern University)"
@@ -756,6 +793,7 @@ We argue that these paradigms are complementary, and can be combined to offer hi
   - id: 131
     order: 129
     poster_session: 3
+    session_id: 8
     title: "M2KD: Incremental Learning via Multi-model and Multi-level Knowledge Distillation"
     authors:
       - author: "Peng Zhou (University of Maryland)"
@@ -777,6 +815,7 @@ We argue that these paradigms are complementary, and can be combined to offer hi
     order: 103
     oral_session: 6
     poster_session: 3
+    session_id: 7
     title: "BriNet: Towards Bridging the Intra-class and Inter-class Gaps in One-Shot Segmentation"
     authors:
       - author: "Xianghui Yang (The University of Sydney)"
@@ -798,6 +837,7 @@ We argue that these paradigms are complementary, and can be combined to offer hi
   - id: 145
     order: 95
     poster_session: 2
+    session_id: 5
     title: "Towards Fast and Light-Weight Restoration of Dark Images"
     authors:
       - author: "mohit lamba (Indian Institute of Technology Madras)"
@@ -825,6 +865,7 @@ We show that we can enhance a full resolution, $2848 times 4256$, extremely dark
   - id: 149
     order: 88
     poster_session: 2
+    session_id: 5
     title: "Inducing Predictive Uncertainty Estimation for Face Verification"
     authors:
       - author: "Weidi Xie (University of Oxford)"
@@ -860,6 +901,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 151
     order: 112
     poster_session: 3
+    session_id: 8
     title: "Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations"
     authors:
       - author: "Yangyuxuan Kang (Institute of Software Chinese Academy of Sciences)"
@@ -882,6 +924,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 154
     order: 158
     poster_session: 4
+    session_id: 11
     title: "How to Train Your Energy-Based Model for Regression"
     authors:
       - author: "Fredrik Gustafsson (Uppsala University)"
@@ -903,6 +946,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
     order: 100
     oral_session: 5
     poster_session: 3
+    session_id: 6
     title: "Deep Sparse Light Field Refocusing"
     authors:
       - author: "Shachar Ben Dayan (Tel Aviv University)"
@@ -921,6 +965,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 161
     order: 40
     poster_session: 1
+    session_id: 2
     title: "Visualizing point cloud classifiers by curvature smoothing"
     authors:
       - author: "Chen Ziwen (Grinnell College)"
@@ -941,6 +986,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 166
     order: 29
     poster_session: 1
+    session_id: 2
     title: "Unsupervised Domain Adaptation for Spatio-Temporal Action Localization"
     authors:
       - author: "Nakul Agarwal (UC Merced)"
@@ -961,6 +1007,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 167
     order: 133
     poster_session: 3
+    session_id: 8
     title: "Integrating Long-Short Term Network for Efficient Video Object Segmentation"
     authors:
       - author: "Jingjing Wang (BJTU)"
@@ -980,6 +1027,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 174
     order: 46
     poster_session: 1
+    session_id: 2
     title: "Boosting Image and Video Compression via Learning Latent Residual Patterns"
     authors:
       - author: "Yen-Chung Chen (National Chiao Tung University)"
@@ -1000,6 +1048,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 176
     order: 35
     poster_session: 1
+    session_id: 2
     title: "The Resistance to Label Noise in K-NN and DNN Depends on its Concentration"
     authors:
       - author: "Amnon Drory (Tel-Aviv University)"
@@ -1024,6 +1073,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
     order: 53
     oral_session: 3
     poster_session: 2
+    session_id: 3
     title: "Bipartite Conditional Random Fields for Panoptic Segmentation"
     authors:
       - author: "Sadeep Jayasumana (University of Oxford)"
@@ -1045,6 +1095,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 186
     order: 23
     poster_session: 1
+    session_id: 2
     title: "Adaptation Across Extreme Variations using Unlabeled Bridges"
     authors:
       - author: "Shuyang Dai (Duke University)"
@@ -1065,6 +1116,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 187
     order: 50
     poster_session: 1
+    session_id: 2
     title: "Attentive Action and Context Factorization"
     authors:
       - author: "Yang Wang (Stony Brook University)"
@@ -1084,6 +1136,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 191
     order: 136
     poster_session: 3
+    session_id: 8
     title: "Residual Likelihood Forests"
     authors:
       - author: "Yan Zuo (Monash University)"
@@ -1104,6 +1157,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 193
     order: 15
     poster_session: 1
+    session_id: 2
     title: "FairFaceGAN: Fairness-aware Facial Image-to-Image Translation"
     authors:
       - author: "sunhee hwang (Yonsei university)"
@@ -1125,6 +1179,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 195
     order: 192
     poster_session: 4
+    session_id: 11
     title: "Unified Representation Learning for Cross Model Compatibility"
     authors:
       - author: "Chien-Yi Wang (Microsoft)"
@@ -1148,6 +1203,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 196
     order: 118
     poster_session: 3
+    session_id: 8
     title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors:
       - author: "Shantanu Jaiswal (Agency for Science, Technology and Research )"
@@ -1166,6 +1222,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 209
     order: 94
     poster_session: 2
+    session_id: 5
     title: "When Humans Meet Machines: Towards Efficient Segmentation Networks"
     authors:
       - author: "Peike Li (UTS)"
@@ -1186,6 +1243,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 211
     order: 186
     poster_session: 4
+    session_id: 11
     title: "A Novel Baseline for Zero-shot Learning via Adversarial Visual-Semantic Embedding"
     authors:
       - author: "Yu Liu (KU Leuven)"
@@ -1205,6 +1263,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 213
     order: 79
     poster_session: 2
+    session_id: 5
     title: "Branched Multi-Task Networks: Deciding what layers to share"
     authors:
       - author: "Simon Vandenhende (KU Leuven)"
@@ -1229,6 +1288,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 220
     order: 73
     poster_session: 2
+    session_id: 5
     title: "Relational Generalized Few-Shot Learning"
     authors:
       - author: "Xiahan Shi (Bosch Center for Artificial Intelligence)"
@@ -1250,6 +1310,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 221
     order: 43
     poster_session: 1
+    session_id: 2
     title: "Unsupervised Domain Adaptation by Uncertain Feature Alignment"
     authors:
       - author: "Tobias Ringwald (Karlsruhe Institute of Technology)"
@@ -1268,6 +1329,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 222
     order: 119
     poster_session: 3
+    session_id: 8
     title: "SOFA-Net: Second-Order and First-order Attention Network for Crowd Counting"
     authors:
       - author: "Haoran Duan (Newcastle University)"
@@ -1285,6 +1347,7 @@ more frontal) faces from a collection, e.g. for automatic enrolment or display."
   - id: 223
     order: 113
     poster_session: 3
+    session_id: 8
     title: "Adversarial Training for Multi-Channel Sign Language Production"
     authors:
       - author: "Ben Saunders (University of Surrey)"
@@ -1309,6 +1372,7 @@ We evaluate on the challenging RWTH-PHOENIX-Weather-2014T (PHOENIX14T) dataset, 
   - id: 226
     order: 111
     poster_session: 3
+    session_id: 8
     title: "ALBA: Reinforcement Learning for Video Object Segmentation"
     authors:
       - author: "Shreyank Gowda (University of Edinburgh)"
@@ -1327,6 +1391,7 @@ We evaluate on the challenging RWTH-PHOENIX-Weather-2014T (PHOENIX14T) dataset, 
   - id: 233
     order: 172
     poster_session: 4
+    session_id: 11
     title: "Making a Case for 3D Convolutions for Object Segmentation in Videos"
     authors:
       - author: "Sabarinath Mahadevan (RWTH Aachen University)"
@@ -1349,6 +1414,7 @@ We evaluate on the challenging RWTH-PHOENIX-Weather-2014T (PHOENIX14T) dataset, 
   - id: 234
     order: 77
     poster_session: 2
+    session_id: 5
     title: "Mid-level Fusion for End-to-End Temporal Activity Detection in Untrimmed Video"
     authors:
       - author: "Md Atiqur Rahman (University of Ottawa)"
@@ -1367,6 +1433,7 @@ We evaluate on the challenging RWTH-PHOENIX-Weather-2014T (PHOENIX14T) dataset, 
   - id: 238
     order: 120
     poster_session: 3
+    session_id: 8
     title: "CoMoGCN: Coherent Motion Aware Trajectory Prediction with Graph Representation"
     authors:
       - author: "Yuying Chen (Hong Kong University of Science and Technology)"
@@ -1392,6 +1459,7 @@ Our method achieves state-of-the-art performance on several different trajectory
     order: 2
     oral_session: 1
     poster_session: 1
+    session_id: 0
     title: "Explicit Knowledge Distillation for 3D Hand Pose Estimation from Monocular RGB"
     authors:
       - author: "Yumeng Zhang (Tsinghua University)"
@@ -1410,6 +1478,7 @@ Our method achieves state-of-the-art performance on several different trajectory
   - id: 243
     order: 16
     poster_session: 1
+    session_id: 2
     title: "Annealing Genetic GAN for Minority Oversampling"
     authors:
       - author: "Jingyu Hao (Sun Yat-sen University)"
@@ -1430,6 +1499,7 @@ Our method achieves state-of-the-art performance on several different trajectory
     order: 104
     oral_session: 6
     poster_session: 3
+    session_id: 7
     title: "Multi-label Zero-shot Classification by Learning to Transfer from External Knowledge"
     authors:
       - author: "He Huang (University of Illinois at Chicago)"
@@ -1450,6 +1520,7 @@ Our method achieves state-of-the-art performance on several different trajectory
   - id: 250
     order: 187
     poster_session: 4
+    session_id: 11
     title: "BiHand: Recovering Hand Mesh with Multi-stage Bisected Hourglass Networks"
     authors:
       - author: "Lixin Yang (Shanghai Jiao Tong University)"
@@ -1471,6 +1542,7 @@ Our method achieves state-of-the-art performance on several different trajectory
   - id: 257
     order: 185
     poster_session: 4
+    session_id: 11
     title: "Robust Scene Text Recognition Through Adaptive Image Enhancement"
     authors:
       - author: "Ye Qian (Nanjing University)"
@@ -1492,6 +1564,7 @@ Specifically, the enhancement network combines a novel hierarchical residual enh
   - id: 261
     order: 27
     poster_session: 1
+    session_id: 2
     title: "Bias-Awareness for Zero-Shot Learning the Seen and Unseen"
     authors:
       - author: "William Thong (University of Amsterdam)"
@@ -1510,6 +1583,7 @@ Specifically, the enhancement network combines a novel hierarchical residual enh
   - id: 264
     order: 19
     poster_session: 1
+    session_id: 2
     title: "Object Detection as a Positive-Unlabeled Problem"
     authors:
       - author: "Yuewei Yang (Duke University)"
@@ -1528,6 +1602,7 @@ Specifically, the enhancement network combines a novel hierarchical residual enh
     order: 3
     oral_session: 1
     poster_session: 1
+    session_id: 0
     title: "Text Attribute Aggregation and Visual Feature Decomposition for Person Search"
     authors:
       - author: "sara iodice (Imperial College London)"
@@ -1546,6 +1621,7 @@ Specifically, the enhancement network combines a novel hierarchical residual enh
   - id: 274
     order: 66
     poster_session: 2
+    session_id: 5
     title: "Pose Proposal Critic: Robust Pose Refinement by Learning Reprojection Errors"
     authors:
       - author: "Lucas Brynte (Chalmers University of Technology)"
@@ -1565,6 +1641,7 @@ In this paper we focus our attention on pose refinement, and show how to push th
   - id: 275
     order: 83
     poster_session: 2
+    session_id: 5
     title: "Superpixel Masking and Inpainting for Self-Supervised Anomaly Detection"
     authors:
       - author: "Zhenyu Li (Xi’an Jiaotong University(XJTU))"
@@ -1588,6 +1665,7 @@ In this paper we focus our attention on pose refinement, and show how to push th
     order: 55
     oral_session: 4
     poster_session: 2
+    session_id: 4
     title: "A CNN Based Approach for the Near-Field Photometric Stereo Problem"
     authors:
       - author: "Fotios Logothetis (Toshiba research)"
@@ -1606,6 +1684,7 @@ In this paper we focus our attention on pose refinement, and show how to push th
   - id: 279
     order: 36
     poster_session: 1
+    session_id: 2
     title: "Anti-Litter Surveillance based on Person Understanding via Multi-Task Learning"
     authors:
       - author: "Kangmin Bae (ETRI)"
@@ -1625,6 +1704,7 @@ In this paper we focus our attention on pose refinement, and show how to push th
   - id: 282
     order: 63
     poster_session: 2
+    session_id: 5
     title: "Non-Probabilistic Cosine Similarity Loss for Few-Shot Image Classification"
     authors:
       - author: "Joonhyuk Kim (KAIST)"
@@ -1643,6 +1723,7 @@ In this paper we focus our attention on pose refinement, and show how to push th
   - id: 287
     order: 131
     poster_session: 3
+    session_id: 8
     title: "6DoF Object Pose Estimation via Differentiable Proxy Voting Regularizer"
     authors:
       - author: "Xin Yu (University of Technology Sydney)"
@@ -1664,6 +1745,7 @@ By exploiting our voting regularizer, we are able to train our network in an end
   - id: 294
     order: 146
     poster_session: 3
+    session_id: 8
     title: "3D-GMNet: Single-View 3D Shape Recovery as A Gaussian Mixture"
     authors:
       - author: "Kohei Yamashita (Kyoto University)"
@@ -1681,6 +1763,7 @@ By exploiting our voting regularizer, we are able to train our network in an end
   - id: 303
     order: 141
     poster_session: 3
+    session_id: 8
     title: "BCaR: Beginner Classifier as Regularization Towards Generalizable Re-ID"
     authors:
       - author: "Masato Tamura (Hitachi, Ltd.)"
@@ -1700,6 +1783,7 @@ By exploiting our voting regularizer, we are able to train our network in an end
   - id: 306
     order: 74
     poster_session: 2
+    session_id: 5
     title: "Uncovering Hidden Challenges in Query-Based Video Moment Retrieval"
     authors:
       - author: "Mayu Otani (CyberAgent, Inc.)"
@@ -1720,6 +1804,7 @@ By exploiting our voting regularizer, we are able to train our network in an end
   - id: 316
     order: 76
     poster_session: 2
+    session_id: 5
     title: "Domain Adaptation of Learned Featuresfor Visual Localization"
     authors:
       - author: "Sungyong Baik (Seoul National University)"
@@ -1742,6 +1827,7 @@ By exploiting our voting regularizer, we are able to train our network in an end
   - id: 324
     order: 8
     poster_session: 1
+    session_id: 2
     title: "Semantic Estimation of 3D Body Shape and Pose using Minimal Cameras"
     authors:
       - author: "Andrew Gilbert (University of Surrey)"
@@ -1763,6 +1849,7 @@ An extensive evaluation is performed with state of the art performance reported 
   - id: 328
     order: 61
     poster_session: 2
+    session_id: 5
     title: "Deep Metric Learning Meets Deep Clustering: An Novel Unsupervised Approach for Feature Embedding"
     authors:
       - author: "Binh Nguyen (AIOZ)"
@@ -1791,6 +1878,7 @@ An extensive evaluation is performed with state of the art performance reported 
   - id: 330
     order: 9
     poster_session: 1
+    session_id: 2
     title: "Weakly Supervised Generative Network for Multiple 3D Human Pose Hypotheses"
     authors:
       - author: "Chen Li  (National University of Singapore)"
@@ -1813,6 +1901,7 @@ our approach is capable of generating multiple feasible hypotheses and achieves 
   - id: 335
     order: 164
     poster_session: 4
+    session_id: 11
     title: "Learning To Pay Attention To Mistakes"
     authors:
       - author: "Moucheng Xu (UCL)"
@@ -1834,6 +1923,7 @@ dense prediction task between vehicles and the background using CityScapes. We t
   - id: 342
     order: 174
     poster_session: 4
+    session_id: 11
     title: "Neighbours Matter: Image Captioning with Similar Images"
     authors:
       - author: "Qingzhong Wang (Department of Computer Science, City University of Hong Kong)"
@@ -1856,6 +1946,7 @@ dense prediction task between vehicles and the background using CityScapes. We t
     order: 105
     oral_session: 6
     poster_session: 3
+    session_id: 7
     title: "Few-Shot Learning with Complex-valued Neural Networks"
     authors:
       - author: "Zhen Liu (Beihang University)"
@@ -1875,6 +1966,7 @@ dense prediction task between vehicles and the background using CityScapes. We t
   - id: 356
     order: 47
     poster_session: 1
+    session_id: 2
     title: "Conditional Attention for Content-based Image Retrieval"
     authors:
       - author: "Zechao Hu (University of York)"
@@ -1890,6 +1982,7 @@ dense prediction task between vehicles and the background using CityScapes. We t
   - id: 359
     order: 68
     poster_session: 2
+    session_id: 5
     title: "Automated Search for Resource-Efficient Branched Multi-Task Networks"
     authors:
       - author: "David Brüggemann (ETH Zurich)"
@@ -1917,6 +2010,7 @@ dense prediction task between vehicles and the background using CityScapes. We t
     order: 101
     oral_session: 5
     poster_session: 3
+    session_id: 6
     title: "High-speed event-based camera tracking"
     authors:
       - author: "William Chamorro (Institut de Robòtica i Informàtica Industrial, CSIC-UPC)"
@@ -1940,6 +2034,7 @@ Meticulous treatment of sparse matrices is applied to achieve real-time performa
   - id: 367
     order: 14
     poster_session: 1
+    session_id: 2
     title: "Mixup-CAM: Weakly-supervised Semantic Segmentation via Uncertainty Regularization"
     authors:
       - author: "Yu-Ting Chang (University of California, Merced)"
@@ -1963,6 +2058,7 @@ Meticulous treatment of sparse matrices is applied to achieve real-time performa
   - id: 368
     order: 123
     poster_session: 3
+    session_id: 8
     title: "Learning Gaussian Maps for Dense Object Detection"
     authors:
       - author: "Sonaal Kant (ParallelDots, Inc.)"
@@ -1980,6 +2076,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 369
     order: 87
     poster_session: 2
+    session_id: 5
     title: "Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation"
     authors:
       - author: "Luigi Musto (University of Parma)"
@@ -1998,6 +2095,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 375
     order: 126
     poster_session: 3
+    session_id: 8
     title: "Learning to Adapt Multi-View Stereo by Self-Supervision"
     authors:
       - author: "Arijit Mallick (University of Tuebingen)"
@@ -2016,6 +2114,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 378
     order: 167
     poster_session: 4
+    session_id: 11
     title: "Graph Density-Aware Losses for Novel Compositions in Scene Graph Generation"
     authors:
       - author: "Boris Knyazev (University of Guelph)"
@@ -2040,6 +2139,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 383
     order: 26
     poster_session: 1
+    session_id: 2
     title: "Stratified Autocalibration of Cameras with Euclidean Image Plane"
     authors:
       - author: "Devesh Adlakha (University of Strasbourg)"
@@ -2063,6 +2163,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 384
     order: 108
     poster_session: 3
+    session_id: 8
     title: "Attribute-Guided Image Generation from Layout"
     authors:
       - author: "Ke Ma (University of British Columbia )"
@@ -2080,6 +2181,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 391
     order: 160
     poster_session: 4
+    session_id: 11
     title: "Refinement of Boundary Regression Using Uncertainty in Temporal Action Localization"
     authors:
       - author: "Yunze Chen (Center of Precision Sensing and Control, Institute of Automation, Chinese Academy of Sciences"
@@ -2103,6 +2205,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 395
     order: 166
     poster_session: 4
+    session_id: 11
     title: "View-consistent 4D Light Field Depth Estimation"
     authors:
       - author: "Numair Khan (Brown University)"
@@ -2124,6 +2227,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 400
     order: 124
     poster_session: 3
+    session_id: 8
     title: "From Quantized DNNs to Quantizable DNNs"
     authors:
       - author: "Kunyuan Du (Cooperative Medianet Innovation Center, Shang hai Jiao Tong University)"
@@ -2140,6 +2244,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 401
     order: 128
     poster_session: 3
+    session_id: 8
     title: "RankPose: Learning Generalised Feature with Rank Supervision for Head Pose Estimation"
     authors:
       - author: "donggen dai (None)"
@@ -2158,6 +2263,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 406
     order: 143
     poster_session: 3
+    session_id: 8
     title: "Loss Functions for Person Image Generation"
     authors:
       - author: "Haoyue Shi (Xi’an Jiaotong University)"
@@ -2178,6 +2284,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 410
     order: 168
     poster_session: 4
+    session_id: 11
     title: "Sentence Guided Temporal Modulation for Dynamic Video Thumbnail Generation"
     authors:
       - author: "Mrigank Rochan (University of Manitoba)"
@@ -2194,6 +2301,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 413
     order: 81
     poster_session: 2
+    session_id: 5
     title: "PMD-Net: Privileged Modality Distillation Network for 3D Hand Pose Estimation from a Single RGB Image"
     authors:
       - author: "Kewen Wang (Institute of Computing Technology of the Chinese Academy of Sciences)"
@@ -2211,6 +2319,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
     order: 57
     oral_session: 4
     poster_session: 2
+    session_id: 4
     title: "Visibility-aware Multi-view Stereo Network"
     authors:
       - author: "Jingyang Zhang (The Hong Kong University of Science and Technology)"
@@ -2230,6 +2339,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
     order: 5
     oral_session: 2
     poster_session: 1
+    session_id: 1
     title: "WAMDA: Weighted Alignment of Sources for Multi-source Domain Adaptation"
     authors:
       - author: "Surbhi Aggarwal (Indian Institute of Science)"
@@ -2247,6 +2357,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
     order: 7
     oral_session: 2
     poster_session: 1
+    session_id: 1
     title: "Weakly-supervised Salient Instance Detection"
     authors:
       - author: "Xin Tian (Dalian University of Technology"
@@ -2271,6 +2382,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 436
     order: 10
     poster_session: 1
+    session_id: 2
     title: "Determinantal Point Process as an alternative to NMS"
     authors:
       - author: "Samik Some (IIT Kanpur)"
@@ -2290,6 +2402,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 440
     order: 85
     poster_session: 2
+    session_id: 5
     title: "Align-and-Attend Network for Globally and Locally Coherent Video Inpainting"
     authors:
       - author: "Sanghyun Woo (KAIST)"
@@ -2310,6 +2423,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 443
     order: 62
     poster_session: 2
+    session_id: 5
     title: "A Simple and Scalable Shape Representation for 3D Reconstruction."
     authors:
       - author: "Mateusz Michalkiewicz (University of Queensland)"
@@ -2330,6 +2444,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 445
     order: 21
     poster_session: 1
+    session_id: 2
     title: "Physics-informed detection and segmentation of type II solar radio bursts"
     authors:
       - author: "Joseph Jenkins (Swansea University)"
@@ -2352,6 +2467,7 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
   - id: 448
     order: 34
     poster_session: 1
+    session_id: 2
     title: "SD-MTCNN: Self-Distilled Multi-Task CNN"
     authors:
       - author: "Ankit Jha (IIT Bombay)"
@@ -2372,6 +2488,7 @@ We validate SD-MTCNN on three benchmark datasets: CityScapes, NYUv2, and Mini-Ta
   - id: 451
     order: 121
     poster_session: 3
+    session_id: 8
     title: "Class Interference Regularization"
     authors:
       - author: "Bharti Munjal (OSRAM)"
@@ -2399,6 +2516,7 @@ triplet loss yields best few-shot learning performance on the challenging tiered
   - id: 452
     order: 180
     poster_session: 4
+    session_id: 11
     title: "Towards Convolutional Neural Networks Compression via Global&Progressive Product Quantization"
     authors:
       - author: "Weihan Chen (CASIA)"
@@ -2416,6 +2534,7 @@ triplet loss yields best few-shot learning performance on the challenging tiered
   - id: 453
     order: 60
     poster_session: 2
+    session_id: 5
     title: "Domain Adaptation Regularization for Spectral Pruning"
     authors:
       - author: "Laurent Dillard (None)"
@@ -2435,6 +2554,7 @@ triplet loss yields best few-shot learning performance on the challenging tiered
     order: 58
     oral_session: 4
     poster_session: 2
+    session_id: 4
     title: "Pano2Scene: 3D Indoor Semantic Scene Reconstruction from a Single Indoor Panorama Image"
     authors:
       - author: "Wei Zeng (University of Amsterdam)"
@@ -2456,6 +2576,7 @@ triplet loss yields best few-shot learning performance on the challenging tiered
   - id: 474
     order: 175
     poster_session: 4
+    session_id: 11
     title: "The ADUULM-Dataset - a Semantic Segmentation Dataset for Sensor Fusion"
     authors:
       - author: "Andreas Pfeuffer (Ulm University)"
@@ -2478,6 +2599,7 @@ Furthermore, state-of-the-art semantic segmentation and drivable area detection 
   - id: 476
     order: 135
     poster_session: 3
+    session_id: 8
     title: "On Modality Bias in the TVQA Dataset"
     authors:
       - author: "Thomas Winterbottom (University of Durham)"
@@ -2501,6 +2623,7 @@ Furthermore, state-of-the-art semantic segmentation and drivable area detection 
   - id: 479
     order: 70
     poster_session: 2
+    session_id: 5
     title: "Making L-BFGS Work with Industrial-Strength Nets"
     authors:
       - author: "Abhay Yadav (University of Maryland)"
@@ -2522,6 +2645,7 @@ competitive in the deep learning community."
   - id: 481
     order: 22
     poster_session: 1
+    session_id: 2
     title: "Learning 3D Global Human Motion Estimation from Unpaired, Disjoint Datasets"
     authors:
       - author: "Julian Habekost (University of Edinburgh)"
@@ -2544,6 +2668,7 @@ competitive in the deep learning community."
   - id: 493
     order: 115
     poster_session: 3
+    session_id: 8
     title: "AOL: Adaptive Online Learning for Human Trajectory Prediction in Dynamic Video Scenes"
     authors:
       - author: "Manh Huynh (ucdenver)"
@@ -2559,6 +2684,7 @@ competitive in the deep learning community."
   - id: 512
     order: 161
     poster_session: 4
+    session_id: 11
     title: "Real-time screen reading: reducing domain shift for one-shot learning"
     authors:
       - author: "James Charles (Cambridge University)"
@@ -2583,6 +2709,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 525
     order: 142
     poster_session: 3
+    session_id: 8
     title: "Cascaded channel pruning using hierarchical self-distillation"
     authors:
       - author: "Roy Miles (Imperial College London)"
@@ -2600,6 +2727,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 526
     order: 117
     poster_session: 3
+    session_id: 8
     title: "RODEO: Replay for Online Object Detection"
     authors:
       - author: "Manoj Acharya (Rochester Institute of Technology)"
@@ -2621,6 +2749,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 528
     order: 31
     poster_session: 1
+    session_id: 2
     title: "Inpainting Networks Learn to Separate Cells in Microscopy Images"
     authors:
       - author: "Steffen Wolf (Heidelberg University)"
@@ -2640,6 +2769,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 532
     order: 190
     poster_session: 4
+    session_id: 11
     title: "Robust Ensemble Model Training via Random Layer Sampling Against Adversarial Attack"
     authors:
       - author: "Hakmin Lee (KAIST)"
@@ -2661,6 +2791,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 534
     order: 80
     poster_session: 2
+    session_id: 5
     title: "Anchor-free Small-scale Multispectral Pedestrian Detection"
     authors:
       - author: "Alexander Wolpert ( Karlsruhe Institute of Technology)"
@@ -2685,6 +2816,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 539
     order: 130
     poster_session: 3
+    session_id: 8
     title: "RecSal : Deep Recursive Supervision for Visual Saliency Prediction"
     authors:
       - author: "Oindrila  Saha (IIT Kharagpur)"
@@ -2703,6 +2835,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 541
     order: 122
     poster_session: 3
+    session_id: 8
     title: "Tackling the Unannotated: Scene Graph Generation with Bias-Reduced Models"
     authors:
       - author: "Tzujui Wang (Aalto University)"
@@ -2722,6 +2855,7 @@ The system, although trained solely on synthetic data, transfers very well to th
     order: 54
     oral_session: 3
     poster_session: 2
+    session_id: 3
     title: "Delving Deeper into Anti-aliasing in ConvNets"
     authors:
       - author: "Xueyan Zou (university of california, davis)"
@@ -2743,6 +2877,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 549
     order: 110
     poster_session: 3
+    session_id: 8
     title: "Tripping through time: Efficient Localization of Activities in Videos"
     authors:
       - author: "Meera Hahn (Georgia Institute of Technology)"
@@ -2761,6 +2896,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 550
     order: 45
     poster_session: 1
+    session_id: 2
     title: "High-order Graph Convolutional Networks for 3D Human Pose Estimation"
     authors:
       - author: "Zhiming Zou (University of Illinois at Chicago)"
@@ -2778,6 +2914,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 552
     order: 144
     poster_session: 3
+    session_id: 8
     title: "Black Magic in Deep Learning: How Human Skill Impacts  Network Training"
     authors:
       - author: "kanav anand (TU DELFT)"
@@ -2797,6 +2934,7 @@ The system, although trained solely on synthetic data, transfers very well to th
   - id: 561
     order: 49
     poster_session: 1
+    session_id: 2
     title: "Attribute Adaptive Margin Softmax Loss using  Privileged Information"
     authors:
       - author: "Seyed mehdi Iranmanesh (West virginia university)"
@@ -2822,6 +2960,7 @@ The system, although trained solely on synthetic data, transfers very well to th
     order: 6
     oral_session: 2
     poster_session: 1
+    session_id: 1
     title: "Advancing weakly supervised cross-domain alignment with optimal transport"
     authors:
       - author: "Siyang Yuan (Duke University)"
@@ -2847,6 +2986,7 @@ We present empirical evidence to demonstrate the effectiveness of our approach, 
   - id: 570
     order: 20
     poster_session: 1
+    session_id: 2
     title: "First-Person View Hand Segmentation of Multi-Modal Hand Activity Video Dataset"
     authors:
       - author: "Sangpil Kim (Purdue University, USA)"
@@ -2869,6 +3009,7 @@ We present empirical evidence to demonstrate the effectiveness of our approach, 
   - id: 578
     order: 170
     poster_session: 4
+    session_id: 11
     title: "Learning Effectively from Noisy Supervision for Weakly Supervised Semantic Segmentation"
     authors:
       - author: "Wenbin Xie (Tsinghua University)"
@@ -2887,6 +3028,7 @@ We present empirical evidence to demonstrate the effectiveness of our approach, 
   - id: 581
     order: 71
     poster_session: 2
+    session_id: 5
     title: "Rethinking Curriculum Learning with Incremental Labels and Adaptive Compensation"
     authors:
       - author: "Madan Ravi Ganesh (University of Michigan)"
@@ -2906,6 +3048,7 @@ We present empirical evidence to demonstrate the effectiveness of our approach, 
     order: 52
     oral_session: 3
     poster_session: 2
+    session_id: 3
     title: "Feature Binding with Category-Dependant MixUp for Semantic Segmentation and Adversarial Robustness"
     authors:
       - author: "Md Amirul Islam (Ryerson University)"
@@ -2926,6 +3069,7 @@ We present empirical evidence to demonstrate the effectiveness of our approach, 
   - id: 618
     order: 156
     poster_session: 4
+    session_id: 11
     title: "RNN-based Motion Prediction in Competitive Fencing Considering Interaction between Players"
     authors:
       - author: "Yutaro Honda (The University of Tokyo)"
@@ -2946,6 +3090,7 @@ We present empirical evidence to demonstrate the effectiveness of our approach, 
     order: 154
     oral_session: 8
     poster_session: 4
+    session_id: 10
     title: "Learning from Counting: Leveraging Temporal Classification for Weakly Supervised Object Localization and Detection"
     authors:
       - author: "Chia-Yu Hsu (Arizona State University)"
@@ -2968,6 +3113,7 @@ We present empirical evidence to demonstrate the effectiveness of our approach, 
     order: 150
     oral_session: 7
     poster_session: 4
+    session_id: 9
     title: "Axiom-based Grad-CAM: Towards Accurate Visualization and Explanation of CNNs"
     authors:
       - author: "Ruigang Fu (National University of Defense Technology)"
@@ -2989,6 +3135,7 @@ We present empirical evidence to demonstrate the effectiveness of our approach, 
   - id: 634
     order: 78
     poster_session: 2
+    session_id: 5
     title: "Neural Network Quantization with Scale-Adjusted Training"
     authors:
       - author: "Qing Jin (Bytedance, Inc. & Texas A&M University)"
@@ -3008,6 +3155,7 @@ We present empirical evidence to demonstrate the effectiveness of our approach, 
     order: 155
     oral_session: 8
     poster_session: 4
+    session_id: 10
     title: "Video Region Annotation with Sparse Bounding Boxes"
     authors:
       - author: "Yuzheng Xu (Kyoto University)"
@@ -3031,6 +3179,7 @@ We present empirical evidence to demonstrate the effectiveness of our approach, 
   - id: 643
     order: 194
     poster_session: 4
+    session_id: 11
     title: "Unsupervised and Semi-supervised Novelty Detection using Variational Autoencoders in Opportunistic Science Missions"
     authors:
       - author: "Lorenzo Sintini (University of Oxford)"
@@ -3054,6 +3203,7 @@ In our experiments, we have evaluated both unsupervised and semi-supervised appr
   - id: 656
     order: 96
     poster_session: 2
+    session_id: 5
     title: "Contrastively-reinforced Attention Convolutional Neural Network for Fine-grained Image Recognition"
     authors:
       - author: "Dichao Liu (Nagoya University)"
@@ -3073,6 +3223,7 @@ In our experiments, we have evaluated both unsupervised and semi-supervised appr
   - id: 662
     order: 24
     poster_session: 1
+    session_id: 2
     title: "Lifted Regression/Reconstruction Networks"
     authors:
       - author: "Rasmus Høier (Chalmers University of Technology)"
@@ -3090,6 +3241,7 @@ In our experiments, we have evaluated both unsupervised and semi-supervised appr
   - id: 673
     order: 67
     poster_session: 2
+    session_id: 5
     title: "Zero-Shot Domain Generalization"
     authors:
       - author: "Udit Maniyar (Indian Institute of Technology Hyderabad)"
@@ -3114,6 +3266,7 @@ We propose a simple strategy which effectively exploits semantic information of 
   - id: 678
     order: 183
     poster_session: 4
+    session_id: 11
     title: "Real-Time Semantic Segmentation via Multiply Spatial Fusion Network"
     authors:
       - author: "Haiyang Si (Beihang University)"
@@ -3131,6 +3284,7 @@ We propose a simple strategy which effectively exploits semantic information of 
   - id: 680
     order: 30
     poster_session: 1
+    session_id: 2
     title: "Semi-supervised semantic segmentation needs strong, varied perturbations"
     authors:
       - author: "Geoffrey French (University of East Anglia)"
@@ -3160,6 +3314,7 @@ Implementation at: https://github.com/Britefury/cutmix-semisup-seg."
     order: 106
     oral_session: 6
     poster_session: 3
+    session_id: 7
     title: "Marginalized Graph Attention Hashing for Zero-Shot Image Retrieval"
     authors:
       - author: "Meixue Huang (Institute of Information Engineering, Chinese Academy of Sciences)"
@@ -3183,6 +3338,7 @@ Implementation at: https://github.com/Britefury/cutmix-semisup-seg."
     order: 148
     oral_session: 7
     poster_session: 4
+    session_id: 9
     title: "Bipartite Graph Reasoning GANs for Person Image Generation"
     authors:
       - author: "Hao Tang (University of Trento)"
@@ -3205,6 +3361,7 @@ The source code and trained models are available at https://github.com/Ha0Tang/B
     order: 51
     oral_session: 3
     poster_session: 2
+    session_id: 3
     title: "Fast Convex Relaxations using Graph Discretizations"
     authors:
       - author: "Jonas Geiping (University of Siegen)"
@@ -3230,6 +3387,7 @@ The source code and trained models are available at https://github.com/Ha0Tang/B
   - id: 702
     order: 91
     poster_session: 2
+    session_id: 5
     title: "Two-in-One Refinement for Interactive Segmentation"
     authors:
       - author: "Soumajit Majumder (University of Bonn)"
@@ -3248,6 +3406,7 @@ The source code and trained models are available at https://github.com/Ha0Tang/B
     order: 151
     oral_session: 7
     poster_session: 4
+    session_id: 9
     title: "SketchHealer: A Graph-to-Sequence Network for Recreating Partial Human Sketches"
     authors:
       - author: "Guoyao Su (Beijing University of Posts and Telecommunications)"
@@ -3269,6 +3428,7 @@ The source code and trained models are available at https://github.com/Ha0Tang/B
   - id: 725
     order: 176
     poster_session: 4
+    session_id: 11
     title: "LSD$_2$ -- Joint Denoising and Deblurring of Short and Long Exposure Images with CNNs"
     authors:
       - author: "Janne Mustaniemi (University of Oulu)"
@@ -3292,6 +3452,7 @@ The source code and trained models are available at https://github.com/Ha0Tang/B
   - id: 737
     order: 177
     poster_session: 4
+    session_id: 11
     title: "Reducing Label Noise in Anchor-Free Object Detection"
     authors:
       - author: "Nermin Samet (Middle East Technical University)"
@@ -3310,6 +3471,7 @@ The source code and trained models are available at https://github.com/Ha0Tang/B
   - id: 742
     order: 173
     poster_session: 4
+    session_id: 11
     title: "Spatial Feedback Learning to Improve Semantic Segmentation in Hot Weather"
     authors:
       - author: "Shyam Nandan Rai (IIIT-Hyderabad)"
@@ -3330,6 +3492,7 @@ The source code and trained models are available at https://github.com/Ha0Tang/B
   - id: 743
     order: 41
     poster_session: 1
+    session_id: 2
     title: "Initial Classifier Weights Replay for Memoryless Class Incremental Learning"
     authors:
       - author: "Eden Belouadah (CEA LIST)"
@@ -3358,6 +3521,7 @@ Results show that our method outperforms existing techniques by a large margin f
   - id: 744
     order: 179
     poster_session: 4
+    session_id: 11
     title: "HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events"
     authors:
       - author: "Ignacio Alzugaray (ETH Zurich)"
@@ -3380,6 +3544,7 @@ Aiming to address this shortcoming of asynchronous approaches, in this paper, we
   - id: 754
     order: 17
     poster_session: 1
+    session_id: 2
     title: "Accurate Parts Visualization for Explaining CNN Reasoning via Semantic Segmentation"
     authors:
       - author: "Ren Harada (Graduate School of Information Scienceand Technology, The University of Tokyo)"
@@ -3398,6 +3563,7 @@ Aiming to address this shortcoming of asynchronous approaches, in this paper, we
   - id: 772
     order: 84
     poster_session: 2
+    session_id: 5
     title: "From Saturation to Zero-Shot Visual Relationship Detection Using Local Context"
     authors:
       - author: "Nikolaos Gkanatsios (DeepLab)"
@@ -3420,6 +3586,7 @@ We construct a simple architecture and explore the effect of using language on g
   - id: 774
     order: 127
     poster_session: 3
+    session_id: 8
     title: "Imitating Unknown Policies via Exploration"
     authors:
       - author: "Nathan Gavenski (PUCRS)"
@@ -3440,6 +3607,7 @@ However, the iterative learning scheme from these techniques are prone to gettin
   - id: 781
     order: 116
     poster_session: 3
+    session_id: 8
     title: "MagnifierNet: Towards Semantic Adversary and Fusion for Person Re-identification"
     authors:
       - author: "Yushi Lan (Nanyang Technological University )"
@@ -3463,6 +3631,7 @@ However, the iterative learning scheme from these techniques are prone to gettin
   - id: 783
     order: 72
     poster_session: 2
+    session_id: 5
     title: "Not all points are created equal - an anisotropic cost function for facial landmark location"
     authors:
       - author: "Farshid Rayhan (The University of Manchester)"
@@ -3480,6 +3649,7 @@ However, the iterative learning scheme from these techniques are prone to gettin
   - id: 789
     order: 25
     poster_session: 1
+    session_id: 2
     title: "LiPo-LCD: Combining Lines and Points for Appearance-based Loop Closure Detection"
     authors:
       - author: "Joan Pep Company-Corcoles (University of the Balearic Islands)"
@@ -3503,6 +3673,7 @@ However, the iterative learning scheme from these techniques are prone to gettin
   - id: 790
     order: 171
     poster_session: 4
+    session_id: 11
     title: "MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation"
     authors:
       - author: "Jing  Zhu (New York University)"
@@ -3523,6 +3694,7 @@ However, the iterative learning scheme from these techniques are prone to gettin
   - id: 796
     order: 89
     poster_session: 2
+    session_id: 5
     title: "Synchronous Bidirectional Learning for Multilingual Lip Reading"
     authors:
       - author: "Mingshuang Luo (Institute of Computing Technology, Chinese Academy of Sciences, University of Chinese Academy of Science)"
@@ -3543,6 +3715,7 @@ However, the iterative learning scheme from these techniques are prone to gettin
   - id: 803
     order: 191
     poster_session: 4
+    session_id: 11
     title: "Robust Image Matching By Dynamic Feature Selection"
     authors:
       - author: "Hao Huang (New York University)"
@@ -3562,6 +3735,7 @@ However, the iterative learning scheme from these techniques are prone to gettin
   - id: 815
     order: 13
     poster_session: 1
+    session_id: 2
     title: "Text and Style Conditioned GAN for the Generation of Offline-Handwriting Lines"
     authors:
       - author: "Brian Davis (Brigham Young University)"
@@ -3585,6 +3759,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 816
     order: 92
     poster_session: 2
+    session_id: 5
     title: "LaDDer: Latent Data Distribution Modelling with a Generative Prior"
     authors:
       - author: "Shuyu Lin (University of Oxford)"
@@ -3604,6 +3779,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 817
     order: 93
     poster_session: 2
+    session_id: 5
     title: "Paying more Attention to Snapshots of Iterative Pruning: Improving Model Compression via Ensemble Distillation"
     authors:
       - author: "Duong Le (Ho Chi Minh City University of Technology)"
@@ -3623,6 +3799,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
     order: 147
     oral_session: 7
     poster_session: 4
+    session_id: 9
     title: "Weakly Paired Multi-Domain Image Translation"
     authors:
       - author: "Marc Yanlong Zhang (ETH Zurich)"
@@ -3643,6 +3820,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 859
     order: 145
     poster_session: 3
+    session_id: 8
     title: "Adversarial Concurrent Training: Optimizing Robustness and Accuracy Trade-off of Deep Neural Networks"
     authors:
       - author: "Elahe Arani (Navinfo Europe )"
@@ -3662,6 +3840,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 861
     order: 193
     poster_session: 4
+    session_id: 11
     title: "Self-Supervised Learning for Facial Action Unit Recognition through Temporal Consistency"
     authors:
       - author: "Liupei Lu (University of Southern California)"
@@ -3682,6 +3861,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 863
     order: 98
     poster_session: 2
+    session_id: 5
     title: "Learning Non-Parametric Invariances from Data with Permanent Random Connectomes"
     authors:
       - author: "Dipan Pal (Carnegie Mellon University)"
@@ -3703,6 +3883,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 864
     order: 65
     poster_session: 2
+    session_id: 5
     title: "Towards a Hypothesis on Visual Transformation based Self-Supervision"
     authors:
       - author: "Dipan Pal (Carnegie Mellon University)"
@@ -3721,6 +3902,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 877
     order: 37
     poster_session: 1
+    session_id: 2
     title: "Two-Stream Spatiotemporal Compositional Attention Network for VideoQA"
     authors:
       - author: "Taiki Miyanishi (Advanced Telecommunications Research Institute International (ATR))"
@@ -3736,6 +3918,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 890
     order: 86
     poster_session: 2
+    session_id: 5
     title: "E2ETag: An End-to-End Trainable Method for Generating and Detecting Fiducial Markers"
     authors:
       - author: "John Peace (University of Nebraska-Lincoln)"
@@ -3758,6 +3941,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 899
     order: 138
     poster_session: 3
+    session_id: 8
     title: "Constrained Video Face Clustering using1NN Relations"
     authors:
       - author: "Vicky Kalogeiton (University of Oxford)"
@@ -3778,6 +3962,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 901
     order: 44
     poster_session: 1
+    session_id: 2
     title: "Bayesian Geodesic Regression on Riemannian Manifolds"
     authors:
       - author: "Youshan Zhang (Lehigh University)"
@@ -3795,6 +3980,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
     order: 0
     oral_session: 1
     poster_session: 1
+    session_id: 0
     title: "Is Face Recognition Sexist? No, Gendered Hairstyles and Biology Are"
     authors:
       - author: "Vítor Albiero (University of Notre Dame)"
@@ -3817,6 +4003,7 @@ conditioned on arbitrary text and latent style vectors. Unlike prior work, which
   - id: 906
     order: 18
     poster_session: 1
+    session_id: 2
     title: "Intrinsic Decomposition of Document Images In-the-Wild"
     authors:
       - author: "Sagnik Das (Stony Brook University)"
@@ -3840,6 +4027,7 @@ The proposed architecture works in two steps. First, a white balancing module ne
   - id: 907
     order: 38
     poster_session: 1
+    session_id: 2
     title: "WHENet: Real-time Fine-Grained Estimation for Wide Range Head Pose"
     authors:
       - author: "Yijun Zhou (Huawei Technologies Canada)"
@@ -3860,6 +4048,7 @@ perform well for frontal views but few target head pose from all viewpoints. Thi
   - id: 918
     order: 184
     poster_session: 4
+    session_id: 11
     title: "POMP: Pomcp-based Online Motion Planning for active visual search in indoor environments"
     authors:
       - author: "Yiming Wang (IIT)"
@@ -3880,6 +4069,7 @@ perform well for frontal views but few target head pose from all viewpoints. Thi
   - id: 928
     order: 90
     poster_session: 2
+    session_id: 5
     title: "Mish: A Self Regularized Non-Monotonic Activation Function"
     authors:
       - author: "Diganta Misra (Kalinga Institute of Industrial Technology)"
@@ -3896,6 +4086,7 @@ perform well for frontal views but few target head pose from all viewpoints. Thi
   - id: 962
     order: 139
     poster_session: 3
+    session_id: 8
     title: "Thoracic Disease Identification and Localization using Distance Learning and Region Verification"
     authors:
       - author: "Cheng Zhang (The Ohio State University)"
@@ -3916,6 +4107,7 @@ perform well for frontal views but few target head pose from all viewpoints. Thi
   - id: 975
     order: 181
     poster_session: 4
+    session_id: 11
     title: "Unsupervised Monocular Depth Estimation with Multi-Baseline Stereo"
     authors:
       - author: "Saad Imran (Korea Advanced Institute of Science and Technology)"
@@ -3937,6 +4129,7 @@ perform well for frontal views but few target head pose from all viewpoints. Thi
   - id: 977
     order: 159
     poster_session: 4
+    session_id: 11
     title: "Robust Unsupervised Cleaning of Underwater Bathymetric Point Cloud Data"
     authors:
       - author: "Cong Chen (908945500)"
@@ -3959,6 +4152,7 @@ perform well for frontal views but few target head pose from all viewpoints. Thi
   - id: 979
     order: 82
     poster_session: 2
+    session_id: 5
     title: "Learning to Abstract and Predict Human Actions"
     authors:
       - author: "Romero Morais (Deakin University)"
@@ -3978,6 +4172,7 @@ perform well for frontal views but few target head pose from all viewpoints. Thi
   - id: 1025
     order: 137
     poster_session: 3
+    session_id: 8
     title: "DALE : Dark Region-Aware Low-light Image Enhancement"
     authors:
       - author: "DoKyeong Kwon (Chung-Ang Univ., Korea)"

@@ -11,11 +11,11 @@ permalink: /programme/accepted-papers/
 		<tbody>
 		{% for paper in sorted_papers %}
 		<tr id="paper-{{paper.id}}">
-			<td class="text-center"><strong>{{paper.order}}</strong><br>[{{paper.id}}]</td>
+			<td class="text-center"><strong>{{paper.order}}</strong><br>[{{paper.id}}]<br>{{paper.session_id}}</td>
 			<td>
 				<strong>{{paper.title}}</strong><br>{{paper.all_authors}}<br>
-				{% if paper.oral_session > 0 %}<button type="button" class="btn btn-primary btn-sm">Oral Session {{paper.oral_session}}</button>&nbsp;{% endif %}
-				<button type="button" class="btn btn-secondary btn-sm">Poster Session {{paper.poster_session}}</button>
+				{% if paper.oral_session > 0 %}<a class="btn btn-primary btn-sm" href="{{site.baseurl}}{% link programme/schedule.md %}#session-id-{{paper.session_id}}" role="button">Oral Session {{paper.oral_session}}</a>&nbsp;{% endif %}
+				<a class="btn btn-secondary btn-sm" href="{{site.baseurl}}{% link programme/schedule.md %}#poster-session-id-{{paper.poster_session}}" role="button">Poster Session {{paper.poster_session}}</a>
 			</td>
 		</tr>
 		{% endfor %}
