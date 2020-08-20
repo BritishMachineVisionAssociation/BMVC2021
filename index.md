@@ -10,7 +10,7 @@ The British Machine Vision Conference (BMVC) is the British Machine Vision Assoc
 
 ## Programme
 
-This year's BMVC will be held virtually over four days with a keynote talk, two oral presentation sessions and a poster session on each day in the traditional single-track format. Please see the [schedule]({{site.baseurl}}{% link programme/schedule.md %}) for the detailed timetable for the different sessions. We are delighted to announce that our four [keynote]({{site.baseurl}}{% link programme/keynotes.md %}) speakers will be Sanja Fidler, Laura Leal-Taixé, Kate Saenko and Andrew Davison. The details of the [accepted papers]({{site.baseurl}}{% link programme/accepted-papers.md %}) and their presentation times are now available. Please note that papers for poster presentation are allocated a specific day and will be presented during <strong>both morning and afternoon</strong> sessions along with the oral papers for the sessions on the same day.
+This year's BMVC will be held virtually over four days with a keynote talk, two oral presentation sessions and a poster session on each day in the traditional single-track format. Please see the [schedule]({{site.baseurl}}{% link programme/schedule.md %}) for the detailed timetable for the different sessions. We are delighted to announce that our four [keynote]({{site.baseurl}}{% link programme/keynotes.md %}) speakers will be Sanja Fidler, Laura Leal-Taixé, Kate Saenko and Andrew Davison. The details of the [accepted papers]({{site.baseurl}}{% link programme/accepted-papers.md %}) and their presentation times are now available. 
 
 ## Attending
 
@@ -21,6 +21,12 @@ We very much hope that you are able to join the interactive virtual BMVC! Regist
 	<p><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link attending/registration.md %}">Register to attend BMVC 2020!</a></p>
 </div>
 </div>
+
+## The Virtual Conference
+
+The virtual conference will consist of a live-stream of the keynotes and oral sessions, with the oppourtunity for questions and answers with the presenters, as well as poster sessions consisting of pre-recorded videos for all papers as well as interactive discussions with authors over text, audio and video via rocket.chat channels. In addition there will be scheduled acitivies from sponsors and discussion/networking forums including a BMVA town hall meeting for future ideas and how to get involved. 
+
+Please note that papers for poster presentation are allocated a specific day and will be presented during <strong>both morning and afternoon</strong> sessions along with the oral papers for the sessions on the same day.
 
 ## Authors
 
