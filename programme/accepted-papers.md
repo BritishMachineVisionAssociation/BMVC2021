@@ -14,6 +14,7 @@ index: 20
 		{% for paper in sorted-papers %}
 		{% if current-session != paper.session_id %}
 			</tbody><thead class="thead-dark"><tr><th colspan="2">
+				<a class="anchor" id="session-id-{{paper.session_id}}"></a>
 				{% capture which-day %}
 					{% for day in site.data.schedule.schedule %}
 						{% for session in day.contents %}

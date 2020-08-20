@@ -33,11 +33,11 @@ Details of the conference timetable over the four days are provided below. <stro
                 	{% if session.poster-session-id %}<a class="anchor" id="poster-session-id-{{session.poster-session-id}}"></a>{% endif %}
                 	{% if session.keynote-id %}
                 		{% assign keynote-details = site.data.programme.keynotes | where: "id", session.keynote-id | first %}
-                		<a href="{{site.baseurl}}/programme/keynotes/#{{session.keynote-id}}">Keynote: {{ keynote-details.name }}</a><br><b>{{keynote-details.title}}</b>
+                		<a href="{{site.baseurl}}/programme/keynotes/#{{session.keynote-id}}">Keynote: {{ keynote-details.name }}</a><br><strong>{{keynote-details.title}}</strong>
                 	{% elsif session.title %}
-                		{{-session.session-}}: <strong>{{-session.title-}}</strong>
+                		<a href="{{site.baseurl}}/programme/accepted-papers/#session-id-{{session.session-id}}">{{-session.session-}}</a><br><strong>{{-session.title-}}</strong>
                 	{% else %}
-                		{{ session.session }}
+                		<a href="{{site.baseurl}}/programme/accepted-papers/#session-id-{{session.session-id}}">{{ session.session }}</a>
                 	{% endif %}
             	</td>
                 <td style="text-align: center;">
