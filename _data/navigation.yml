@@ -6,6 +6,9 @@ pages:
   - title: Authors
     url: /authors/
     dropdown: true
+  - title: Attending
+    url: /attending/
+    dropdown: true
   - title: Programme
     url: /programme/
     dropdown: true

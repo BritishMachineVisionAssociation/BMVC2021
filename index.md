@@ -14,9 +14,13 @@ This year's BMVC will be held virtually over four days with a keynote talk, two 
 
 ## Attending
 
-Registration details for the virtual conference will be made avaiable shortly. Please also follow our twitter feed <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>.
+We very much hope that you are able to join the interactive virtual BMVC! Registration details for the virtual conference are now [available]({{site.baseurl}}{% link attending/registration.md %}). We have worked hard to keep costs down for the conference; standard registration is available at only £25 and the per paper conference enabling fee is only £85. Please also follow our twitter feed <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>.
 
-<!--<i class="fab fa-twitter-square fa"></i>-->
+<div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
+<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+	<p><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link attending/registration.md %}">Register to attend BMVC 2020!</a></p>
+</div>
+</div>
 
 ## Authors
 

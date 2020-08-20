@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Accepted Papers
 permalink: /programme/accepted-papers/
+index: 20
 ---
 
 {% assign sorted-papers = site.data.camera_ready.papers | sort: "order" %}

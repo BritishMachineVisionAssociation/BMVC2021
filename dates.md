@@ -59,8 +59,12 @@ permalink: /dates/
                 <td>Thursday 20th August 2020</td>
             </tr>
             <tr>
-                <td>Conference</td>
-                <td>Monday 7th &#8211; Thursday 10th September 2020</td>
+                <td>Deadline for payment of per paper event enabling fee</td>
+                <td>Thursday 27th August 2020</td>
+            </tr>
+            <tr>
+                <td><strong>Virtual Conference</strong></td>
+                <td><strong>Monday 7th &#8211; Thursday 10th September 2020</strong></td>
             </tr>
         </tbody>
     </table>

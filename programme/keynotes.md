@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Keynotes
 permalink: /programme/keynotes/
+index: 10
 ---
 
 <div class="row justify-content-around pl-4 pr-4">

@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Code of Conduct
 permalink: /programme/code-of-conduct/
+index: 30
 ---
 
 <strong>BMVC 2020 will be adopting a code of conduct for attendees in line with the CVPR code of conduct, as established for our research community, reproduced below:</strong>
