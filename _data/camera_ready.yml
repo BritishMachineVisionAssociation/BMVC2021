@@ -2184,15 +2184,13 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
     session_id: 11
     title: "Refinement of Boundary Regression Using Uncertainty in Temporal Action Localization"
     authors:
-      - author: "Yunze Chen (Center of Precision Sensing and Control, Institute of Automation, Chinese Academy of Sciences"
-      - author: "School of Artificial Intelligence, University of Chinese Academy of Sciences)"
+      - author: "Yunze Chen (Center of Precision Sensing and Control, Institute of Automation, Chinese Academy of Sciences, School of Artificial Intelligence, University of Chinese Academy of Sciences)"
       - author: "Mengjuan Chen (Center of Precision Sensing and Control, Institute of Automation, Chinese Academy of Sciences)"
       - author: "Rui Wu (Horizon Robotics)"
-      - author: "Jiagang Zhu (Institute of Automation, Chinese Academy of Sciences"
-      - author: "University of Chinese Academy of Sciences )"
+      - author: "Jiagang Zhu (Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences )"
       - author: "Zheng Zhu (Institute of Automation, Chinese Academy of Sciences)"
       - author: "Qingyi Gu (Institute of Automation, Chinese Academy of Sciences)"
-    all_authors: "Yunze Chen (Center of Precision Sensing and Control, Institute of Automation, Chinese Academy of Sciences, School of Artificial Intelligence, University of Chinese Academy of Sciences), Mengjuan Chen, Rui Wu, Jiagang Zhu (Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences ), Zheng Zhu and Qingyi Gu"
+    all_authors: "Yunze Chen, Mengjuan Chen, Rui Wu, Jiagang Zhu, Zheng Zhu and Qingyi Gu"
     code: ""
     keywords:
       - word: "Temporal Action Localization"
@@ -2360,14 +2358,12 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
     session_id: 1
     title: "Weakly-supervised Salient Instance Detection"
     authors:
-      - author: "Xin Tian (Dalian University of Technology"
-      - author: "City University of Hong Kong)"
-      - author: "Ke Xu (Dalian University of Technology"
-      - author: "City University of Hong Kong)"
+      - author: "Xin Tian (Dalian University of Technology, City University of Hong Kong)"
+      - author: "Ke Xu (Dalian University of Technology, City University of Hong Kong)"
       - author: "Xin Yang (Dalian University of Technology)"
       - author: "Baocai Yin (Dalian University of Technology)"
       - author: "Rynson Lau (City University of Hong Kong)"
-    all_authors: "Xin Tian (Dalian University of Technology, City University of Hong Kong), Ke Xu (Dalian University of Technology, City University of Hong Kong), Xin Yang, Baocai Yin and Rynson Lau"
+    all_authors: "Xin Tian, Ke Xu, Xin Yang, Baocai Yin and Rynson Lau"
     code: ""
     keywords:
       - word: "Salient Instance Detection"
@@ -3429,7 +3425,7 @@ The source code and trained models are available at https://github.com/Ha0Tang/B
     order: 176
     poster_session: 4
     session_id: 11
-    title: "LSD$_2$ -- Joint Denoising and Deblurring of Short and Long Exposure Images with CNNs"
+    title: "LSD_2 - Joint Denoising and Deblurring of Short and Long Exposure Images with CNNs"
     authors:
       - author: "Janne Mustaniemi (University of Oulu)"
       - author: "Juho	 Kannala (Aalto University, Finland)"
