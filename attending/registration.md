@@ -5,7 +5,7 @@ permalink: /attending/registration/
 index: 0
 ---
 
-Registration for the virtual conference is now open. There are two options for registration: for accepted papers, there is a conference an event enabling registration fee of £85 to cover the server hosting for the videos and interactive content and fixed costs that we have tried to keep as low as possible to allow BMVC to go ahead. We require one of these fees to be paid <strong>per paper</strong> but it also includes a single registration for one of the authors. For additional authors and standard attendees there is a single registration rate of £25 which we have kept low to allow as manner people as possible to attend the interactive parts of the virtual conference.
+Registration for the virtual conference is now open. There are two options for registration: for accepted papers, there is a conference an event enabling registration fee of £85 to cover the server hosting for the videos and interactive content and fixed costs that we have tried to keep as low as possible to allow BMVC to go ahead. We require one of these fees to be paid <strong>per paper</strong> but it also includes a single registration for one of the authors. For additional authors and standard attendees there is a single registration rate of £25 which we have kept low to allow as many people as possible to attend the interactive parts of the virtual conference.
 
 ### Bursaries
 
