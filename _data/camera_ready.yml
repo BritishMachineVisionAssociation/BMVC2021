@@ -2342,9 +2342,9 @@ Our method also achieves the state of the art accuracy on the SKU110K  dataset.
     authors:
       - author: "Surbhi Aggarwal (Indian Institute of Science)"
       - author: "Jogendra Nath Kundu (Indian Institute of Science)"
-      - author: "Venkatesh Babu RADHAKRISHNAN (Indian Institute of Science)"
+      - author: "Venkatesh Babu Radhakrishnan (Indian Institute of Science)"
       - author: "Anirban Chakraborty (Indian Institute of Science)"
-    all_authors: "Surbhi Aggarwal, Jogendra Nath Kundu, Venkatesh Babu RADHAKRISHNAN and Anirban Chakraborty"
+    all_authors: "Surbhi Aggarwal, Jogendra Nath Kundu, Venkatesh Babu Radhakrishnan and Anirban Chakraborty"
     code: ""
     keywords:
       - word: "Domain Adaptation"
