@@ -13,7 +13,7 @@ We have 20 free bursary places available for students who would otherwise be una
 
 ### Registration
 
-Please register for the virtual conference using the form below. <strong>IMPORTANT:</strong> Please register with the <strong>email address you wish to use to attend the conference</strong> as the registration will be linked to this email address and non-transferrable. For authors paying the per paper event enabling fee, <strong>please ensure you submit the correct paper ID in the eventbrite form</strong> (your paper ID from CMT).
+Please register for the virtual conference using the form below. <strong>IMPORTANT:</strong> Please register with the <strong>email address you wish to use to attend the conference</strong> as the registration will be linked to this email address and non-transferable. For authors paying the per paper event enabling fee, <strong>please ensure you submit the correct paper ID in the eventbrite form</strong> (your paper ID from CMT).
 
 
 <div class="container-fluid pb-3">
