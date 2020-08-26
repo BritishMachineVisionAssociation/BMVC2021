@@ -21,7 +21,7 @@ Details of the conference timetable over the four days are provided below. <stro
 		    <tr><th scope="col">{{ day.day }}</th>
 		        <th scope="col" style="text-align: center;">UK BST<br>(UTC + 1)</th>
 		        <th scope="col" style="text-align: center;">EDT<br>(UTC - 4)</th>
-		        <th scope="col" style="text-align: center;">CST<br>(UTC + 8)</th>
+		        <th scope="col" style="text-align: center;">China Std Time<br>(UTC + 8)</th>
 		    </tr>
 	    </thead>
         <tbody>
