@@ -47,8 +47,8 @@ Details of the conference timetable over the four days are provided below. <stro
                 	{{ session.start-time | plus: -5 | append: ":" | append: start-mins | date: "%H:%M" }} - 
                     {{ session.end-time   | plus: -5 | append: ":" | append: end-mins | date: "%H:%M" }}</td>
                 <td style="text-align: center;">
-                	{{ session.start-time | plus: 6 | append: ":" | append: start-mins | date: "%H:%M" }} - 
-                    {{ session.end-time   | plus: 6 | append: ":" | append: end-mins | date: "%H:%M" }}</td>
+                	{{ session.start-time | plus: 7 | append: ":" | append: start-mins | date: "%H:%M" }} - 
+                    {{ session.end-time   | plus: 7 | append: ":" | append: end-mins | date: "%H:%M" }}</td>
             </tr>
             {% endfor %}
         </tbody>
