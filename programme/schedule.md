@@ -20,8 +20,8 @@ Details of the conference timetable over the four days are provided below. <stro
 		    </tr>-->
 		    <tr><th scope="col">{{ day.day }}</th>
 		        <th scope="col" style="text-align: center;">UK BST<br>(UTC + 1)</th>
-		        <th scope="col" style="text-align: center;">EDT<br>(UTC - 4)</th>
-		        <th scope="col" style="text-align: center;">China Std Time<br>(UTC + 8)</th>
+		        <th scope="col" style="text-align: center;">Eastern DT<br>(UTC - 4)</th>
+		        <th scope="col" style="text-align: center;">China ST<br>(UTC + 8)</th>
 		    </tr>
 	    </thead>
         <tbody>
@@ -47,8 +47,8 @@ Details of the conference timetable over the four days are provided below. <stro
                 	{{ session.start-time | plus: -5 | append: ":" | append: start-mins | date: "%H:%M" }} - 
                     {{ session.end-time   | plus: -5 | append: ":" | append: end-mins | date: "%H:%M" }}</td>
                 <td style="text-align: center;">
-                	{{ session.start-time | plus: 7 | append: ":" | append: start-mins | date: "%H:%M" }} - 
-                    {{ session.end-time   | plus: 7 | append: ":" | append: end-mins | date: "%H:%M" }}</td>
+                	{{ session.start-time | plus: 7 | modulo: 24 | append: ":" | append: start-mins | date: "%H:%M" }} - 
+                    {{ session.end-time   | plus: 7 | modulo: 24 | append: ":" | append: end-mins | date: "%H:%M" }}</td>
             </tr>
             {% endfor %}
         </tbody>
