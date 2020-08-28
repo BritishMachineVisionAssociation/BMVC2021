@@ -5,6 +5,7 @@ keynotes:
     url: "https://www.cs.utoronto.ca/~fidler/"
     title: "AI for 3D Content Creation"
     job: Faculty at University of Toronto and a Director of AI at NVIDIA
+    abstract: "3D content is key in several domains such as architecture, film, gaming, and robotics. However, creating 3D content can be very time consuming -- the artists need to sculpt high quality 3d assets, compose them into large worlds, and bring these worlds to life by writing behaviour models that “drives” the characters around in the world. In this talk, I’ll discuss some of our recent efforts on introducing automation in the 3D content creation process using A.I."
   - name: Prof. Laura Leal-Taixé
     id: keynote-4
     img: /assets/images/mugshots/lealtaixe.jpg
