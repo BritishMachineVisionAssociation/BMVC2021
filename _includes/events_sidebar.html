@@ -8,7 +8,7 @@
   
   {% assign sorted_events = all_events | sort: "date" %}
 
-  <table class="table table-borderless mt-2"><tbody>
+  <table class="table table-borderless mt-0 mb-0"><tbody>
   {% for item in sorted_events %}
   {% assign data_format = item.date | date: '%d/%m/%Y' %}
     <tr class="card-body clearfix pb-0 pt-0 mb-1 date-filter" data-date-filter="{{ data_format }}">
@@ -19,36 +19,17 @@
   </tbody></table>
 </div>
 
-<div class="card">
-  <h5 class="card-header" style="text-align: center;"><!--<a href="{{site.baseurl}}{% link dates.md %}">-->Sponsors<!--</a>--></h5>
-  {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
-  <table class="table table-borderless mt-2"><tbody>
-  {% for group in grouped_sponsors %}
-    <tr class="card-body clearfix pb-0 pt-0 mb-1 date-filter" data-date-filter="{{ data_format }}">
-        <td><b>{{-group.name-}}</b></td>
-    </tr>
-
-    <tr class="card-body clearfix pb-0 pt-0 mb-1">
-    {% for item in group.items %}
-      {% assign data_format = item.date | date: '%d/%m/%Y' %}
-            <td><a href="{{item.url}}"><img src="{{ site.baseurl }}/assets/images/sponsors/{{item.logo}}" class="card-img-top" alt="{{ item.id }}" style="width:60%"></a></td>
-    {% endfor %}
-    </tr>
-  {% endfor %}
-  </tbody></table>
-</div>
-
 <div class="card mt-2">
   <h5 class="card-header" style="text-align: center;"><!--<a href="{{site.baseurl}}{% link dates.md %}">-->Sponsors<!--</a>--></h5>
   {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
   <div class="container">
   {% for group in grouped_sponsors %}
-    <div class="row mb-2 justify-content-center align-items-center">
+    <div class="row mt-1 mb-1 justify-content-around align-items-center">
       <div class="col-12">
-        <p class="mt-2"><b>{{-group.name-}}</b></p>
+        <b>{{-group.name-}}</b>
       </div>
     {% for item in group.items %}
-      <div class="col-6 mb-1 mt-1 text-center">
+      <div class="col-5 mb-1 text-center">
         <a href="{{item.url}}"><img src="{{ site.baseurl }}/assets/images/sponsors/{{item.logo}}" class="img-fluid" alt="{{ item.id }}" style="max-height: 100px;"></a>
       </div>
     {% endfor %}
