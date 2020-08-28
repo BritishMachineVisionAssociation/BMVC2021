@@ -1,0 +1,13 @@
+sponsors:
+  - name: Amazon
+    type: Platinum
+    logo: amazon.jpg
+    url: "https://amazon.com/"
+  - name: Snap
+    type: Platinum
+    logo: snap.png
+    url: "https://snapchat.com/"
+  - name: Huawei
+    type: Gold
+    logo: huawei.png
+    url: "http://huawei.com/"
