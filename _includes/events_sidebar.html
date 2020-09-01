@@ -20,7 +20,7 @@
 </div>
 
 <div class="card mt-2">
-  <h5 class="card-header" style="text-align: center;"><!--<a href="{{site.baseurl}}{% link dates.md %}">-->Sponsors<!--</a>--></h5>
+  <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a></h5>
   {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
   <div class="container">
   {% for group in grouped_sponsors %}
@@ -29,7 +29,7 @@
         <b>{{-group.name-}}</b>
       </div>
     {% for item in group.items %}
-      <div class="col-5 mb-1 text-center">
+      <div class="col mb-1 text-center">
         <a href="{{item.url}}"><img src="{{ site.baseurl }}/assets/images/sponsors/{{item.logo}}" class="img-fluid" alt="{{ item.id }}" style="max-height: 100px;"></a>
       </div>
     {% endfor %}

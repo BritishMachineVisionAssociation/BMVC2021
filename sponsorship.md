@@ -4,7 +4,27 @@ title: Sponsorship
 permalink: /sponsorship/
 ---
 
-<p align="center"><strong>
+<p class="mb-3" align="center"><strong>We are very grateful to our sponsors for supporting the conference this year:</strong></p>
+
+{% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
+<!--<div class="container mb-3">-->
+{% for group in grouped_sponsors %}
+<div class="row mt-1 mb-1 justify-content-around align-items-center">
+  <div class="col-12 mt-3 mb-3">
+    <h3>{{-group.name-}}&nbsp;Sponsors</h3>
+  </div>
+{% for item in group.items %}
+  <div class="col mb-1 text-center">
+    <a href="{{item.url}}"><img src="{{ site.baseurl }}/assets/images/sponsors/{{item.logo}}" class="img-fluid" alt="{{ item.id }}" style="max-height: 100px;"></a>
+  </div>
+{% endfor %}
+</div>
+{% endfor %}
+<!--</div>-->
+
+<h3 class="mt-3">Sponsorship Opportunities</h3>
+
+<p class="mt-3" align="center"><strong>
             There are various sponsorship opportunities at BMVC; please get in touch with <a href="mailto:martin.fergie@manchester.ac.uk">Martin Fergie</a> to discuss sponsoring the conference.
         </strong></p>
 
