@@ -3,6 +3,8 @@ pages:
     url: /
   - title: Dates
     url: /dates/
+  - title: Chat
+    url: /chat/
   - title: Authors
     url: /authors/
     dropdown: true
