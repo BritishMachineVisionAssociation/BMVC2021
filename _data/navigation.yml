@@ -3,6 +3,9 @@ pages:
     url: /
   - title: Dates
     url: /dates/
+  - title: Conference
+    url: /conference/
+    dropdown: true
   - title: Chat
     url: /chat/
   - title: Authors
