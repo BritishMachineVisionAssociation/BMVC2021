@@ -15,7 +15,10 @@ index: 20
         
 <ul class="nav nav-pills justify-content-center">
   <li class="nav-item">
-    <a class="nav-link text-muted" href="{{site.baseurl}}/conference/papers/">Browse </a>
+  <a class="nav-link text-muted" href="{{site.baseurl}}/conference/schedule/">Schedule</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link text-muted" href="{{site.baseurl}}/conference/papers/">Browse Papers</a>
   </li>
   <li class="nav-item active">
     <a

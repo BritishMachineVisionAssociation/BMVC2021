@@ -1,6 +1,6 @@
 ---
 layout: default_miniconf
-title: Papers
+title: Browse Papers
 permalink: /conference/papers/
 index: 10
 ---
@@ -22,6 +22,9 @@ index: 10
   <div class="tabs">
     
 	<ul class="nav nav-pills justify-content-center">
+	<li class="nav-item">
+    <a class="nav-link text-muted" href="{{site.baseurl}}/conference/schedule/">Schedule</a>
+    </li>
 	<li class="nav-item active">
 	<a
 	  class="nav-link text-muted active"
@@ -30,7 +33,7 @@ index: 10
 	  role="tab"
 	  aria-controls="nav-home"
 	  aria-selected="true"
-	  >Browse
+	  >Browse Papers
 	</a>
 	</li>
 	<li class="nav-item">
