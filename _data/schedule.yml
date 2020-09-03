@@ -76,6 +76,11 @@ schedule:
         end-time: "12:00"
         data: "[DATA]"
         session-id: 6
+      - session: BMVA Town Hall Meeting
+        title: "Feedback and Ideas for the Future of the BMVA"
+        start-time: "12:10"
+        end-time: "12:50"
+        data: "[DATA]"
       - session: Oral Session 6
         title: "Zero/Few Shot Learning"
         start-time: "13:00"
