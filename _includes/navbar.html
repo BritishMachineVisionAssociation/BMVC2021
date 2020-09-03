@@ -29,9 +29,7 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               {% assign sorted_dropdown_pages = dropdown_pages | sort:"index" %}
               {% for subpage in sorted_dropdown_pages %}
-                {% if subpage.meeting-title %}
-                  {% assign date_format = subpage.date | date: '%d/%m/%Y' %}
-                  <a class="dropdown-item {% if subpage.url == page.url %}font-weight-bold{% endif %} date-filter" data-date-filter="{{ date_format }}" href="{{ site.baseurl }}{{ subpage.url }}">{{ subpage.title }}</a>
+                {% if subpage.paper %}
                 {% else %}
                   <a class="dropdown-item {% if subpage.url == page.url %}font-weight-bold{% endif %}" href="{{ site.baseurl }}{{ subpage.url }}">{{ subpage.title }}</a>
                 {% endif %}

@@ -268,7 +268,7 @@ const card_html = openreview => `
         <div class="pp-card pp-mode-` + render_mode + ` ">
             <div class="pp-card-header">
             <div class="checkbox-paper ${openreview.content.read ? 'selected' : ''}" style="display: block;position: absolute; bottom:35px;left: 35px;">✓</div>    
-                <a href="poster_${openreview.id}.html"
+                <a href="paper_${openreview.id.substring(6,10)}.html"
                 target="_blank"
                    class="text-muted">
                    <h5 class="card-title" align="center"> ${openreview.content.title} </h5></a>
