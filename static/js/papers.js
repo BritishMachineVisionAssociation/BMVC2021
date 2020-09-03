@@ -210,25 +210,24 @@ d3.select('.reshuffle').on('click', () => {
  */
 
 const keyword = kw => `<a href="papers.html?filter=keywords&search=${kw}"
-                       class="text-secondary text-decoration-none">${kw}</a>`
+                       class="text-secondary text-decoration-none">${String(kw).toLowerCase()}</a>`
 
 const card_image = (openreview, show) => {
     if (show) return ` <center><img class="lazy-load-img cards_img" data-src="https://www.bmvc2020-conference.com/assets/images/papers_small/${openreview.id.substring(openreview.id.length - 4)}.pdf.jpg" width="80%"/></center>`
     else return ''
 }
 
-/*pp-card-header*/
 const card_detail = (openreview, show) => {
-    if (show) {console.log(openreview.content.keywords);
+    if (show)
         return ` 
-     <div class="card-body">
+     <div class="pp-card-body">
         <p class="card-text"> ${openreview.content.TLDR}</p>
         <p class="card-text"><span class="font-weight-bold">Keywords:</span>
             ${openreview.content.keywords.map(keyword).join(', ')}
         </p>
     </div>
-`;
-    } else return ''
+`
+    else return ''
 }
 
 const card_time_small = (openreview, show) => {

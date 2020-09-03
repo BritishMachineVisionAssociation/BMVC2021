@@ -2,65 +2,8 @@
 layout: default_miniconf
 title: Papers
 permalink: /conference/papers/
-index: 0
+index: 10
 ---
-
-
-
-
-<link rel="stylesheet" href="{{site.baseurl}}/static/css/main.css" />
-<link rel="stylesheet" href="{{site.baseurl}}/static/css/lazy_load.css" />
-<link rel="stylesheet" href="{{site.baseurl}}/static/css/typeahead.css" />
-
-<!-- External Javascript libs  -->
-<script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
-
-<script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js" integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU=" crossorigin="anonymous"></script>
-
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-
-<script
-  src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-  integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-  crossorigin="anonymous"
-></script>
-
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg=" crossorigin="anonymous"></script>
-
-<script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js" integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ=" crossorigin="anonymous"></script>
-
-<script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js" integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww=" crossorigin="anonymous"></script>
-
-
-<!-- Library libs -->
-<script src="{{site.baseurl}}/static/js/typeahead.bundle.js"></script>
-
-
-
-<!-- External CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=" crossorigin="anonymous">
-
-<!-- External Fonts (no google for china) -->
-<link
-  href="{{site.baseurl}}/static/css/Lato.css"
-  rel="stylesheet"
-/>
-<link href="{{site.baseurl}}/static/css/Exo.css" rel="stylesheet" />
-<link
-  href="{{site.baseurl}}/static/css/Cuprum.css"
-  rel="stylesheet"
-/>
-
-
-
-
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.4.0/dist/umd/popper.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy-bundle.umd.min.js"></script>
-
-<script src="{{site.baseurl}}/static/js/icons.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
-
 
 
 
@@ -91,8 +34,36 @@ index: 0
 	</a>
 	</li>
 	<li class="nav-item">
-	<a class="nav-link text-muted" href="paper_vis.html">Visualization</a>
+	<a class="nav-link text-muted" href="{{site.baseurl}}/conference/papers-visualisation/">Visualization</a>
 	</li>
+
+	<!--<li class="nav-item">
+		<div class="float-right">
+			<div class="btn-group">
+			    <button type="button" class="btn btn-secondary">All Sessions</button>
+			    <button type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split" id="dropdownMenuReference" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-reference="parent">
+			      <span class="sr-only">Toggle Dropdown</span>
+			    </button>
+			    <div class="dropdown-menu" aria-labelledby="dropdownMenuReference">
+			      <a class="dropdown-item" href="#?session=">All Sessions</a>
+				  <div class="dropdown-divider"></div>
+			      <a class="dropdown-item" href="{{site.baseurl}}/conference/papers/?session=O1&filter=keywords">Oral 1</a>
+			      <a class="dropdown-item" href="{{site.baseurl}}/conference/papers/?session=O2&filter=keywords">Oral 2</a>
+			      <a class="dropdown-item" href="{{site.baseurl}}/conference/papers/?session=P1S1&filter=keywords">Poster 1</a>
+			      <a class="dropdown-item" href="#">Oral 3</a>
+			      <a class="dropdown-item" href="#">Oral 4</a>
+			      <a class="dropdown-item" href="#">Poster 2</a>
+			      <a class="dropdown-item" href="#">Oral 5</a>
+			      <a class="dropdown-item" href="#">Oral 6</a>
+			      <a class="dropdown-item" href="#">Poster 3</a>
+			      <a class="dropdown-item" href="#">Oral 7</a>
+			      <a class="dropdown-item" href="#">Oral 8</a>
+			      <a class="dropdown-item" href="#">Poster 4</a>
+			    </div>
+			  </div>
+		</div>
+	</li>-->
+
 	</ul>
 
 
@@ -123,23 +94,25 @@ index: 0
 
 <!-- Buttons -->
 <div class="row">
+
 <div class="col-12 col-sm-12 col-md-6 col-lg-4">
-<div class="input-group mb-3">
-  <input
-    type="text"
-    class="form-control typeahead_all"
-    placeholder="Search"
-  />
-  <div class="input-group-append">
-    <button
-      class="btn btn-outline-secondary typeahead_all_clear"
-      type="button"
-    >
-      &times;
-    </button>
-  </div>
+	<div class="input-group mb-3">
+	  <input
+	    type="text"
+	    class="form-control typeahead_all"
+	    placeholder="Search"
+	  />
+	  <div class="input-group-append">
+	    <button
+	      class="btn btn-outline-secondary typeahead_all_clear"
+	      type="button"
+	    >
+	      &times;
+	    </button>
+	  </div>
+	</div>
 </div>
-</div>
+
 <div
 class="col-12 col-sm-6 col-md-6 col-lg-4 text-center"
 style="margin-bottom: 10px;"
@@ -250,69 +223,3 @@ start();
 
 
 
-
-
-{% assign sorted-papers = site.data.camera_ready.papers | sort: "order" %}
-
-<div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-left">
-	<table class="table table-striped table-bordered" style="">
-		<tbody>
-		<a style="visibility: hidden;">{% decrement current-session %}</a>
-		{% for paper in sorted-papers %}
-		{% if current-session != paper.session_id %}
-			</tbody><thead class="thead-dark"><tr><th colspan="2">
-				<a class="anchor" id="session-id-{{paper.session_id}}"></a>
-				{% capture which-day %}
-					{% for day in site.data.schedule.schedule %}
-						{% for session in day.contents %}
-							{% if session.session-id == paper.session_id %}
-								{{-day.day-}}{% break %}
-							{% endif %}
-						{% endfor %}
-					{% endfor %}
-				{% endcapture %}
-				{% if paper.oral_session %}
-					{% capture title %}
-						{% for day in site.data.schedule.schedule %}
-							{% for session in day.contents %}
-								{% if session.session-id == paper.session_id %}
-									{{ session.title }}
-								{% endif %}
-							{% endfor %}
-						{% endfor %}
-					{% endcapture %}
-					{{-which-day-}}: Oral Session {{paper.oral_session}}: {{ title }}
-				{% else %}
-					{{-which-day-}}: Poster Session {{paper.poster_session}}
-				{% endif %}
-			</th></tr></thead><tbody>
-			<a style="visibility: hidden;">{% increment current-session %}</a>
-		{% endif %}
-		<tr id="paper-{{paper.id}}">
-			<td class="text-center"><strong>{{paper.order}}</strong><br><span style="opacity: 0.5;">[{{paper.id}}]</span></td>
-			<td>
-				<strong>{{paper.title}}</strong><br>{{paper.all_authors}}<br>
-				<a class="btn btn-info btn-sm mt-1" href="https://www.bmvc2020-conference.com/assets/{{paper.paper}}" role="button">Paper</a>&nbsp;
-				{% if paper.supp > '' %}<a class="btn btn-info btn-sm mt-1" href="https://www.bmvc2020-conference.com/assets/{{paper.supp}}" role="button">Supplemental</a>&nbsp;{% endif %}
-				{% if paper.supp2 > '' %}<a class="btn btn-info btn-sm mt-1" href="https://www.bmvc2020-conference.com/assets/{{paper.supp2}}" role="button">Supplemental</a>&nbsp;{% endif %}
-				{% if paper.code > '' %}<a class="btn btn-info btn-sm mt-1" href="{{paper.code}}" role="button">Code</a>&nbsp;{% endif %}
-				{% if paper.oral_session > 0 %}<a class="btn btn-primary btn-sm mt-1" href="{{site.baseurl}}{% link programme/schedule.md %}#session-id-{{paper.session_id}}" role="button">Oral Session {{paper.oral_session}}</a>&nbsp;{% endif %}
-				<a class="btn btn-primary btn-sm mt-1" href="{{site.baseurl}}{% link programme/schedule.md %}#poster-session-id-{{paper.poster_session}}" role="button">Poster Session {{paper.poster_session}}</a>
-			</td>
-		</tr>
-		{% endfor %}
-		</tbody>
-	</table>
-</div>
-
-<!--
-{% for paper in site.data.camera_ready.papers %}
-
-<p id="paper-{{paper.id}}">
-	<span>[{{paper.id}}]</span>
-	<span><strong>{{paper.title}}</strong></span><br>
-	<span>{{paper.all_authors}}</span>
-</p>
-
-{% endfor %}
--->
