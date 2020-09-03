@@ -1,5 +1,5 @@
 ---
-layout: default_sparse
+layout: default_miniconf
 title: Papers
 permalink: /conference/papers/
 index: 0
@@ -8,10 +8,57 @@ index: 0
 
 
 
+<link rel="stylesheet" href="{{site.baseurl}}/static/css/main.css" />
+<link rel="stylesheet" href="{{site.baseurl}}/static/css/lazy_load.css" />
+<link rel="stylesheet" href="{{site.baseurl}}/static/css/typeahead.css" />
+
+<!-- External Javascript libs  -->
+<script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js" integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU=" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+<script
+  src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+  integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+  crossorigin="anonymous"
+></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg=" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js" integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ=" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js" integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww=" crossorigin="anonymous"></script>
+
+
+<!-- Library libs -->
+<script src="{{site.baseurl}}/static/js/typeahead.bundle.js"></script>
+
+
+
+<!-- External CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=" crossorigin="anonymous">
+
+<!-- External Fonts (no google for china) -->
+<link
+  href="{{site.baseurl}}/static/css/Lato.css"
+  rel="stylesheet"
+/>
+<link href="{{site.baseurl}}/static/css/Exo.css" rel="stylesheet" />
+<link
+  href="{{site.baseurl}}/static/css/Cuprum.css"
+  rel="stylesheet"
+/>
+
+
+
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.4.0/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy-bundle.umd.min.js"></script>
 
-<script src="static/js/icons.js"></script>
+<script src="{{site.baseurl}}/static/js/icons.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
 
 
@@ -169,10 +216,10 @@ style="margin-bottom: 10px;"
 
 <!-- Cards -->
 <div class="cards row"></div>
-<script src="static/js/little_helpers.js"></script>
-<script src="static/js/lazy_load.js"></script>
-<script src="static/js/persistor.js"></script>
-<script src="static/js/papers.js"></script>
+<script src="{{site.baseurl}}/static/js/little_helpers.js"></script>
+<script src="{{site.baseurl}}/static/js/lazy_load.js"></script>
+<script src="{{site.baseurl}}/static/js/persistor.js"></script>
+<script src="{{site.baseurl}}/static/js/papers.js"></script>
 <script>
 $(document).ready(function () {
 tippy("[data-tippy-content]", { trigger: "mouseenter focus" });
@@ -195,7 +242,7 @@ start();
     I agree
   </div>
 </div>
-<script src="static/js/gdpr_cookies.js"></script>
+<script src="{{site.baseurl}}/static/js/gdpr_cookies.js"></script>
 
 
 
