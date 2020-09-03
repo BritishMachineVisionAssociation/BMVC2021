@@ -23,4 +23,5 @@ supp: ""
 abstract: "We present an approach to accurately estimate high fidelity markerless 3D pose and volumetric reconstruction of human performance using only a small set of camera views ( 2). Our method utilises a dual loss in a generative adversarial network that can yield improved performance in both reconstruction and pose estimate error. We use a deep prior implicitly learnt by the network trained over a dataset of view-ablated multi-view video footage of a wide range of subjects and actions. Uniquely we use a multi-channel symmetric 3D convolutional encoder-decoder with a dual loss to enforce the learning of a latent embedding that enforces skeletal joint positions and a deep volumetric reconstruction of the performer.
 An extensive evaluation is performed with state of the art performance reported on three datasets; Human 3.6M, TotalCapture and TotalCaptureOutdoor. The method opens the possibility of high-end volumetric and pose performance capture in on-set and prosumer scenarios where time or cost prohibit a high witness camera count."
 slides-id: 38933947
+channel-id: "paper_008_P1_id_0324"
 ---

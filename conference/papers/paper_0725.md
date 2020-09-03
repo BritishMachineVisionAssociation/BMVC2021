@@ -25,4 +25,5 @@ paper: "papers/0725.pdf"
 supp: "supp/0725_supp.pdf"
 abstract: "The paper addresses the problem of acquiring high-quality photographs with handheld smartphone cameras in low-light imaging conditions. We propose an approach based on capturing pairs of short and long exposure images in rapid succession and fusing them into a single high-quality photograph. Unlike existing methods, we take advantage of both images simultaneously and perform a joint denoising and deblurring using a convolutional neural network. A novel approach is introduced to generate realistic short-long exposure image pairs. The method produces good images in extremely challenging conditions and outperforms existing denoising and deblurring methods. It also enables exposure fusion in the presence of motion blur."
 slides-id: 38934022
+channel-id: "paper_176_P4_id_0725"
 ---

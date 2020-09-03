@@ -19,4 +19,5 @@ paper: "papers/0702.pdf"
 supp: ""
 abstract: "Deep convolutional neural networks are now mainstream for click-based interactive image segmentation. In majority of the frameworks, false negatives and false positive regions are refined via a succession of positive and negative clicks placed centrally in these regions.  We propose a simple yet intuitive two-in-one refinement strategy by using clicks placed on the boundary of the object of interest.  As boundary clicks are a very strong cue for extracting the object of interest and we find that they are much more effective in correcting wrong segmentation masks.  In addition, we propose a boundary-aware loss which encourages segmentation masks to respect instance boundaries.  We place our new refinement scheme and loss formulation within a task-specialized segmentation framework and achieve state-of-the-art performance on the standard datasets - Berkeley, Pascal VOC 2012, DAVIS and MS COCO. We exceed competing methods by 6.5 %, 9.4 %, 10.5 % and 2.5 % respectively."
 slides-id: 38934020
+channel-id: "paper_091_P2_id_0702"
 ---

@@ -37,4 +37,5 @@ verification benchmark;
 and (iii) its use as a quality measure for selecting high quality (unblurred, good lighting, 
 more frontal) faces from a collection, e.g. for automatic enrolment or display."
 slides-id: 38933902
+channel-id: "paper_088_P2_id_0149"
 ---

@@ -24,4 +24,5 @@ supp: "supp/0890_supp.zip"
 supp2: "supp/0890_supp2.zip"
 abstract: "Existing fiducial markers solutions are designed for efficient detection and decoding, however, their ability to stand out in natural environments is difficult to infer from relatively limited analysis.  Furthermore, worsening performance in challenging image capture  scenarios  -  such  as  poor  exposure,  motion  blur,  and  off-axis  viewing  -  sheds light on their limitations. E2ETag introduces an end-to-end trainable method for designing fiducial markers and a complimentary detector.  By introducing back-propagatable marker augmentation and superimposition into training, the method learns to generate markers that can be detected and classified in challenging real-world environments using a fully convolutional detector network.  Results demonstrate that E2ETag outperforms existing methods in ideal conditions and performs much better in the presence of motion blur, contrast fluctuations, noise, and off-axis viewing angles.  "
 slides-id: 38934045
+channel-id: "paper_086_P2_id_0890"
 ---

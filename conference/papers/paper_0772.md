@@ -24,4 +24,5 @@ abstract: "Visual relationship detection has been motivated by the ``insufficien
 		
 We construct a simple architecture and explore the effect of using language on generalization. Then, we introduce adaptive local-context-aware classifiers, that are built on-the-fly based on the objects' categories. To improve context awareness, we mine and learn predicate synonyms, i.e. different predicates that could equivalently hold, and apply a distillation-like loss that forces synonyms to have similar classifiers and scores. The last also serves as a regularizer that mitigates the dominance of the most frequent classes, enabling zero-shot generalization. We evaluate predicate accuracy on existing and novel test scenarios to display state-of-the-art results over prior biased baselines."
 slides-id: 38934028
+channel-id: "paper_084_P2_id_0772"
 ---

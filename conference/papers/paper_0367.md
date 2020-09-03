@@ -25,4 +25,5 @@ paper: "papers/0367.pdf"
 supp: "supp/0367_supp.pdf"
 abstract: "Obtaining object response maps is one important step to achieve weakly-supervised semantic segmentation using image-level labels.  However, existing methods rely on the classification task, which could result in a response map only attending on discriminative object regions as the network does not need to see the entire object for optimizing the classification loss.  To tackle this issue, we propose a principled and end-to-end train-able framework to allow the network to pay attention to other parts of the object, while producing a more complete and uniform response map.  Specifically, we introduce the mixup data augmentation scheme into the classification network and design two uncertainty regularization terms to better interact with the mixup strategy.   In experiments, we conduct extensive analysis to demonstrate the proposed method and show favorable performance against state-of-the-art approaches."
 slides-id: 38933956
+channel-id: "paper_014_P1_id_0367"
 ---

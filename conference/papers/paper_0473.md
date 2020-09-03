@@ -24,4 +24,5 @@ paper: "papers/0473.pdf"
 supp: ""
 abstract: "3D indoor semantic scene reconstruction from 2D images is challenging as it requires both scene understanding and object reconstruction. Compared to perspective images, panoramas provide larger field of view and carry more scene information. In this paper, to reconstruct the 3D indoor semantic scene from a single panorama image, we propose a pipeline that jointly learns to predict the 3D scene layout, complete the object shapes and reconstruct the full scene point cloud. Experiments on the Stanford 2D-3D dataset demonstrate the generality and suitability of the proposed method."
 slides-id: 38933982
+channel-id: "paper_058_P2_id_0473"
 ---

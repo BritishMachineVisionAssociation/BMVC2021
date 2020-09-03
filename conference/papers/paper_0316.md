@@ -24,4 +24,5 @@ paper: "papers/0316.pdf"
 supp: "supp/0316_supp.pdf"
 abstract: "We tackle the problem of visual localization under changing conditions, such as time of day, weather, and seasons. Recent learned local features based on deep neural networks have shown superior performance over classical hand-crafted local features. However, in a real-world scenario, there often exists a large domain gap between training and target images, which can significantly degrade the localization accuracy. We present an approach that mitigates the domain gap by proposing a few-shot domain adaptation framework for learned local features that deals with varying conditions in visual localization. The experimental results demonstrate the superior performance over baselines, while using only a few training examples from the target domain. "
 slides-id: 38933946
+channel-id: "paper_076_P2_id_0316"
 ---

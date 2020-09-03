@@ -21,4 +21,5 @@ paper: "papers/0618.pdf"
 supp: ""
 abstract: "The ability to accurately predict the motion of fencing athletes will help to improve the competition techniques of the players and the viewing experience of the audience. Most human-motion prediction methods only consider a single person, but in fencing, the movement of the opponent greatly affects the future movements of the player. In this paper, we propose a motion prediction model that takes into account the interaction between the two players in the game by connecting the recurrent neural networks to each other. In experiments, our model improved the accuracy of predicting movements in response to the opposing player, such as retreating to avoid the opponent's thrusts."
 slides-id: 38934006
+channel-id: "paper_156_P4_id_0618"
 ---

@@ -28,4 +28,5 @@ abstract: "   Matching and partitioning problems are fundamentals of computer vi
     massively decreasing the computational effort for lifted partitioning problems compared to a Cartesian grid, while optimal energy values remain similar: The global matching is still solved near-globally optimal.
    We discuss this methodology in detail and show examples in multi-label segmentation by minimal partitions and stereo estimation, where we demonstrate that the proposed graph discretization can reduce runtime as well as memory consumption of convex relaxations of matching problems by up to a factor of 10. "
 slides-id: 38934019
+channel-id: "paper_051_P2_id_0694"
 ---

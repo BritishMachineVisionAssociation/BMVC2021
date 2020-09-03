@@ -24,4 +24,5 @@ abstract: "One of the key challenges of today's semantic segmentation approaches
 Therefore, the ADUULM dataset was created, a semantic segmentation dataset which consists of fine-annotated camera data and pixel-wise labeled lidar data recorded in diverse weather conditions. Additionally, the corresponding GPS, IMU and stereo information are provided, and for each annotated data sample, a short video-sequence is available, too.
 Furthermore, state-of-the-art semantic segmentation and drivable area detection approaches are evaluated on the proposed dataset, and it turned out that new methods are required to obtain robust and reliable results in adverse weather conditions. The ADUULM-dataset will be available online at https://www.uni-ulm.de/en/in/driveu/projects"
 slides-id: 38933983
+channel-id: "paper_175_P4_id_0474"
 ---

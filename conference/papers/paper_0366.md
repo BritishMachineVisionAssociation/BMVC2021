@@ -26,4 +26,5 @@ Our method is capable of tracking either camera motion or the motion of an objec
 The method includes a robust mechanism for the matching of events with projected line segments with very fast outlier rejection. 
 Meticulous treatment of sparse matrices is applied to achieve real-time performance. Different motion models of varying complexity are considered for the sake of comparison and performance analysis."
 slides-id: 38933955
+channel-id: "paper_101_P3_id_0366"
 ---

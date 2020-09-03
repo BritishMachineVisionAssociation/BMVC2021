@@ -29,4 +29,5 @@ Most of the state-of-the-art algorithms on dark image enhancement need to pre-am
 which restricts their applicability for unknown scenes. In contrast, we propose a simple yet effective light-weight mechanism for automatically determining the amplification factor from the input image itself.
 We show that we can enhance a full resolution, $2848 times 4256$, extremely dark single-image in the ballpark of $3$ seconds even on a CPU. We achieve this with $2-7times$ fewer model parameters, $2-3times$ lower memory utilization, $5-20times$ speed up and yet maintain a competitive image reconstruction quality compared to the current state-of-the-art algorithms."
 slides-id: 38933901
+channel-id: "paper_095_P2_id_0145"
 ---

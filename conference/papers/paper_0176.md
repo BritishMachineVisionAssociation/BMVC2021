@@ -25,4 +25,5 @@ paper: "papers/0176.pdf"
 supp: "supp/0176_supp.zip"
 abstract: "We investigate the classification performance of K-nearest neighbors (K-NN) and deep neural networks (DNNs) in the presence of label noise. We first show empirically that a DNN’s prediction for a given test example depends on the labels of the training examples in its local neighborhood. This motivates us to derive a realizable analytic expression that approximates the multi-class K-NN classification error in the presence of label noise, which is of independent importance. We then suggest that the expression for K-NN may serve as a first-order approximation for the DNN error. Finally, we demonstrate empirically the proximity of the developed expression to the observed performance of K-NN and DNN classifiers. Our result may explain the already observed surprising resistance of DNN to some types of label noise. It also characterizes an important factor of it, showing that the more concentrated the noise the greater is the degradation in performance."
 slides-id: 38933910
+channel-id: "paper_035_P1_id_0176"
 ---

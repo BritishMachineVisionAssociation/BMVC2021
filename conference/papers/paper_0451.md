@@ -29,4 +29,5 @@ In experimental evaluation, the combination of CIR and a plain Siamese-net with
 triplet loss yields best few-shot learning performance on the challenging tieredImageNet. CIR also improves the state-of-the-art technique in person re-identification on the Market-1501 dataset, based on triplet loss, and the state-of-the-art technique in person search on the CUHK-SYSU dataset, based on a cross-entropy loss. Finally, on the task of classification CIR performs on par with the popular label smoothing, as demonstrated for CIFAR-10 and -100.
 "
 slides-id: 38933979
+channel-id: "paper_121_P3_id_0451"
 ---

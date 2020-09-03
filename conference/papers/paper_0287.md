@@ -23,4 +23,5 @@ abstract: "Estimating a 6DOF object pose from a single image is very challenging
 However, direct regression of vector-fields neglects that the distances between pixels and keypoints also affect the deviations of hypotheses dramatically. In other words, small errors in direction vectors may generate severely deviated hypotheses when pixels are far away from a keypoint. In this paper, we aim to reduce such errors by incorporating the distances between pixels and keypoints into our objective. To this end, we develop a simple yet effective differentiable proxy voting Regularizer (DPVR) which mimics the hypothesis selection in the voting procedure.
 By exploiting our voting regularizer, we are able to train our network in an end-to-end manner. Experiments on widely used datasets, ie, LINEMOD and Occlusion LINEMOD, manifest that our DPVR improves pose estimation performance significantly and speeds up the training convergence. "
 slides-id: 38933942
+channel-id: "paper_131_P3_id_0287"
 ---

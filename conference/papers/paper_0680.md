@@ -30,4 +30,5 @@ yield state-of-the-art semi-supervised semantic segmentation results in standard
 Furthermore, given its challenging nature we propose that semantic segmentation acts as an effective acid test for evaluating semi-supervised regularizers.
 Implementation at: https://github.com/Britefury/cutmix-semisup-seg."
 slides-id: 38934016
+channel-id: "paper_030_P1_id_0680"
 ---

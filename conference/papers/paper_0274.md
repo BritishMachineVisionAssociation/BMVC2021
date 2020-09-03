@@ -21,4 +21,5 @@ abstract: "In recent years, considerable progress has been made for the task of 
 
 In this paper we focus our attention on pose refinement, and show how to push the state-of-the-art further in the case of partial occlusions. The proposed pose refinement method leverages on a simplified learning task, where a CNN is trained to estimate the reprojection error between an observed and a rendered image. We experiment by training on purely synthetic data as well as a mixture of synthetic and real data. Current state-of-the-art results are outperformed for two out of three metrics on the Occlusion LINEMOD benchmark, while performing on-par for the final metric."
 slides-id: 38933937
+channel-id: "paper_066_P2_id_0274"
 ---

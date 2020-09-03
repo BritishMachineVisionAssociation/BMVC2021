@@ -24,4 +24,5 @@ In our proposed active learning framework, we iteratively extract small image pa
 We enforce pixel-wise self-consistency between the outputs of the segmentation network for each image and its transformation (horizontally flipped) to utilize the rich self-supervisory information and reduce the uncertainty of the network.
 In this way, we are able to find the image patches over which the current model struggles the most to classify. By iteratively training over these difficult image patches, our experiments show that our active learning approach reaches 96% of the top performance of a model trained on all data, by using only 12% of the total data on benchmark semantic segmentation datasets (e.g., CamVid and Cityscapes)."
 slides-id: 38933864
+channel-id: "paper_114_P3_id_0010"
 ---

@@ -19,4 +19,5 @@ abstract: "Object detection is a popular branch of research in computer vision, 
 Our method also achieves the state of the art accuracy on the SKU110K  dataset.
 "
 slides-id: 38933957
+channel-id: "paper_123_P3_id_0368"
 ---

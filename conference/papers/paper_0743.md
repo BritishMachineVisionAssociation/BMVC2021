@@ -30,4 +30,5 @@ In addition, a calibration of prediction scores is done by using state level sta
 We conduct a thorough evaluation with four public datasets in a memoryless incremental learning setting. 
 Results show that our method outperforms existing techniques by a large margin for large-scale datasets."
 slides-id: 38934025
+channel-id: "paper_041_P1_id_0743"
 ---

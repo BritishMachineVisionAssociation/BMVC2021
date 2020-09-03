@@ -25,4 +25,5 @@ In this paper, we have designed, developed, and evaluated unsupervised as well a
 In an ablation study, we investigate the effectiveness of different types of loss functions. We compare losses based on reconstruction errors, losses obtained from the VAE's latent space as well as a combination of both. 
 In our experiments, we have evaluated both unsupervised and semi-supervised approaches on datasets obtained from NASA's Mars Curiosity rover. Results show that our VAE-based approaches are not only robust but also comparable, or better, than the state-of-the-art."
 slides-id: 38934011
+channel-id: "paper_194_P4_id_0643"
 ---

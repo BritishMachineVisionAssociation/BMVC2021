@@ -22,4 +22,5 @@ For accuracy-critical applications, there are endeavors to boost the model perfo
 To ensure a trade-off between performance and complexity of CNNs in the context of MTL, we introduce the novel paradigm of self-distillation within the network. Different from traditional knowledge distillation (KD), which trains the Student in accordance with a cumbersome Teacher, our self-distilled multi-task CNN model: SD-MTCNN aims at distilling knowledge from deeper CNN layers into the shallow layers. Precisely, we follow a hard-sharing based MTL setup where all the tasks share a generic feature-encoder on top of which separate task-specific decoders are enacted. Under this premise, SD-MTCNN distills the more abstract features from the decoders to the encoded feature space, which guarantees improved multi-task performance from different parts of the network.
 We validate SD-MTCNN on three benchmark datasets: CityScapes, NYUv2, and Mini-Taskonomy, and results confirm the improved generalization capability of self-distilled multi-task CNNs in comparison to the literature and baselines."
 slides-id: 38933977
+channel-id: "paper_034_P1_id_0448"
 ---

@@ -24,4 +24,5 @@ abstract: "Feature tracking using event cameras has experienced significant prog
 
 Aiming to address this shortcoming of asynchronous approaches, in this paper, we propose an asynchronous patch-feature tracker that relies solely on events and processes each event individually as soon as it gets generated. We report significant improvements in tracking quality over the state of the art in publicly available datasets, while performing an order of magnitude more efficiently than similar asynchronous tracking approaches."
 slides-id: 38934026
+channel-id: "paper_179_P4_id_0744"
 ---

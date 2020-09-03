@@ -26,4 +26,5 @@ Then, we use graph convolutional networks to aggregate crowd information efficie
 The CoMoGCN also takes advantage of variational inference to capture the variability in human trajectories by modeling the distribution.
 Our method achieves state-of-the-art performance on several different trajectory prediction benchmarks, and the best average performance among all benchmarks considered."
 slides-id: 38933928
+channel-id: "paper_120_P3_id_0238"
 ---

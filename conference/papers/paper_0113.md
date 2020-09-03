@@ -25,4 +25,5 @@ abstract: "We discuss a formulation for network compression combining two major 
 
 We argue that these paradigms are complementary, and can be combined to offer high levels of compression and speedup without any significant accuracy loss. Intuitively, weights/activations closer to zero have higher binarization error making them good candidates for pruning. Our proposed formulation incorporates speedups from binary convolution algorithms through structured pruning, enabling the removal of pruned parts of the network entirely post-training, beating previous works attempting the same by a significant margin. Overall, our method brings up to 89x layer-wise compression over the corresponding full-precision networks --  achieving only 0.33% loss on CIFAR-10 with ResNet-18 with a 40% PFR (Prune Factor Ratio for filters), and 0.3% on ImageNet with ResNet-18 with a 19% PFR."
 slides-id: 38933891
+channel-id: "paper_048_P1_id_0113"
 ---

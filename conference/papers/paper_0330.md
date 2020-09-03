@@ -24,4 +24,5 @@ Some previous works addressed the inverse problem by generating multiple hypothe
 We evaluate our method on three benchmark datasets -- Human3.6M, MPII and MPI-INF-3DHP. Experimental results show that 
 our approach is capable of generating multiple feasible hypotheses and achieves state-of-the-art results compared to existing weakly supervised approaches."
 slides-id: 38933949
+channel-id: "paper_009_P1_id_0330"
 ---

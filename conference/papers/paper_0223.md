@@ -26,4 +26,5 @@ In this paper, we propose an Adversarial Multi-Channel approach to SLP. We frame
 
 We evaluate on the challenging RWTH-PHOENIX-Weather-2014T (PHOENIX14T) dataset, and report state-of-the art SLP back-translation performance for manual production. We set new benchmarks for the production of multi-channel sign to underpin future research into realistic SLP."
 slides-id: 38933924
+channel-id: "paper_113_P3_id_0223"
 ---

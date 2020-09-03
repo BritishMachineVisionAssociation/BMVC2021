@@ -28,4 +28,5 @@ This study investigates a novel approach for the identification and optimization
 Our method builds upon recent advances in optimal transport (OT) to resolve the cross-domain matching problem in a principled manner. Formulated as a drop-in regularizer, the proposed OT solution can be efficiently computed and used in combination with other existing approaches. 
 We present empirical evidence to demonstrate the effectiveness of our approach, that enables simpler model architectures to outperform or be comparable with more sophisticated designs on a range of vision-language tasks."
 slides-id: 38934001
+channel-id: "paper_006_P1_id_0566"
 ---

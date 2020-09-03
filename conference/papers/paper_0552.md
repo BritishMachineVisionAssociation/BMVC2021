@@ -21,4 +21,5 @@ paper: "papers/0552.pdf"
 supp: "supp/0552_supp.pdf"
 abstract: "How does a user's prior experience with deep learning impact network performance?  We present an initial study based on 31 participants with different levels of experience. Their task is to perform hyperparameter optimization for a given deep learning architecture. The results show a strong positive correlation between the participant's experience and the final performance. They additionally indicate that an experienced participant finds better solutions using fewer resources on average. The data suggests furthermore that participants with no prior experience follow random strategies in their pursuit of optimal hyperparameters. Our study reveals the human factor in scientific reproducibility and in comparisons of state of the art results in deep learning."
 slides-id: 38933999
+channel-id: "paper_144_P3_id_0552"
 ---
