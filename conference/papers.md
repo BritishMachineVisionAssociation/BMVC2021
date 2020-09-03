@@ -33,11 +33,14 @@ index: 10
 	  role="tab"
 	  aria-controls="nav-home"
 	  aria-selected="true"
-	  >Browse Papers
+	  >Papers
 	</a>
 	</li>
 	<li class="nav-item">
 	<a class="nav-link text-muted" href="{{site.baseurl}}/conference/papers-visualisation/">Visualization</a>
+	</li>
+	<li class="nav-item">
+	<a class="nav-link text-muted" href="{{site.baseurl}}/conference/chat/">Discussion</a>
 	</li>
 
 	<!--<li class="nav-item">

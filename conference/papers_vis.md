@@ -13,25 +13,28 @@ index: 20
   <!-- Tabs -->
   <div class="tabs">
         
-<ul class="nav nav-pills justify-content-center">
-  <li class="nav-item">
-  <a class="nav-link text-muted" href="{{site.baseurl}}/conference/schedule/">Schedule</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link text-muted" href="{{site.baseurl}}/conference/papers/">Browse Papers</a>
-  </li>
-  <li class="nav-item active">
-    <a
-      class="nav-link text-muted active"
-      data-toggle="tab"
-      href="#"
-      role="tab"
-      aria-controls="nav-home"
-      aria-selected="true"
-      >Visualization
-    </a>
-  </li>
-</ul>
+  	<ul class="nav nav-pills justify-content-center">
+  		<li class="nav-item">
+  			<a class="nav-link text-muted" href="{{site.baseurl}}/conference/schedule/">Schedule</a>
+  		</li>
+  		<li class="nav-item">
+  			<a class="nav-link text-muted" href="{{site.baseurl}}/conference/papers/">Papers</a>
+  		</li>
+  		<li class="nav-item active">
+  			<a
+  			class="nav-link text-muted active"
+  			data-toggle="tab"
+  			href="#"
+  			role="tab"
+  			aria-controls="nav-home"
+  			aria-selected="true"
+  			>Visualization
+  		</a>
+  	</li>
+  	<li class="nav-item">
+  		<a class="nav-link text-muted" href="{{site.baseurl}}/conference/chat/">Discussion</a>
+  	</li>
+  </ul>
 
 
       </div>

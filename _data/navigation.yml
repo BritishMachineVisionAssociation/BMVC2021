@@ -6,8 +6,6 @@ pages:
   - title: Conference
     url: /conference/
     dropdown: true
-  - title: Chat
-    url: /chat/
   - title: Authors
     url: /authors/
     dropdown: true

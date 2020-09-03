@@ -22,10 +22,13 @@ index: 0
     </a>
     </li>
     <li class="nav-item">
-    <a class="nav-link text-muted" href="{{site.baseurl}}/conference/papers/">Browse Papers</a>
+    <a class="nav-link text-muted" href="{{site.baseurl}}/conference/papers/">Papers</a>
     </li>
     <li class="nav-item">
     <a class="nav-link text-muted" href="{{site.baseurl}}/conference/papers-visualisation/">Visualization</a>
+    </li>
+    <li class="nav-item">
+    <a class="nav-link text-muted" href="{{site.baseurl}}/conference/chat/">Discussion</a>
     </li>
     </ul>
   </div>
