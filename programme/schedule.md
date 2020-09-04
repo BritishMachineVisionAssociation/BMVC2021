@@ -5,7 +5,13 @@ permalink: /programme/schedule/
 index: 0
 ---
 
-Details of the conference timetable over the four days are provided below. <strong>Please note that papers for poster presentation are allocated a specific day and will be presented during both morning and afternoon sessions along with the oral papers for the sessions on the same day.</strong>
+<div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+        <p><a class="btn btn-warning" role="button" href="{{site.baseurl}}/conference/schedule/"><b>Go to the Virtual Conference!</b></a></p>
+    </div>
+</div>
+
+<p>Details of the conference timetable over the four days are provided below. <strong>Please note that papers for poster presentation are allocated a specific day and will be presented during both morning and afternoon sessions along with the oral papers for the sessions on the same day.</strong></p>
 
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
 
