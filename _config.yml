@@ -61,7 +61,7 @@ exclude:
   - vendor/ruby/
   - assets/multipagethumb.sh
   - assets/thumbnail_script.sh
-  - copy_to_testsite.sh
+  - copy_to_aws.sh
 
 #main_sponsors:
 #  - name: IAPR
