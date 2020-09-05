@@ -10,7 +10,7 @@ authors:
   - author: "Zirui Wang (University of Oxford)"
   - author: "Victor Prisacariu (University of Oxford)"
 all_authors: "Zirui Wang and Victor Prisacariu"
-code: "https://github.com/ziruiw-dev/ni_normal"
+code: "https://github.com/ActiveVisionLab/NINormal"
 keywords:
   - word: "point cloud"
   - word: "normal estimation"
