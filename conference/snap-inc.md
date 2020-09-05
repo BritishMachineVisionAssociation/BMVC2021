@@ -40,7 +40,7 @@ index: 70
 ### Who We Are
 At Snap, we believe that reinventing the camera represents our greatest opportunity to improve the way people live and communicate. We contribute to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.
 
-Learn about Snapchat, Spectacles, Lens Studio, and more at [snapchat.com](snapchat.com)
+Learn about Snapchat, Spectacles, Lens Studio, and more at [snapchat.com](https://snapchat.com/)
 
 ### Computer Vision Research & Product Development
 
