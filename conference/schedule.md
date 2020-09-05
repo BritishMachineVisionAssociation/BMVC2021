@@ -2,7 +2,7 @@
 layout: default_miniconf
 title: Conference Schedule
 permalink: /conference/schedule/
-index: 0
+index: 5
 ---
 
 <div class="container mb-3 pb-3">
