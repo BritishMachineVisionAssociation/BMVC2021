@@ -27,3 +27,11 @@ We have a great selection of papers and talks this year, and we look forward to 
 
 Best regards,    
 BMVC 2020 Programme Chairs
+
+### Rocket Chat Guide for Poster Presenters
+
+<div class="row justify-content-around align-items-center pt-3 pb-3">
+	<div class="col" style="max-width:640px; max-height: 360px;">
+		<iframe src="https://player.vimeo.com/video/455310810" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+	</div>
+</div>
