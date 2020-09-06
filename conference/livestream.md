@@ -49,6 +49,8 @@ index: 7
 
 <h3 class="mt-3 pb-2">Discussion</h3>
 
+<p>In order to partake in the live discussion below you need to pay to register and use the login details emailed to you. For registration information, please consult the <a href="{{site.baseurl}}{% link attending/registration.md %}">registration page</a>.</p>
+
 <div style="border: 1px solid #ced4da; border-radius: .25rem;" class="m-1 p-1">
 <iframe src="https://chat.bmvc2020-conference.com/channel/livestream?layout=embedded" width="100%" height="700px" frameborder="0"></iframe>
 </div>

@@ -24,7 +24,13 @@ We very much hope that you are able to join the interactive virtual BMVC! Regist
 
 ## The Virtual Conference
 
-The virtual conference will consist of a live-stream of the keynotes and oral sessions, with the opportunity for questions and answers with the presenters, as well as poster sessions consisting of pre-recorded videos for all papers as well as interactive discussions with authors over text, audio and video via rocket.chat channels. In addition there will be scheduled activities from sponsors and discussion/networking forums including a BMVA town hall meeting for future ideas and how to get involved. 
+<div class="row pt-2 no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+        <p><a class="btn btn-warning" role="button" href="{{site.baseurl}}/conference/schedule/"><b>Go to the Virtual Conference!</b></a></p>
+    </div>
+</div>
+
+The virtual conference consists of a [live-stream]({{site.baseurl}}{% link conference/livestream.md %}) of the keynotes and oral sessions, with the opportunity for questions and answers with the presenters, as well as poster sessions consisting of pre-recorded videos for all [papers](({{site.baseurl}}{% link conference/papers.md %})) as well as interactive discussions with authors over text, audio and video via rocket.chat channels. In addition there will be scheduled activities from sponsors and discussion/networking forums including a BMVA town hall meeting for future ideas and how to get involved. 
 
 Please note that papers for poster presentation are allocated a specific day and will be presented during <strong>both morning and afternoon</strong> sessions along with the oral papers for the sessions on the same day.
 

@@ -2,12 +2,15 @@ sponsors:
   - name: Amazon
     type: Platinum
     logo: amazon.jpg
-    url: "https://www.amazon.science/computer-vision"
+    url: "https://www.bmvc2020-conference.com/conference/amazon/"
+    url-external: "https://www.amazon.science/computer-vision"
   - name: Snap
     type: Platinum
     logo: snap2.png
-    url: "https://snapchat.com/"
+    url: "https://www.bmvc2020-conference.com/conference/snap-inc/"
+    url-external: "https://snapchat.com/"
   - name: Huawei
     type: Gold
     logo: huawei2.png
-    url: "https://www.huawei.com/uk/"
+    url: "https://www.bmvc2020-conference.com/conference/huawei/"
+    url-external: "https://www.huawei.com/uk/"

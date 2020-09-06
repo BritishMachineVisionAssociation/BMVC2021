@@ -27,7 +27,6 @@ Amazon Scholars is a program for academic leaders to work with Amazon in a flexi
 	</div>
 </div>
 
-
 **Please browse our [Research Brochure]({{site.baseurl}}/assets/images/sponsors/Research-Brochure-CVPR-2020.pdf).**
 
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.6.347/pdf.min.js"></script>-->
