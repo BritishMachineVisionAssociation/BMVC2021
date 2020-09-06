@@ -62,6 +62,7 @@ exclude:
   - assets/multipagethumb.sh
   - assets/thumbnail_script.sh
   - copy_to_aws.sh
+  - old/
 
 #main_sponsors:
 #  - name: IAPR
