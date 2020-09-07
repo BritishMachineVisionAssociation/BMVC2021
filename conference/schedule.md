@@ -22,6 +22,9 @@ index: 5
     </a>
     </li>
     <li class="nav-item">
+                <a class="nav-link text-muted" href="{{site.baseurl}}/conference/announcements/">Announcements</a>
+            </li>
+    <li class="nav-item">
         <a class="nav-link text-muted" href="{{site.baseurl}}/conference/livestream/">Livestream</a>
     </li>
     <li class="nav-item">

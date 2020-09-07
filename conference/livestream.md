@@ -12,6 +12,9 @@ index: 7
 			<li class="nav-item">
 				<a class="nav-link text-muted" href="{{site.baseurl}}/conference/schedule/">Schedule</a>
 			</li>
+			<li class="nav-item">
+		        <a class="nav-link text-muted" href="{{site.baseurl}}/conference/announcements/">Announcements</a>
+		    </li>
 			<li class="nav-item active">
 				<a
 				class="nav-link text-muted active"
@@ -37,11 +40,13 @@ index: 7
 
 <h3 class="mt-2">Livestream</h3>
 
-<div id="presentation-embed-{{page.slides-id}}"></div>
+{% assign livestream-id = site.data.livestream.day-two %}
+
+<div id="presentation-embed-{{livestream-id}}"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
-  embed = new SlidesLiveEmbed('presentation-embed-{{site.data.livestream.day-two}}', {
-      presentationId: '{{site.data.livestream.day-two}}',
+  embed = new SlidesLiveEmbed('presentation-embed-{{livestream-id}}', {
+      presentationId: '{{livestream-id}}',
       autoPlay: false, // change to true to autoplay the embedded presentation
       verticalEnabled: true
   });
