@@ -20,7 +20,7 @@ Learn about Snapchat, Spectacles, Lens Studio, and more at [snapchat.com](https:
 
 The Snapchat camera provides our users the opportunity to perceive, interact, and experience the world through visual understanding and augmented reality. To learn more about our cutting-edge products and research check out this [video](https://stream.sc-corp.net/r/v/boehnhqrh/YQi5ZZM4) we put together to showcase the work our team’s have been doing.
 
-Our Computer Vision R&D teams are located in Los Angeles, Seattle, NYC, London, and Israel. Check out [Snap Research](https://research.snap.com) for more information about our US-based research team and publications. To hear more about what our World AR team in London is working on, come talk to us at our paper on [Large Scale Photometric Bundle Adjustment]({{site.baseurl}}/conference/papers/paper_0822.html) at [Poster Session 4]({{site.baseurl}}/conference/schedule/#poster-session-id-4) on Thursday 10<sup>th</sup> September and check out our recently launched [Local Lenses](https://www.youtube.com/watch?v=4jA1RM5_WMc&feature=youtu.be).
+Our Computer Vision R&D teams are located in Los Angeles, Seattle, NYC, London, and Israel. Check out [Snap Research](https://research.snap.com) for more information about our US-based research team and publications. To hear more about what our World AR team in London is working on, come talk to us at our paper on [Large Scale Photometric Bundle Adjustment]({{site.baseurl}}/conference/papers/paper_0822.html) at [Poster Session 4]({{site.baseurl}}/conference/schedule/#poster-session-id-4) on Thursday 10<sup>th</sup> September and check out our recently launched [Local Lenses](https://stream.sc-corp.net/r/v/boehnhqrh/Z3pPKyGx).
 
 ### Careers and Collaboration
 
