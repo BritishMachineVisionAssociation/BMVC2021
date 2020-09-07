@@ -26,7 +26,11 @@
                 	{% if session.poster-session-id %}<a class="anchor" id="poster-session-id-{{session.poster-session-id}}"></a>{% endif %}
                 	{% if session.keynote-id %}
                 		{% assign keynote-details = site.data.programme.keynotes | where: "id", session.keynote-id | first %}
+                        {% if keynote-details.slides-id %}
+                        <a href="{{site.baseurl}}/conference/keynotes/#{{session.keynote-id}}">Keynote: {{ keynote-details.name }}</a><br><strong>{{keynote-details.title}}</strong>
+                        {% else %}
                 		<a href="{{site.baseurl}}/programme/keynotes/#{{session.keynote-id}}">Keynote: {{ keynote-details.name }}</a><br><strong>{{keynote-details.title}}</strong>
+                        {% endif %}
                 	{% else %}
                         {% if session.conference-session %}
                             <a href="{{site.baseurl}}/conference/papers/?session={{-session.conference-session-}}&filter=keywords">{{-session.session-}}</a>

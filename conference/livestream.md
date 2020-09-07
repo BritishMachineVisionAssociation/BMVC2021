@@ -40,8 +40,8 @@ index: 7
 <div id="presentation-embed-{{page.slides-id}}"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
-  embed = new SlidesLiveEmbed('presentation-embed-{{page.slides-id}}', {
-      presentationId: '{{site.data.livestream.day-one}}',
+  embed = new SlidesLiveEmbed('presentation-embed-{{site.data.livestream.day-two}}', {
+      presentationId: '{{site.data.livestream.day-two}}',
       autoPlay: false, // change to true to autoplay the embedded presentation
       verticalEnabled: true
   });
