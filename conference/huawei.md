@@ -12,9 +12,23 @@ index: 80
 We are committed to bringing digital to every person, home and organization for a
 fully connected, intelligent world. To this end, we will: Drive ubiquitous connectivity and promote equal access to networks; Provide the ultimate computing power to deliver ubiquitous cloud and pervasive intelligence; Build digital platforms to help all industries and organizations become more agile, efficient, and dynamic; Redefine user experience with AI, making it more personalized for people across all scenarios, whether they’re at home, in the office, or on the go.
 
+<div class="row justify-content-around align-items-center pb-3">
+	<div class="col" style="max-width:740px;">
+		<iframe width="100%" height="416" src="https://www.youtube.com/embed/EUwTvFzETBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
+
+<!--
 <iframe width="100%" height="100%" src="https://onebox.huawei.com/v/19c5a34e1c074357e295b2f04adf49b6" frameborder="0" allowfullscreen></iframe>
+-->
 
 Huawei’s European Research Institute manages the company’s growing array of European R&D facilities, overseeing the work of the 18 R&D sites established in eight European countries. Huawei London includes three computer vision teams working primarily on state-of-the-art research in computational photography, depth estimation, and applications to deliver innovation into Huawei’s consumer products.
+
+<div class="row justify-content-around align-items-center pb-3">
+	<div class="col" style="max-width:740px;">
+		<iframe width="100%" height="416" src="https://www.youtube.com/embed/0n4MfL_tIww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
 
 <div class="row">
 	<div class="col-12 col-md-6 col-lg-8">
@@ -35,4 +49,8 @@ Huawei’s European Research Institute manages the company’s growing array of 
 	</div>
 </div>
 
+
+
+<!--
 <iframe width="100%" height="100%" src="https://onebox.huawei.com/v/9fe90004f556170de3052743fae87a60" frameborder="0" allowfullscreen></iframe>
+-->
