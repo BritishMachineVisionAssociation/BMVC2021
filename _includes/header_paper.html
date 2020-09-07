@@ -27,6 +27,8 @@
           {% if page.supp > '' %}<a class="btn btn-info btn-sm mt-1" href="https://www.bmvc2020-conference.com/assets/{{page.supp}}" role="button">Supplemental</a>&nbsp;{% endif %}
           {% if page.supp2 > '' %}<a class="btn btn-info btn-sm mt-1" href="https://www.bmvc2020-conference.com/assets/{{page.supp2}}" role="button">Supplemental</a>&nbsp;{% endif %}
           {% if page.code > '' %}<a class="btn btn-info btn-sm mt-1" href="{{page.code}}" role="button">Code</a>&nbsp;{% endif %}
+          {% if page.oral_session > 0 %}<a class="btn btn-primary btn-sm mt-1" href="{{site.baseurl}}{% link conference/schedule.md %}#session-id-{{page.session_id}}" role="button">Oral Session {{page.oral_session}}</a>&nbsp;{% endif %}
+          <a class="btn btn-primary btn-sm mt-1" href="{{site.baseurl}}{% link conference/schedule.md %}#poster-session-id-{{page.poster_session}}" role="button">Poster Session {{page.poster_session}}</a>
         </div>
       </div></div>
   	</div>
