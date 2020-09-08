@@ -91,6 +91,7 @@ schedule:
         start-time: "12:10"
         end-time: "12:50"
         data: "[DATA]"
+        local-url: "/conference/town-hall/"
       - session: Oral Session 6
         title: "Zero/Few Shot Learning"
         start-time: "13:00"

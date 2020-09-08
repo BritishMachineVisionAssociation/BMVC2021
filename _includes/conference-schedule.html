@@ -35,7 +35,11 @@
                         {% if session.conference-session %}
                             <a href="{{site.baseurl}}/conference/papers/?session={{-session.conference-session-}}&filter=keywords">{{-session.session-}}</a>
                         {% else %}
-                            {% if session.session-id %}<a href="{{site.baseurl}}/programme/accepted-papers/#session-id-{{session.session-id}}">{% endif %}{{-session.session-}}{% if session.session-id %}</a>{% endif %}
+                            {% if session.session-id %}
+                            <a href="{{site.baseurl}}/programme/accepted-papers/#session-id-{{session.session-id}}">{{-session.session-}}</a>
+                            {% else %}
+                            <a href="{{site.baseurl}}{{session.local-url}}">{{-session.session-}}</a>
+                            {% endif %}
                         {% endif %}
                         {% if session.title %}
                             <br><strong>{{-session.title-}}</strong>
