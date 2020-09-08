@@ -28,6 +28,7 @@ I will then move towards end-to-end learning for MOT, and explain how graph neur
     url: "https://www.doc.ic.ac.uk/~ajd/"
     title: "Towards Graph-Based Spatial AI"
     job: Faculty at Imperial College and Head of the Dyson Robitics Lab
+    slides-id: 38934742
     abstract: "To enable the next generation of smart robots and devices which can
 truly interact with their environments, Simultaneous Localisation and
 Mapping (SLAM) will progressively develop into a vision-driven

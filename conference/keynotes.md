@@ -2,7 +2,7 @@
 layout: default_miniconf
 title: Keynote Archive
 permalink: /conference/keynotes/
-index: 7
+index: 9
 ---
 
 <!--

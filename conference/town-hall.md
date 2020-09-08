@@ -31,4 +31,6 @@ index: 8
 	</div>
 </div>
 
-<iframe class="mt-3" style="min-height: 700px;" src="https://chat.bmvc2020-conference.com/channel/town-hall?layout=embedded" width="100%" height="100%" frameborder="0"></iframe>
+<p>The BMVA town hall meeting will be held in a zoom webinar on Wednesday 9<sup>th</sup> September 12:10 - 12:50 UK BST (UTC+1). The link to connect to the zoom webinar are provided in the chat below: <strong>Please log in to rocket chat to view the link and don't share the URL on twitter or a public website.</strong></p>
+
+<iframe class="mt-3" style="min-height: 500px;" src="https://chat.bmvc2020-conference.com/channel/town-hall?layout=embedded" width="100%" height="100%" frameborder="0"></iframe>
