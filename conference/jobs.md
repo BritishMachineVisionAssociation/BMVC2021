@@ -52,3 +52,87 @@ We're looking for a world-class senior software engineer in computer vision and 
 Aistetic is committed to Equal Employment Opportunity through attracting and retaining a complementary team of employees and building an inclusive environment for all.
 
 Please email <careers@aistetic.com> with your cv telling us why you would like to join us.
+
+
+
+## Postdoc position on deep learning for online 3D scene understanding from images - (2000002K)
+
+The Pattern Analysis and Computer Vision (PAVIS) research line at IIT invites qualified applicants to submit their CV’s for a Postdoc position in Genoa under the supervision of Dr. Alessio Del Bue.
+
+PAVIS research line is actively developing an Artificial Intelligence (AI) infrastructure to understand our physical space and the human behaviors within it. The focus of the group is on creating intelligent systems that jointly accomplish two main goals:
+
+- Spatial AI: Perceive and understand autonomously the real physical world, both static and dynamic, with its corresponding spatial semantic (where are things, what is their function, which is the dynamic of the scene).
+- Social AI: Perceive and understand humans and their behaviors as observed by cameras in relation to the physical spaces they are interacting with.
+
+This open position, up to two years, is financed in the context of the H2020 European Project MEMEX (MEMories and EXperiences for inclusive digital storytelling – Grant Agreement 870743 - https://www.memexproject.eu) – an interdisciplinary effort to provide Augmented Reality (AR) systems to impact the European society at large.
+
+The candidate will have the opportunity to work on realistic problems involving leading European research centers and companies with the aim to create a novel AR platform able to understand the semantic scene structure of the environment using an RGB video stream from a smartphone.
+
+The research topics on 3D scene understanding are related to the recent PAVIS achievements on Spatial AI related to 3D semantic mapping, object 3D localization, graph neural networks (GNNs) for scene modelling and active visual reasoning by integrating deep learning models with multi-view geometry approaches. Such methods will leverage massive worldwide geolocalised data as provided by project partners to finally deploy a mobile app that understands, localizes and reason about the semantic elements present in a generic scene.
+
+A relevant scientific track record on major computer vision conferences/journals (CVPR, ICCV, ECCV, TPAMI, IJCV, etc.) is a criteria for the selection as well as experience on DNN models and in particular related to GNN. Experience on multi-view geometry is considered a plus for this position.
+
+At the time of the application, eligible candidates should have a Ph.D. degree in Computer Vision, Machine Learning, Robotics or related fields. The successful candidate will be offered a competitive salary commensurate to qualifications and experience.
+
+Please submit your application using the online form including a detailed curriculum vitae with publication list brief description of research interests and main accomplishments and names and contacts of 2 referees.
+
+The call will remain open until the position is filled but a first deadline for evaluation of candidates will be September 30, 2020. The position will be approved pending signature of the grant agreement by the European Commission.
+
+Fondazione Istituto Italiano di Tecnologia - IIT - was founded with the objective of promoting Italy’s technological development and further education in science and technology. In this sense, IIT is committed to achieving its scientific program, which sees a major inspirational principle in the integration between basic scientific research and the development of technical applications. Research activities at IIT cover areas of high innovative content, representing the most advanced frontiers of modern technology with wide application possibilities in various fields from medicine to industry, from computer science to robotics, life sciences and nanobiotechnology.
+
+Istituto Italiano di Tecnologia is an Equal Opportunity Employer that actively seeks diversity in the workforce.
+
+Please note that the data that you provide will be used exclusively for the purpose of professional profiles’ evaluation and selection, and in order to meet the requirements of Istituto Italiano di Tecnologia.
+
+Your data will be processed by Istituto Italiano di Tecnologia, based in Genoa, Via Morego 30, acting as Data Controller, in compliance with the rules on protection of personal data, including those related to data security.
+
+Please also note that, pursuant to articles 15 et. seq. of European Regulation no. 679/2016 (General Data Protection Regulation), you may exercise your rights at any time by contacting the Data Protection Officer (phone +39 010 71781 - email: dpo[at]iit.it).
+
+Apply at: <https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000002K>
+
+
+
+## Computer Vision Engineer at IIT Genova position – MEMEX H2020 EU project  - (2000002M)
+
+The Pattern Analysis and Computer Vision (PAVIS) research line at IIT invites qualified applicants to submit their CV’s for a Computer Vision Engineer position in Genoa under the supervision of Dr. Alessio Del Bue.
+
+PAVIS research line is actively developing an artificial intelligence (AI) infrastructure to understand our physical space and the human behaviors within it. The focus of the group is on creating intelligent systems that jointly accomplish two main goals:
+
+- Spatial AI: Perceive and understand autonomously the real physical world, both static and dynamic, with its corresponding spatial semantic (where are things, what is their function, which is the dynamic of the scene).
+- Social AI: Perceive and understand humans and their behaviors as observed by cameras in relation to the physical spaces they are interacting with.
+
+This open position, up to two years, is financed in the context of the H2020 European Project MEMEX (MEMories and EXperiences for inclusive digital storytelling – Grant Agreement 870743 - https://www.memexproject.eu) – an interdisciplinary effort to provide Augmented Reality (AR) systems to impact the European society at large.
+
+The candidate will have the opportunity to work on realistic problems involving leading European research centers and companies with the aim to create a novel AR platform able to understand the semantic scene structure of the environment using an RGB video stream from a smartphone.
+
+The skill requested for the position are the following:
+
+- Bachelor/Master degree on Computer Vision, Machine Learning, Robotics or related Engineering fields;
+- 2 years relevant experience on implementing and deploying Computer Vision and Deep Learning algorithms;
+- Experience on AWS (preferred), or other relevant cloud services;
+- Strong proficiency in programming languages, in particular Python, C++ and Java/Javascript;
+- Good knowledge of English language.
+
+While preferable skills related to the project activities are:
+
+- Managing of HPC infrastructures for Machine Learning and Computer Vision methods deployment;
+- Experience on Deep Learning models training and ML dataset management
+
+The successful candidate will be offered a competitive salary commensurate to qualifications and experience.
+
+Please submit your application using the online form including a detailed curriculum vitae with publication list brief description of research interests and main accomplishments and names and contacts of 2 referees.
+
+The call will remain open until the position is filled but a first deadline for evaluation of candidates will be September 30, 2020. The position will be approved pending signature of the grant agreement by the European Commission.
+
+Fondazione Istituto Italiano di Tecnologia - IIT - was founded with the objective of promoting Italy’s technological development and further education in science and technology. In this sense, IIT is committed to achieving its scientific program, which sees a major inspirational principle in the integration between basic scientific research and the development of technical applications. Research activities at IIT cover areas of high innovative content, representing the most advanced frontiers of modern technology with wide application possibilities in various fields from medicine to industry, from computer science to robotics, life sciences and nanobiotechnology.
+
+Istituto Italiano di Tecnologia is an Equal Opportunity Employer that actively seeks diversity in the workforce.
+
+Please note that the data that you provide will be used exclusively for the purpose of professional profiles’ evaluation and selection, and in order to meet the requirements of Istituto Italiano di Tecnologia.
+
+Your data will be processed by Istituto Italiano di Tecnologia, based in Genoa, Via Morego 30, acting as Data Controller, in compliance with the rules on protection of personal data, including those related to data security.
+
+Please also note that, pursuant to articles 15 et. seq. of European Regulation no. 679/2016 (General Data Protection Regulation), you may exercise your rights at any time by contacting the Data Protection Officer (phone +39 010 71781 - email: dpo[at]iit.it).
+
+Apply at: <https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000002M>
+
