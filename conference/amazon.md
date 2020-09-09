@@ -30,7 +30,7 @@ Amazon Scholars is a program for academic leaders to work with Amazon in a flexi
 **Please browse our [Research Brochure]({{site.baseurl}}/assets/images/sponsors/Research-Brochure-CVPR-2020.pdf).**
 
 
-### Chat with amazon!
+### Chat with Amazon
 
 <iframe class="mt-3" style="min-height: 700px;" src="https://chat.bmvc2020-conference.com/channel/amazon?layout=embedded" width="100%" height="100%" frameborder="0"></iframe>
 

@@ -155,7 +155,7 @@ schedule:
         start-time: "18:00"
         end-time: "19:00"
         data: "[DATA]"
-        local-url: "/conference/amazon/#chat"
+        local-url: "/conference/amazon/#chat-with-amazon"
 
 
 # - type: Camera Ready Paper Submission
