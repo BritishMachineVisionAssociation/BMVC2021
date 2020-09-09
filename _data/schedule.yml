@@ -144,6 +144,18 @@ schedule:
         data: "[DATA]"
         session-id: 11
         conference-session: "P4S2"
+      - session: "Chat with Snap Research"
+        title: "Hear more about what our World AR team in London is working on"
+        start-time: "16:00"
+        end-time: "17:00"
+        data: "[DATA]"
+        local-url: "/conference/snap-inc/#careers-and-collaboration"
+      - session: "Computer Vision at AWS"
+        title: "A conversation with Research Leaders Rahul Bhotika, Joe Tighe and Avinash Ravichandran"
+        start-time: "18:00"
+        end-time: "19:00"
+        data: "[DATA]"
+        local-url: "/conference/amazon/#chat"
 
 
 # - type: Camera Ready Paper Submission
