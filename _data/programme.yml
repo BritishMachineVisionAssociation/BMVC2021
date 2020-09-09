@@ -21,6 +21,7 @@ I will then move towards end-to-end learning for MOT, and explain how graph neur
     url: "http://ai.bu.edu/ksaenko.html"
     title: "Mitigating Dataset Bias"
     job: Faculty at Boston University and MIT-IBM Watson AI Lab
+    slides-id: 38934741
     abstract: "Deep Learning has made exciting progress on many computer vision problems such as object recognition in images and video. However, it has relied on large datasets that can be expensive and time-consuming to collect and label. Datasets can also suffer from “dataset bias,” which happens when the training data is not representative of the future deployment domain. Dataset bias is a major problem in computer vision -- even the most powerful deep neural networks fail to generalize to out-of-sample data. A classic example of this is when a network trained to classify handwritten digits fails to recognize typed digits, but this problem happens in many situations, such as new geographic locations, changing demographics, and simulation-to-real learning. Can we solve dataset bias with only a limited amount of supervision? Yes, this is possible under some assumptions. I will give an overview of current solutions based on domain adaptation of deep learning models and point out several assumptions they make and situations they fail to handle. I will also describe recent efforts to improve adaptation by using unlabeled data to learn better features, with ideas from self-supervised learning."
   - name: Prof. Andrew Davison
     id: keynote-2
