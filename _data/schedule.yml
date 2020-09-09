@@ -86,8 +86,8 @@ schedule:
         data: "[DATA]"
         session-id: 6
         conference-session: "O5"
-      - session: BMVA Town Hall Meeting
-        title: "Feedback and Ideas for the Future of the BMVA"
+      - session: "Prizes, Feedback and Ideas for the Future of the BMVA"
+        title: "BMVC Awards, Feedback and Discussions"
         start-time: "12:10"
         end-time: "12:50"
         data: "[DATA]"
