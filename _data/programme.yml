@@ -15,6 +15,7 @@ keynotes:
     job: Faculty at the Technical University of Munich
     abstract: "Is the performance on multiple object tracking benchmarks saturating? What seem to be promising new research directions? I will first analyze the performance of recent methods, and show how powerful a simple object detector regressor can be for MOT. This analysis will uncover the main challenges that as a community we are still not tackling.
 I will then move towards end-to-end learning for MOT, and explain how graph neural networks can open the path to new research directions. Finally, I will show how computer vision tools can help us in handling data privacy in MOT benchmarks."
+    slides-id: 38934740
   - name: Prof. Kate Saenko
     id: keynote-3 
     img: /assets/images/mugshots/kate_saenko.png
