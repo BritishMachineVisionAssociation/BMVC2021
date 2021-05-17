@@ -13,7 +13,7 @@ permalink: /authors/submit-your-paper/
 
 <hr class="wp-block-separator" />
 
-<p>Paper submission and registration are handled via the <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://cmt3.research.microsoft.com/BMVC2020" target="_blank">Conference Management Toolkit (CMT)</a>. Paper registration is performed by registering as a user with CMT and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission.</p>
+<p>Paper submission and registration are handled via the <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="{{site.cmt-url}}" target="_blank">Conference Management Toolkit (CMT)</a>. Paper registration is performed by registering as a user with CMT and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission.</p>
 
 <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.cmt-url}}">Submit your Paper via CMT!</a></p>
 
@@ -25,23 +25,17 @@ permalink: /authors/submit-your-paper/
 
 <h3>Formatting your paper</h3>
 
-<p>A complete paper should be submitted in according to the formatting style (please see below under `typesetting'). The length should not exceed 9 pages excluding the references. Any appendices must precede the reference list.</p>
+A complete paper should be submitted in according to the formatting style ([please see below under typesetting]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting)). The length should not exceed 9 pages excluding the references; any in-paper appendices must precede the reference list.
 
-<h3>Submitted paper (for review)</h3>
+### Submitted paper (for review)
 
-<p>Papers submitted for review should be
-anonymous and instead include the paper ID as allocated by CMT upon
-registration of the paper. The addition of line numbers (automatic in
-the LaTeX template) should be included, in order to facilitate the
-review process.</p>
+Papers submitted for review should be anonymous and instead include the paper ID as allocated by CMT upon registration of the paper. The addition of line numbers (automatic in the PDFLaTeX template) should be included, in order to facilitate the review process.
 
 **Page limit:** A complete paper should be submitted in according to the [formatting style]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting). The length of papers submitted for review should not exceed 9 pages excluding the references. <strong>All</strong> appendices must be counted within the 9 pages limit or supplied as supplementary material.
 
-<!--<p>As per BMVC 2019, there will be no rebuttal phase this year.</p>-->
+### Paper policies
 
-<h3>Paper policies</h3>
-
-<p>By submitting a manuscript to BMVC, the authors guarantee that it has not been previously published (or accepted for publication) in substantially similar form. Furthermore, no paper which contains significant overlap with the contributions of this paper either is under review at the moment of submission or will be submitted during the BMVC 2020 review period to any of the following: another conference, a workshop, or a journal. The authors also attest that they did not submit substantially similar submissions to BMVC 2020. Violation of any of these conditions will lead to rejection.</p>
+By submitting a manuscript to BMVC, the authors guarantee that it has not been previously published (or accepted for publication) in substantially similar form. Furthermore, no paper which contains significant overlap with the contributions of this paper either is under review at the moment of submission or will be submitted during the {{short-title}} review period to any of the following: another conference, a workshop, or a journal. The authors also attest that they did not submit substantially similar submissions to {{short-title}}. Violation of any of these conditions will lead to rejection.
 
 <h3>Dual submission</h3>
 
