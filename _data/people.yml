@@ -1,29 +1,29 @@
 organisers:
-  - name: Dr Neill Campbell
+  - name: Neill Campbell
     img: /assets/images/mugshots/neill_campbell_headshot.jpg
     url: "https://www.ndfcampbell.org/"
     job: General Chair
-  - name: Dr Yi-Zhe Song
+  - name: Yi-Zhe Song
     img: /assets/images/mugshots/song.jpg
     url: "http://personal.ee.surrey.ac.uk/Personal/Y.Song/"
     job: Programme Chair
-  - name: Dr Karteek Alahari
+  - name: Karteek Alahari
     img: /assets/images/mugshots/karteek.jpg
     url: "https://thoth.inrialpes.fr/people/alahari/"
     job: Programme Chair
-  - name: Dr Stefan Leutenegger
+  - name: Stefan Leutenegger
     img: /assets/images/mugshots/sleutenegger.png
     url: "http://www.srl.in.tum.de/"
     job: Programme Chair
-  - name: Dr Laura Sevilla
+  - name: Laura Sevilla
     img: /assets/images/mugshots/laura.png
     url: "https://laurasevilla.me/"
     job: Programme Chair
-  - name: Dr Stuart James
+  - name: Stuart James
     img: /assets/images/mugshots/stuart_james.png
     url: "https://stuart-james.com/"
     job: Programme Chair
-  - name: Dr Tu Bui
+  - name: Tu Bui
     img: /assets/images/mugshots/tu-bui.jpg
     url: "https://www.surrey.ac.uk/people/tu-bui"
     job: Programme Chair

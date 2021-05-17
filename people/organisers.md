@@ -7,8 +7,9 @@ index: 0
 
 <div class="row justify-content-around pl-4 pr-4">
 
+{% assign organiser_list = site.data.people.organisers | reverse %}
 
-{% for person in site.data.people.organisers %}
+{% for person in organiser_list %}
     <div class="col-6 col-md-4 col-lg-3">
         <div class="text-center">
             <img src="{{ site.baseurl }}{{ person.img }}" class="rounded-circle img-fluid" style="max-width: 125px;">
