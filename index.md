@@ -20,10 +20,15 @@ This year BMVC will be held virtually over four days on 22nd - 25th September 20
 
 ## Information for Authors
 
+Please could prospective authors for BMVC papers read through the [instructions for authors]({{site.baseurl}}{% link authors/submit-your-paper.md %}) page that provides details on the requirements and formatting for paper submissions. All papers should be submitted through the CMT website and please remember to note that **all papers must submit an abstract with full author information before the abstract deadline**.
 
+In addition to reviewing the information on paper formatting (including typesetting style files for PDFLaTeX), page counts and supplemental material, please can all authors ensure that they are familiar with the policies on: dual submission, conflicts & double blind review, publicity & social media, and authors making themselves available to review. In addition to the [instructions for authors]({{site.baseurl}}{% link authors/submit-your-paper.md %}), there is also a page on [Frequently Asked Questions (FAQ)]({{site.baseurl}}{% link authors/faq.md %}) that should be consulted in the first instance before contacting the programme committee.
 
 <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
 	<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
 		<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/submit-your-paper.md %}">Instructions for Authors!</a></p>
+	</div>
+	<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+		<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/faq.md %}">Please check the FAQ!</a></p>
 	</div>
 </div>

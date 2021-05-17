@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: FAQ
+title: Frequently Asked Questions
 permalink: /authors/faq/
 ---
 

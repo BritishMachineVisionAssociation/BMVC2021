@@ -27,7 +27,7 @@ permalink: /authors/submit-your-paper/
 
 <p>A complete paper should be submitted in according to the formatting style (please see below under `typesetting'). The length should not exceed 9 pages excluding the references. Any appendices must precede the reference list.</p>
 
-<h3>Submitted (under review) paper</h3>
+<h3>Submitted paper (for review)</h3>
 
 <p>Papers submitted for review should be
 anonymous and instead include the paper ID as allocated by CMT upon
@@ -35,7 +35,7 @@ registration of the paper. The addition of line numbers (automatic in
 the LaTeX template) should be included, in order to facilitate the
 review process.</p>
 
-<p>A complete paper should be submitted in according to the formatting style. The length of papers submitted for review should not exceed 9 pages excluding the references. <strong>All</strong> appendices must be counted within the 9 pages limit or supplied as supplementary material.</p>
+**Page limit:** A complete paper should be submitted in according to the [formatting style]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting). The length of papers submitted for review should not exceed 9 pages excluding the references. <strong>All</strong> appendices must be counted within the 9 pages limit or supplied as supplementary material.
 
 <!--<p>As per BMVC 2019, there will be no rebuttal phase this year.</p>-->
 
@@ -47,6 +47,7 @@ review process.</p>
 
 <p>A publication, for the purposes of this policy, is defined to be a written work longer than four pages (excluding references) that was submitted for review by peers for either acceptance or rejection, and, after review, was accepted and appeared in a formal proceedings. This definition does not consider an arXiv.org or university technical report as a publication. Please see the entry on the <a title="FAQ" href="{{ site.baseurl }}{% link authors/faq.md %}">FAQ</a> for further details.</p>
 
+<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/faq.md %}">Please check the FAQ!</a></p>
 
 <h3>Author&#8217;s responsibilities</h3>
 
@@ -96,9 +97,9 @@ Our expectation is that the majority of authors should make themselves available
 <strong>FAQ:</strong> Further details and answers to additional questions are available on the author <a title="FAQ" href="{{ site.baseurl }}{% link authors/faq.md %}">FAQ</a> page.
 </p>
 
-<h3>Typesetting</h3>
+### Typesetting
 
-<p>Typesetting should preferably be done using the PDFLaTeX system (part of all modern LaTeX distributions). However, submissions prepared in Microsoft Word or OpenOffice will be accepted. </p>
+<p>Typesetting should be done using the **PDFLaTeX system** (part of all modern LaTeX distributions). However, in exceptional circumstances, submissions prepared in Microsoft Word or OpenOffice may be accepted but it is the authors responsibility to use the template appropriately and match as closely to the PDFLaTeX system as possible. </p>
 
 <p>Paper templates, along with example PDF outputs are available for download through GitHub: <a href="https://github.com/BritishMachineVisionAssociation/BMVCTemplate">https://github.com/BritishMachineVisionAssociation/BMVCTemplate</a>. </p>
 
@@ -119,7 +120,7 @@ Our expectation is that the majority of authors should make themselves available
 <li>Appendices or technical reports containing extended proofs and mathematical derivations that are not essential to the understanding of the submitted paper</li>
 </ul>
 
-<p>The authors should refer to the contents of the supplementary material appropriately in the paper. Note that reviewers will be encouraged to look at it, but are not obligated to do so. Supplementary material is to be submitted by the paper submission deadline, i.e. Thursday 30th April 2020 (23:59 Pacific Standard Time).</p>
+The authors should refer to the contents of the supplementary material appropriately in the paper. Note that reviewers will be encouraged to look at it, but are not obligated to do so. Supplementary material is to be submitted by the [supplemental material deadline]({{site.baseurl}}{% link dates.md %}).
 
 
 
