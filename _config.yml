@@ -16,16 +16,21 @@
 timezone: Europe/London
 title: The 32nd British Machine Vision (Virtual) Conference 2021
 brand: BMVC&thinsp;2021
+short-title: "BMVC 2021"
 email: bmvc-2020-pc@lists.bath.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the 32nd British Machine Vision Conference, 22nd - 25th September 2021.
 baseurl: "" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
 url: "" #"http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/layout/bmvc-logo.png"
+pc-email: "bmvc2021_pcs@googlegroups.com"
 twitter_username: BMVCconf
 github_username:  BritishMachineVisionAssociation
 #facebook_username: thebmva
-#youtube_channel: channel/UCBDkH5yK4GyVoRkV8lYdwdw
+#youtube_channel: channel/UCBDkH5yK4GyVoRkV8lYdwdw1
+
+cmt-url: "https://cmt3.research.microsoft.com/BMVC2021/"
+bmva-event-url: "https://britishmachinevisionassociation.github.io/meetings/21-09-06-september-event"
 
 dates: 22nd - 25th November 2021
 
@@ -63,6 +68,13 @@ exclude:
   - assets/thumbnail_script.sh
   - copy_to_aws.sh
   - old/
+  - conference/
+  - programme/
+  - attending/
+  - people/reviewer.md
+  - people/area-chairs.md
+  - old_index.md
+  - authors/instructions-for-presenting-authors.md
 
 #main_sponsors:
 #  - name: IAPR

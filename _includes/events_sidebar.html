@@ -19,6 +19,8 @@
   </tbody></table>
 </div>
 
+{% comment %}
+
 <div class="card mt-2">
   <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a></h5>
   {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
@@ -37,3 +39,5 @@
   {% endfor %}
   </div>
 </div>
+
+{% endcomment %}

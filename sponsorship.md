@@ -4,6 +4,8 @@ title: Sponsorship
 permalink: /sponsorship/
 ---
 
+{% comment %}
+
 <p class="mb-3" align="center"><strong>We are very grateful to our sponsors for supporting the conference this year:</strong></p>
 
 {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
@@ -22,12 +24,17 @@ permalink: /sponsorship/
 {% endfor %}
 <!--</div>-->
 
+{% endcomment %}
+
 <h3 class="mt-3">Sponsorship Opportunities</h3>
 
 <p class="mt-3" align="center"><strong>
-            There are various sponsorship opportunities at BMVC; please get in touch with <a href="mailto:martin.fergie@manchester.ac.uk">Martin Fergie</a> to discuss sponsoring the conference.
+            There are various sponsorship opportunities at {{site.short-title}}; please get in touch with <a href="mailto:martin.fergie@manchester.ac.uk">Martin Fergie</a> to discuss sponsoring the conference.
         </strong></p>
 
+<p><b>
+    Our intention is to provide sponsors with a joint opportunity at the <a href="{{site.bmva-event-url}}">BMVA September event</a> where sponsors will have the option of hosting a stall and in-person events.
+</b></p>
 
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
     <table class="table table-striped table-bordered" style="max-width: 750px;">
@@ -36,7 +43,7 @@ permalink: /sponsorship/
                 <th style="text-align: center">PACKAGE OFFERS</th>
                 <th style="text-align: center">PLATINUM £5000</th>
                 <th style="text-align: center">GOLD £2000</th>
-                <th style="text-align: center">SILVER £500</th>
+                <th style="text-align: center">SILVER £1000</th>
             </tr>
             <tr>
                 <td>Sponsor logo and link on the conference website</td>

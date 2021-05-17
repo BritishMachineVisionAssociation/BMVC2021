@@ -4,61 +4,79 @@ title: Call for Papers
 permalink: /authors/call-for-papers/
 ---
 
-<!-- <p>Please refer to the <a href="../../workshops/index.html">workshops page</a> for links to workshop calls for papers. </p> -->
 
-<p>The British Machine Vision Conference (BMVC) is one of the major international conferences on computer vision and related areas. It is organised by the British Machine Vision Association (BMVA). The 31st BMVC will now be a virtual event held online from 7th—10th September 2020.</p>
+<div class="row justify-content-md-center pb-2 ml-3 mr-3">
+    <div class="col-12 col-md-8 col-lg-6">
+            <picture>
+                <img src="{{ site.baseurl }}/assets/images/layout/bmvc-logo.png" class="img-fluid rounded mx-auto d-block"  alt="BMVC 2021 Logo">
+            </picture>
+    </div>
+</div>
 
-<p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://cmt3.research.microsoft.com/BMVC2020">Submit your Paper!</a></p>
+## BMVC 2021 Call for Papers
 
-<p>Authors are invited to submit full-length high-quality papers in image processing, machine vision, and related areas for the 2020 British Machine Vision Conference. Submitted papers will be refereed on their originality, presentation, empirical results, and quality of evaluation. </p>
+The British Machine Vision Conference (BMVC) is one of the major international conferences on computer vision and related areas. It is organised by the British Machine Vision Association (BMVA). The 32nd BMVC will now be a virtual event held online from 22nd—25th November 2021.
+Authors are invited to submit full-length high-quality papers in image processing, computer vision, machine learning and related areas for BMVC 2021. Submitted papers will be refereed on their originality, presentation, empirical results, and quality of evaluation. Accepted papers will be included in the conference proceedings published and DOI-indexed by BMVA. Past proceedings can be [found online here](https://britishmachinevisionassociation.github.io/bmvc). Prospective authors can see the [2020 edition](https://www.bmvc2020-conference.com/conference/papers/) as an example.
 
-<p>All papers will be reviewed doubly blind, normally by three members of our international programme committee. Please note that BMVC is a single track meeting with oral and poster presentations and will include three keynote presentations and two tutorials.</p>
+Selected best papers will be invited to a special issue of the [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263).
 
-<p>Topics include, but are not limited to:</p>
+Please note that BMVC is a single-track meeting with oral and poster presentations and will include four keynote presentations. The abstract deadline is Friday 18th June 2021 and the paper submission deadline is Friday 25th June 2021 (both 23:59, Greenwich Mean Time (GMT)). Submission instructions will be available on the [BMVC 2021 website](http://www.bmvc2021.com/).
 
-<ul>
-    <li>Statistics and machine learning for vision</li>
-    <li>Stereo, calibration, geometric modelling and processing</li>
-    <li>Face and gesture recognition</li>
-    <li>Early and biologically inspired vision</li>
-    <li>Motion, flow and tracking</li>
-    <li>Segmentation and grouping</li>
-    <li>Model-based vision</li>
-    <li>Image processing techniques and methods</li>
-    <li>Texture, shape and colour</li>
-    <li>Video analysis</li>
-    <li>Document processing and recognition</li>
-    <li>Vision for quality assurance, medical diagnosis, etc.</li>
-    <li>Vision for visualisation, interaction, and graphics</li>
-    <li>Object detection and recognition</li>
-    <li>Shape-from-X</li>
-    <li>Video analysis for action and event recognition</li>
-    <li>Illumination and reflectance</li>
-    <li>Deep learning for vision</li>
-    <li>3D computer vision</li>
-    <li>RGBD analysis</li>
-</ul>
+<div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/submit-your-paper.md %}">Instructions for Authors!</a></p>
+    </div>
+    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.cmt-url}}">Submit your Paper on CMT!</a></p>
+    </div>
+</div>
 
-<p>Accepted papers will be included the conference proceedings published and DOI indexed by BMVA. Past proceedings can be found online: <a href="https://britishmachinevisionassociation.github.io/bmvc">here</a>. Prospective authors can have a look at the 2019 edition: <a href="https://bmvc2019.org/programme/">bmvc2019.org/programme/</a>, as an example.</p>
+Topics include, but are not limited to:
 
-<p><strong>Please Note</strong>: In keeping with conferences in the field (e.g. <a href="https://medium.com/@NeurIPSConf/getting-started-with-neurips-2020-e350f9b39c28">NeurIPS</a>) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers and make use of a compulsory abstract submission deadline a week before the paper submission deadline. The CMT submission site will ask authors to acknowledge this commitment and failure to engage with the reviewing process might be grounds for rejection.</p>
+-  3D computer vision 
+-  3D object recognition
+-  Action and behavior recognition 
+-  Adversarial learning, adversarial attack and defense methods
+-  Biometrics, face, gesture, body pose
+-  Computational photography
+-  Datasets and evaluation 
+-  Efficient training and inference methods for networks 
+-  Explainable AI, fairness, accountability, privacy, transparency and ethics in vision 
+-  Image and video retrieval 
+-  Image and video synthesis
+-  Image classification
+-  Low-level and physics-based vision 
+-  Machine learning architectures and formulations 
+-  Medical, biological and cell microscopy 
+-  Motion and tracking 
+-  Optimization and learning methods 
+-  Pose estimation
+-  Representation learning
+-  Scene analysis and understanding 
+-  Transfer, low-shot, semi- and un- supervised learning 
+-  Video analysis and understanding 
+-  Vision + language, vision + other modalities 
+-  Vision applications and systems, vision for robotics and autonomous vehicles
+-  “Brave new ideas” (see below)
 
-<p>The abstract deadline is Thursday 23rd April 2020 and the paper submission deadline is Thursday 30th April 2020 (both 23:59, Pacific Time). Submission instructions may be <a href="../submit-your-paper-2/index.html">found here</a>.</p>
+### Important changes for BMVC 2021
 
-<p>Note: Due the anticipated volume of papers for BMVC 2020 (based on recent year&#8217;s experience) there will NO extension granted to the submission deadline.</p>
+1. There will be a two-stage review system, with an upgraded journal-style rebuttal and revision phase in-between.
+    - Stage One: Each paper will be reviewed by at least three reviewers. The primary AC will also provide a meta review, summarizing the points that need to be addressed during the revision phase. All these comments are released to the authors at the start of the revision period.
+    - Rebuttal+Revision Phase: The authors will have an extended 2-weeks period to produce a rebuttal (single page of A4), *and* a revised paper (with one additional page) that implements all the required changes to the paper, including new experimental results, where appropriate, asked in the review comments.
+    - Stage Two: The same reviewers will conduct a second-round review, based on the rebuttal and the revised paper, and provide a final recommendation to the ACs after discussing the paper among them.
+    - AC Recommendation: Each paper will be handled by two ACs, a primary and a secondary, who will facilitate paper discussion and jointly make the final recommendations.
 
-<p>Selected best papers are invited to a special issue of the International Journal of Computer Vision (IJCV) for BMVC 2020 Best Papers.</p>
+2. The “Brave new ideas” subject area has been introduced and should be selected as one of the two primary subject areas. Papers submitted under this subject area are expected to move away from incremental benchmark gains. Proposed ideas should be radically different from the current strand of research or propose a novel problem.
 
-<p>Any queries to the Programme Chairs should be sent to <a href="mailto:bmvc-2020-pc@lists.bath.ac.uk">bmvc-2020-pc@lists.bath.ac.uk</a></p>
+**Please Note:** Due the anticipated volume of papers for BMVC 2021 (based on recent year’s experience) there will be NO extension granted to the submission deadline. In keeping with conferences in the field (e.g. [NeurIPS](https://medium.com/@NeurIPSConf/getting-started-with-neurips-2020-e350f9b39c28), [CVPR](http://cvpr2021.thecvf.com/node/33#policies)) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers and make use of a compulsory abstract submission deadline a week before the paper submission deadline. The CMT submission site will ask authors to acknowledge this commitment and failure to engage with the reviewing process might be grounds for rejection.
+Any queries to the Programme Chairs should be sent to [{{site.pc-email}}](mailto:{{site.pc-email}})
 
-<p>The BMVC 2020 Programme Chairs are:<br>
-    <a href="http://cs.bath.ac.uk/~nc537/">Dr. Neill Campbell</a> (University of Bath)<br>
-    <a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">Prof. Lourdes Agapito </a> (University College London)<br>
-    <a href="https://www-users.cs.york.ac.uk/wsmith/">Dr. William Smith</a> (University of York)<br>
-    <a href="https://mfergie.github.io/">Dr. Martin Fergie</a> (University of Manchester)<br>
-    <a href="http://www2.docm.mmu.ac.uk/STAFF/M.Yap/">Dr. Moi Hoon Yap</a> (Manchester Metropolitan University)<br>
-    <a href="https://homepages.inf.ed.ac.uk/omacaod/">Dr. Oisin Mac Aodha</a> (The University of Edinburgh)</p>
+The BMVC 2021 Programme Chairs:
 
-<p>A PDF version of this call for papers <a href="../../wp-content/uploads/2020/cfp/bmvc2020cfp.pdf">may be downloaded here</a>.</p>
-
-
+-  [Tu Bui (University of Surrey)](https://www.surrey.ac.uk/people/tu-bui)
+-  [Stuart James (Italian Institute of Technology)](https://stuart-james.com/)
+-  [Laura Sevilla (University of Edinburgh)](https://laurasevilla.me/)
+-  [Stefan Leutenegger (TU Munich)](http://www.srl.in.tum.de/)
+-  [Karteek Alahari (Inria)](https://thoth.inrialpes.fr/people/alahari/)
+-  [Yi-Zhe Song (University of Surrey)](http://personal.ee.surrey.ac.uk/Personal/Y.Song/)

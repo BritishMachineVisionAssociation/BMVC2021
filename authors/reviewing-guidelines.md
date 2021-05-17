@@ -8,7 +8,7 @@ permalink: /authors/reviewing-guidelines/
 <p><strong>These reviewing guidelines are based on best practice from the CVPR 2020 - for further details please see the <a href="http://cvpr2020.thecvf.com/submission/main-conference/reviewer-guidelines">CVPR Reviewer Guidlines</a>.</strong></p>
 
 <p><strong>To contact the Program Chairs please email:</strong></p>
-<p style="text-align: center;">bmvc-2020-pc@lists.bath.ac.uk</p>
+<p style="text-align: center;">{{site.pc-email}}</p>
 
 <hr class="wp-block-separator" />
 
@@ -166,7 +166,7 @@ permalink: /authors/reviewing-guidelines/
 
 <h4 dir="ltr" id="cmt-instructions">CMT Instructions</h4>
 
-<p dir="ltr">Once you've been notified by email that papers have been assigned to you, please log into the CMT site (<a href="https://cmt3.research.microsoft.com/BMVC2020">https://cmt3.research.microsoft.com/BMVC2020</a>), choose the “Reviewer” role on top, and follow the steps below.</p>
+<p dir="ltr">Once you've been notified by email that papers have been assigned to you, please log into the CMT site (<a href="{{site.cmt-url}}">{{site.cmt-url}}</a>), choose the “Reviewer” role on top, and follow the steps below.</p>
 
 <p dir="ltr"><strong>1. Download your papers.</strong></p>
 

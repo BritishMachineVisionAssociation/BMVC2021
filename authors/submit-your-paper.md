@@ -6,8 +6,8 @@ permalink: /authors/submit-your-paper/
 
 
 
-<p><strong>The submission&nbsp;system&nbsp;for BMVC&nbsp;2020 papers is open at:</strong></p>
-<p align="center"><strong><a href="https://cmt3.research.microsoft.com/BMVC2020/">https://cmt3.research.microsoft.com/BMVC2020/</a></strong></p>
+<p><strong>The submission system for {{site.short-title}} papers is open at:</strong></p>
+<p align="center"><strong><a href="{{site.cmt-url}}">{{site.cmt-url}}</a></strong></p>
 
 <!-- <p>Please refer to the <a href="../../workshops/index.html">workshops page</a> for workshop paper submission instructions.</p> -->
 
@@ -15,7 +15,7 @@ permalink: /authors/submit-your-paper/
 
 <p>Paper submission and registration are handled via the <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://cmt3.research.microsoft.com/BMVC2020" target="_blank">Conference Management Toolkit (CMT)</a>. Paper registration is performed by registering as a user with CMT and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission.</p>
 
-<p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://cmt3.research.microsoft.com/BMVC2020">Submit your Paper via CMT!</a></p>
+<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.cmt-url}}">Submit your Paper via CMT!</a></p>
 
 <h3>Formatting your paper</h3>
 
@@ -37,7 +37,7 @@ review process.</p>
 
 <p>By submitting a manuscript to BMVC, the authors guarantee that it has not been previously published (or accepted for publication) in substantially similar form. Furthermore, no paper which contains significant overlap with the contributions of this paper either is under review at the moment of submission or will be submitted during the BMVC 2020 review period to any of the following: another conference, a workshop, or a journal. The authors also attest that they did not submit substantially similar submissions to BMVC 2020. Violation of any of these conditions will lead to rejection.</p>
 
-<h3>Dual Submission</h3>
+<h3>Dual submission</h3>
 
 <p>A publication, for the purposes of this policy, is defined to be a written work longer than four pages (excluding references) that was submitted for review by peers for either acceptance or rejection, and, after review, was accepted and appeared in a formal proceedings. This definition does not consider an arXiv.org or university technical report as a publication. Please see the entry on the <a title="FAQ" href="{{ site.baseurl }}{% link authors/faq.md %}">FAQ</a> for further details.</p>
 
@@ -52,7 +52,7 @@ review process.</p>
 <li>Include anonymized versions of those papers in the supplemental material</li>
 </ol>
 
-<p><strong>Conflict Responsibilities:</strong> It is the primary author's responsibility to ensure that <strong>all authors</strong> on their paper have registered on CMT and entered their institutional domain conflicts into the CMT system. If a paper is found to have an undeclared or incorrect institutional conflict, the paper may be summarily rejected. <strong>To avoid undeclared conflicts, the author list is considered to be final after the submission deadline and no changes are allowed for accepted papers.</strong> If you are uncertain of how to enter domain conflicts please see the entry on the <a title="FAQ" href="{{ site.baseurl }}{% link authors/faq.md %}">FAQ</a>.
+<p><strong>Conflict responsibilities:</strong> It is the primary author's responsibility to ensure that <strong>all authors</strong> on their paper have registered on CMT and entered their institutional domain conflicts into the CMT system. If a paper is found to have an undeclared or incorrect institutional conflict, the paper may be summarily rejected. <strong>To avoid undeclared conflicts, the author list is considered to be final after the submission deadline and no changes are allowed for accepted papers.</strong> If you are uncertain of how to enter domain conflicts please see the entry on the <a title="FAQ" href="{{ site.baseurl }}{% link authors/faq.md %}">FAQ</a>.
 </p>
 
 
@@ -74,7 +74,7 @@ This means that authors do not know the names of the area chair/reviewers of the
 </p>
 
 <p>
-<strong>Availability for Review:</strong> As per the call for papers, in keeping with conferences in the field (e.g. <a href="https://medium.com/@NeurIPSConf/getting-started-with-neurips-2020-e350f9b39c28">NeurIPS</a>) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers and make use of a compulsory abstract submission deadline a week before the paper submission deadline. The CMT submission site will ask authors to acknowledge this commitment and failure to engage with the reviewing process might be grounds for rejection.
+<strong>Availability for review:</strong> As per the call for papers, in keeping with conferences in the field (e.g. <a href="https://medium.com/@NeurIPSConf/getting-started-with-neurips-2020-e350f9b39c28">NeurIPS</a>) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers and make use of a compulsory abstract submission deadline a week before the paper submission deadline. The CMT submission site will ask authors to acknowledge this commitment and failure to engage with the reviewing process might be grounds for rejection.
 </p>
 <p>
 Our expectation is that the majority of authors should make themselves available as reviewers. At the time of abstract submission on CMT (a week before the paper deadline) the author list should be entered on CMT and an option will be available for authors to indicate which authors will be able to review - requests for certain authors to not be considered as reviewers can also be entered with a suitable justification. For example, junior researchers (e.g. early PhD and below) or authors who are not computer vision researchers (e.g. providing domain expertise for experiments) would be considered reasonable justification.
@@ -120,9 +120,9 @@ Our expectation is that the majority of authors should make themselves available
 
 
 
-<h3>Final camera ready copy</h3>
+<h3>Final camera ready copy (for accepted papers)</h3>
 
-<p>Camera-ready submission for accepted papers will be open via <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://cmt3.research.microsoft.com/BMVC2020" target="_blank">CMT</a> (cmt3.research.microsoft.com/BMVC2020). At least one registration of an author is required per accepted paper by this date. That is, for any two papers at least two registrations are required. Papers for which we have no registered authors will be removed from the conference. For each accepted paper authors should upload:</p>
+<p>Camera-ready submission for accepted papers will be open via <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="{{site.cmt-url}}" target="_blank">CMT</a> ({{site.cmt-url}}). At least one registration of an author is required per accepted paper by this date. That is, for any two papers at least two registrations are required. Papers for which we have no registered authors will be removed from the conference. For each accepted paper authors should upload:</p>
 
 <ul>
 <li>Final camera-ready paper (in PDF format)</li>

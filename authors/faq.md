@@ -8,12 +8,6 @@ permalink: /authors/faq/
 
 <table class="table table-striped table-bordered">
     <tbody>
-        <tr>
-            <th scope="row">Is BMVC 2020 still on?</th>
-        </tr>
-        <tr>
-            <td>Yes. BMVC is in mid September and we can expect a lot of news between now and then.</td>
-        </tr>
 
         <tr>
             <th scope="row">Will the paper submission deadline or other main conference deadlines be extended because of COVID-19?</th>
@@ -30,24 +24,10 @@ permalink: /authors/faq/
         </tr>
 
         <tr>
-            <th scope="row">How will presentations be handled for authors that cannot get a travel visa or for which there is a COVID-19 travel ban?</th>
-        </tr>
-        <tr>
-            <td>No author will be disadvantaged due to restrictions on travel. Accepted papers will still be published subject to authors satisfying registration and presentation requirements. We are investigating options, e.g. remote presentations, and will provide more information in the coming months.</td>
-        </tr>
-
-        <tr>
-            <th scope="row">Will there be support for remote attendance/registration?</th>
-        </tr>
-        <tr>
-            <td>Remote attendance options are currently being explored and updates will be posted on the website when we have them.</td>
-        </tr>
-
-        <tr>
             <th scope="row">How do I register domain conflicts?</th>
         </tr>
         <tr>
-            <td>When you log in to CMT for the first time, you will be asked to enter your conflict domain information. You will not be able to submit any paper without entering this information. We need to ensure conflict-free reviewing of all papers. At any time, you can update this information by clicking on your name in the upper-right and entering “Domain Conflicts” under BMVC 2020.<br/><br/>
+            <td>When you log in to CMT for the first time, you will be asked to enter your conflict domain information. You will not be able to submit any paper without entering this information. We need to ensure conflict-free reviewing of all papers. At any time, you can update this information by clicking on your name in the upper-right and entering “Domain Conflicts” under {{site.short-title}}.<br/><br/>
             It is the primary author's responsibility to ensure that all authors on their paper have registered their institutional conflicts into CMT. Each author should list domains of all institutions they have worked for, or have had very close collaboration with, within the last 3 years (example: mit.edu; ox.ac.uk; microsoft.com). DO NOT enter the domain of email providers such as gmail.com. This institutional conflict information will be used in conjunction with prior authorship conflict information to resolve assignments to both reviewers and area chairs. If a paper is found to have an undeclared or incorrect institutional conflict, the paper may be summarily rejected.</td>
         </tr>
 
@@ -58,13 +38,13 @@ permalink: /authors/faq/
             <td>
                 In keeping with the PAMI guidelines, adopted by CVPR, to maintain double blind review, authors are not allowed to go to the press with their submission prior to the end of the review process, or to advertise their work on social media while explicitly identifying it as a BMVC submission. In recent conference cycles, some authors were found posting about their submissions on Twitter or other social media, and even including the title or a snapshot of the paper. This is a violation of anonymity, since the message may go out to many potential reviewers.
                 <br/><br/>
-                Authors must not:
+                <b>Authors must not</b>:
 <ul>
 <li>Talk to the media about your work as "in submission to BMVC"</li>
 
 <li>Make any posts to social media or elsewhere that can be linked to a specific BMVC submission (e.g., mentioning the title of the submission or details and content and saying that it's a BMVC submission)</li>
 </ul>
-Authors may:
+<b>Authors may</b>:
 <ul>
 <li>Talk about their work in a presentation without saying it's submitted to BMVC</li>
 
