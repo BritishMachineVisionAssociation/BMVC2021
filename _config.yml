@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 timezone: Europe/London
 title: The 32nd British Machine Vision (Virtual) Conference 2021
+formatted-title: The 32<sup>nd</sup> British Machine Vision Conference
 brand: BMVC&thinsp;2021
 short-title: "BMVC 2021"
 email: bmvc2021_pcs@googlegroups.com
