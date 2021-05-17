@@ -17,7 +17,7 @@ timezone: Europe/London
 title: The 32nd British Machine Vision (Virtual) Conference 2021
 brand: BMVC&thinsp;2021
 short-title: "BMVC 2021"
-email: bmvc-2020-pc@lists.bath.ac.uk
+email: bmvc2021_pcs@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the 32nd British Machine Vision Conference, 22nd - 25th September 2021.
 baseurl: "" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
@@ -28,6 +28,8 @@ twitter_username: BMVCconf
 github_username:  BritishMachineVisionAssociation
 #facebook_username: thebmva
 #youtube_channel: channel/UCBDkH5yK4GyVoRkV8lYdwdw1
+
+deadline-time: "23:59 GMT"
 
 cmt-url: "https://cmt3.research.microsoft.com/BMVC2021/"
 bmva-event-url: "https://britishmachinevisionassociation.github.io/meetings/21-09-06-september-event"

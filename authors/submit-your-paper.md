@@ -17,6 +17,12 @@ permalink: /authors/submit-your-paper/
 
 <p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.cmt-url}}">Submit your Paper via CMT!</a></p>
 
+<div class="alert mt-3 alert-info" style="">
+
+{% include important_changes.html %}
+
+</div>
+
 <h3>Formatting your paper</h3>
 
 <p>A complete paper should be submitted in according to the formatting style (please see below under `typesetting'). The length should not exceed 9 pages excluding the references. Any appendices must precede the reference list.</p>

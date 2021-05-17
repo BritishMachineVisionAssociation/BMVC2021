@@ -5,8 +5,42 @@ permalink: /dates/
 ---
 
 <p align="center"><strong>
-            Please note all deadlines are at 23:59 PT.
-        </strong></p>
+    Please note all deadlines are at {{site.deadline-time}}.
+</strong></p>
+
+
+<div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
+<table class="table table-striped table-bordered" style="max-width: 750px;">
+  <tbody>
+    <tr><th scope="row">Deadline</th>
+        <th scope="row">Date (all deadlines {{site.deadline-time}})</th></tr>
+    {% for item in site.data.timeline.deadlines %}
+        <tr>
+            <td>{{item.title}}&nbsp;
+                {% for tag in item.tags %}
+                {% case tag.key %}
+                  {% when "authors" %}
+                     {% assign badge-color = "badge-success" %}
+                  {% when "reviewers" %}
+                     {% assign badge-color = "badge-primary" %}
+                  {% when "area chairs" %}
+                     {% assign badge-color = "badge-info" %}
+                  {% when "everyone" %}
+                     {% assign badge-color = "badge-dark" %}
+                  {% else %}
+                     {% assign badge-color = "badge-secondary" %}
+                {% endcase %}
+                  <span class="badge {{badge-color}} mt-2 mb-2" style="font-weight: normal;">{{ tag.key | downcase }}</span>
+                {% endfor %}
+            </td>
+            <td>{{item.date | date: '%A %e %b %Y'}}</td>
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+
+{% comment %}
 
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
 <table class="table table-striped table-bordered" style="max-width: 750px;">
@@ -20,7 +54,7 @@ permalink: /dates/
   </thead>-->
   <tbody>
     <tr><th scope="row">Deadline</th>
-        <th scope="row">Date (all deadlines 23:59 GMT)</th></tr>
+        <th scope="row">Date (all deadlines {{site.deadline-time}})</th></tr>
 
             <tr>
                 <td>Paper Abstracts</td>
@@ -74,3 +108,5 @@ permalink: /dates/
     <td>Deadline for payment of per paper event enabling fee</td>
     <td>Thursday 27th August 2020</td>
 </tr>-->
+
+{% endcomment %}

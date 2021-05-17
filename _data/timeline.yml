@@ -1,20 +1,89 @@
-# Events
+deadlines:
+  - title: Paper Abstracts
+    date: 2021-06-18
+    tags:
+      - key: authors
+  - title: Paper Submission
+    date: 2021-06-25
+    tags:
+      - key: authors
+  - title: Supplemental Material Submission
+    date: 2021-07-02
+    tags:
+      - key: authors
+  - title: Area Chair Bidding
+    date: 2021-07-02
+    tags:
+      - key: area chairs
+  - title: Reviewer Bidding
+    date: 2021-07-09
+    tags:
+      - key: reviewers
+  - title: Review Period Starts
+    date: 2021-07-12
+    tags:
+      - key: reviewers
+  - title: Reviews Submitted
+    date: 2021-08-04
+    tags:
+      - key: reviewers
+      - key: area chairs
+  - title: "Start of Rebuttal & Revision Period"
+    date: 2021-08-20
+    tags:
+      - key: authors
+  - title: "End of Rebuttal & Revision Period"
+    date: 2021-09-03
+    tags:
+      - key: reviewers
+      - key: authors
+  - title: Final Reviews Submitted
+    date: 2021-09-17
+    tags:
+      - key: reviewers
+      - key: area chairs
+  - title: Area Chair Decisions
+    date: 2021-10-01
+    tags:
+      - key: area chairs
+  - title: Author Notifications
+    date: 2021-10-15
+    tags:
+      - key: authors
+  - title: Camera Ready Submission
+    date: 2021-10-22
+    tags:
+      - key: authors
+  - title: Virtual Conference Video Submissions
+    date: 2021-10-29
+    tags:
+      - key: authors
+  - title: Virtual Conference Starts
+    date: 2021-11-22
+    tags:
+      - key: everyone
+  - title: Virutal Conference Ends
+    date: 2021-11-25
+    tags:
+      - key: everyone
 
-- type: Paper Abstract Deadline
-  title: 
-  date: 2021-06-08
 
-- type: Paper Submission Deadline
-  title: 
-  date: 2021-06-25
 
-- type: BMVC Virtual Conference Starts
-  title: 
-  date: 2021-11-22
+# - type: Paper Abstract Deadline
+#   title: 
+#   date: 2021-06-08
 
-- type: BMVC Virtual Conference Ends
-  title: 
-  date: 2021-11-25
+# - type: Paper Submission Deadline
+#   title: 
+#   date: 2021-06-25
+
+# - type: BMVC Virtual Conference Starts
+#   title: 
+#   date: 2021-11-22
+
+# - type: BMVC Virtual Conference Ends
+#   title: 
+#   date: 2021-11-25
 
 
 # - type: Virtual Conference Video Submission

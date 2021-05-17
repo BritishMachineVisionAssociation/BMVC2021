@@ -14,35 +14,25 @@ permalink: /authors/reviewing-guidelines/
 
 <h2>Reviewing Timeline</h2>
 
-<div class="row ml-4 mr-4 pl-4 pr-4 pt-2 pb-2">
-<table class="table table-striped table-bordered">
-    <tbody>
-            <tr><th scope="row">Deadline</th>
-        <th scope="row">Date (all deadlines 23:59 PT)</th></tr>
 
+<div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
+<table class="table table-striped table-bordered" style="max-width: 750px;">
+  <tbody>
+    <tr><th scope="row">Deadline</th>
+        <th scope="row">Date (all deadlines {{site.deadline-time}})</th></tr>
+    {% for item in site.data.timeline.deadlines %}
+      {% assign item_is_reviewer = item.tags | where_exp: "i", "i.key == 'reviewers'" %}
+      {% if item_is_reviewer.size > 0 %}
         <tr>
-            <td>Reviewing Begins</td>
-            <td>Monday 11th May 2020</td>
+            <td>{{item.title}}</td>
+            <td>{{item.date | date: '%A %e %b %Y'}}</td>
         </tr>
-        <tr>
-            <td>Reviews Submitted</td>
-            <td>Thursday 18th June 2020</td>
-        </tr>
-        <tr>
-            <td>Post-Rebuttal Discussions Begins</td>
-            <td>Monday 6th July 2020</td>
-        </tr>
-        <tr>
-            <td>Final Reviewer Decisions</td>
-            <td>Thursday 16th July 2020</td>
-        </tr>
-        <tr>
-            <td>Author Notification</td>
-            <td>Wednesday 29th July 2020</td>
-        </tr>
-    </tbody>
+        {% endif %}
+    {% endfor %}
+  </tbody>
 </table>
 </div>
+
 
 <hr class="wp-block-separator" />
 
