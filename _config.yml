@@ -13,6 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+
+# BMVC2021 colours:
+# #9E005D
+# 158, 0, 93
+# #7F004B
+# #5F003B
+# #DC0082
+
+
 timezone: Europe/London
 title: The 32nd British Machine Vision (Virtual) Conference 2021
 formatted-title: The 32<sup>nd</sup> British Machine Vision Conference

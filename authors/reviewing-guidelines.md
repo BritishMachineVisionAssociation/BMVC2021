@@ -175,7 +175,7 @@ permalink: /authors/reviewing-guidelines/
     </li>
 </ol>
 
-<p dir="ltr"><strong>3. Review papers and assign them a preliminary (pre-rebuttal) rating.</strong></p>
+<p dir="ltr"><strong>3. Review papers and assign them a preliminary (pre-rebuttal/revision) rating.</strong></p>
 
 <p dir="ltr">For a paper, under the review column, click "Edit Review" to get to the review form. You can hover the mouse over the “?” symbol next to each question for a more detailed explanation, in particular, for the interpretations of paper ratings in questions 4 and 10. Before you start writing your reviews, make sure you have read the Reviewer Guidelines above and the <a href="http://cvpr2020.thecvf.com/sites/default/files/2019-09/CVPRReviewerTutorial.pptx">CVPR 2020 Reviewer Tutorial</a>.</p>
 
@@ -185,11 +185,11 @@ permalink: /authors/reviewing-guidelines/
 
 <p dir="ltr"><strong>5. Participate in discussions with Area Chairs and other reviewers.</strong></p>
 
-<p dir="ltr">After the rebuttal period, reviewers will work with Area Chairs to clear up any confusions and attempt to reach consensus on papers. The CMT site has an electronic bulletin board feature that allows Area Chairs to contact reviewers anonymously. Once the Area Chair posts a note, reviewers will be notified and asked to log in to see the post and respond. The identities of the reviewers will be hidden from each other (but not from the Area Chair).</p>
+<p dir="ltr">After the rebuttal/revision period, reviewers will work with Area Chairs to clear up any confusions and attempt to reach consensus on papers. The CMT site has an electronic bulletin board feature that allows Area Chairs to contact reviewers anonymously. Once the Area Chair posts a note, reviewers will be notified and asked to log in to see the post and respond. The identities of the reviewers will be hidden from each other (but not from the Area Chair).</p>
 
-<p dir="ltr"><strong>6. Enter your final (post-rebuttal) recommendation.</strong></p>
+<p dir="ltr"><strong>6. Enter your final (post-rebuttal/revision) recommendation.</strong></p>
 
-<p dir="ltr">After the rebuttal period you will enter your final recommendation on CMT. This may differ from your preliminary rating, and should reflect your judgment taking into account all the other reviews, the authors' rebuttal, and the discussion about the paper (if any).</p>
+<p dir="ltr">After the rebuttal/revision period you will enter your final recommendation on CMT. This may differ from your preliminary rating, and should reflect your judgment taking into account all the other reviews, the authors' rebuttal/revision, and the discussion about the paper (if any).</p>
 
 <h4 dir="ltr" id="reviewer-faqs">Reviewer FAQs</h4>
 
@@ -226,9 +226,7 @@ A. Consistent with good academic practice, the authors should cite all sources t
 <p>Q. How should I treat the supplementary material?<br />
 A. The supplementary material is intended to provide details of derivations and results that do not fit within the paper format or space limit. Ideally, the paper should indicate when to refer to the supplementary material, and you need to consult the supplementary material only if you think it is helpful in understanding the paper and its contribution. According to the Author Guidelines, the supplementary material MAY NOT include results on additional datasets, results obtained with an improved version of the method (e.g., following additional parameter tuning or training), or an updated or corrected version of the submission PDF. If you find that the supplementary material violates these guidelines, please contact the Program Chairs.</p>
 
-<p>Q. Can I request additional experiments in the author rebuttal? How should I treat additional experiments reported by authors in the rebuttal?<br />
-A. In your review, you may request clarifications or additional illustrations in the rebuttal. Per a passed 2018 PAMI-TC motion, reviewers should not request substantial additional experiments for the rebuttal, or penalize for lack of additional experiments. "Substantial" refers to any experiment that involves running code, e.g., to create tables or figures with new results.&nbsp;Authors should not include new experimental results in the rebuttal, and reviewers should discount any such results when making their final recommendation. The rebuttal may include figures with illustrations or comparison tables of results reported in the submission/supplemental material or in other papers.</p>
-
-<p>&nbsp;</p>
+Q. Can I request additional experiments in the author rebuttal/revision? How should I treat additional experiments reported by authors in the rebuttal/revision?<br />
+A. In your review, you may request clarifications or additional illustrations in the rebuttal/revision. Reviewers may ask for new experiments if they feel that it is essential for the paper to be accepted **but** reviewers should take into account that authors only have 2 weeks for rebuttal/revision and should therefore not request more substantial experiments.
 
 
