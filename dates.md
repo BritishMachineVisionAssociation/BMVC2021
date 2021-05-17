@@ -20,53 +20,57 @@ permalink: /dates/
   </thead>-->
   <tbody>
     <tr><th scope="row">Deadline</th>
-        <th scope="row">Date (all deadlines 23:59 PT)</th></tr>
+        <th scope="row">Date (all deadlines 23:59 GMT)</th></tr>
 
             <tr>
                 <td>Paper Abstracts</td>
-                <td>Thursday 23rd April 2020</td>
+                <td>Friday 18th June 2021</td>
             </tr>
             <tr>
                 <td>Paper Submission</td>
-                <td>Thursday 30th April 2020</td>
+                <td>Friday 25th June 2021</td>
             </tr>
             <tr>
-                <td>Reviews Submitted</td>
-                <td>Thursday 18th June 2020</td>
-            </tr>
-            <tr>
-                <td>Reviews to Authors,<br>Start of Rebuttal Period</td>
-                <td>Friday 26th June 2020</td>
-            </tr>
-            <tr>
-                <td>Author Rebuttals Submitted</td>
-                <td>Thursday 2nd July 2020</td>
-            </tr>
-            <tr>
-                <td>Area Chair Decisions</td>
-                <td>Thursday 23rd July 2020</td>
-            </tr>
-            <tr>
-                <td>Author Notification</td>
-                <td>Wednesday 29th July 2020</td>
-            </tr>
-            <tr>
-                <td>Camera Ready Submission (PDF and Supplementary Material)</td>
-                <td>Thursday 13th August 2020</td>
-            </tr>
-            <tr>
-                <td>Virtual Conference Video Submissions</td>
-                <td>Thursday 20th August 2020</td>
-            </tr>
-            <tr>
-                <td>Deadline for payment of per paper event enabling fee</td>
-                <td>Thursday 27th August 2020</td>
+                <td>Paper Submission</td>
+                <td>Friday 25th June 2021</td>
             </tr>
             <tr>
                 <td><strong>Virtual Conference</strong></td>
-                <td><strong>Monday 7th &#8211; Thursday 10th September 2020</strong></td>
+                <td><strong>Monday 22nd &#8211; Thursday 25th November 2021</strong></td>
             </tr>
         </tbody>
     </table>
 </div>
 
+<!--<tr>
+    <td>Reviews Submitted</td>
+    <td>Thursday 18th June 2020</td>
+</tr>
+<tr>
+    <td>Reviews to Authors,<br>Start of Rebuttal Period</td>
+    <td>Friday 26th June 2020</td>
+</tr>
+<tr>
+    <td>Author Rebuttals Submitted</td>
+    <td>Thursday 2nd July 2020</td>
+</tr>
+<tr>
+    <td>Area Chair Decisions</td>
+    <td>Thursday 23rd July 2020</td>
+</tr>
+<tr>
+    <td>Author Notification</td>
+    <td>Wednesday 29th July 2020</td>
+</tr>
+<tr>
+    <td>Camera Ready Submission (PDF and Supplementary Material)</td>
+    <td>Thursday 13th August 2020</td>
+</tr>
+<tr>
+    <td>Virtual Conference Video Submissions</td>
+    <td>Thursday 20th August 2020</td>
+</tr>
+<tr>
+    <td>Deadline for payment of per paper event enabling fee</td>
+    <td>Thursday 27th August 2020</td>
+</tr>-->
