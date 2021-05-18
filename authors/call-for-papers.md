@@ -59,6 +59,7 @@ Topics include, but are not limited to:
 -  Vision applications and systems, vision for robotics and autonomous vehicles
 -  “Brave new ideas” (see below)
 
+{% comment %}
 ### Important changes for BMVC 2021
 
 1. There will be a two-stage review system, with an upgraded journal-style rebuttal and revision phase in-between.
@@ -68,6 +69,13 @@ Topics include, but are not limited to:
     - AC Recommendation: Each paper will be handled by two ACs, a primary and a secondary, who will facilitate paper discussion and jointly make the final recommendations.
 
 2. The “Brave new ideas” subject area has been introduced and should be selected as one of the two primary subject areas. Papers submitted under this subject area are expected to move away from incremental benchmark gains. Proposed ideas should be radically different from the current strand of research or propose a novel problem.
+{% endcomment %}
+
+<div class="alert mt-3 alert-info" style="">
+
+{% include important_changes.html %}
+
+</div>
 
 **Please Note:** Due the anticipated volume of papers for BMVC 2021 (based on recent year’s experience) there will be NO extension granted to the submission deadline. In keeping with conferences in the field (e.g. [NeurIPS](https://medium.com/@NeurIPSConf/getting-started-with-neurips-2020-e350f9b39c28), [CVPR](http://cvpr2021.thecvf.com/node/33#policies)) and to cope with the increasing number of submissions, we ask that all authors be prepared to review papers and make use of a compulsory abstract submission deadline a week before the paper submission deadline. The CMT submission site will ask authors to acknowledge this commitment and failure to engage with the reviewing process might be grounds for rejection.
 Any queries to the Programme Chairs should be sent to [{{site.pc-email}}](mailto:{{site.pc-email}})
