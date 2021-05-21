@@ -31,7 +31,7 @@ A complete paper should be submitted in according to the formatting style ([plea
 
 Papers submitted for review should be anonymous and instead include the paper ID as allocated by CMT upon registration of the paper. The addition of line numbers (automatic in the PDFLaTeX template) should be included, in order to facilitate the review process.
 
-**Page limit:** A complete paper should be submitted in according to the [formatting style]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting). The length of papers submitted for review should not exceed 9 pages excluding the references. <strong>All</strong> appendices must be counted within the 9 pages limit or supplied as supplementary material.
+**Page limit:** A complete paper should be submitted in according to the [formatting style]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting). **The length of papers submitted for stage one review should not exceed 9 pages excluding the references.** All appendices must be counted within the 9 pages limit or supplied as supplementary material. The revised paper for stage two review should not exceed 10 pages excluding the references (an additional page to accomodate revisions).
 
 ### Paper policies
 
