@@ -35,7 +35,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #url: "https://britishmachinevisionassociation.github.io" #"http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "/"
 #url: "http://bmvc2021.ndfcampbell.org"
-baseurl: "/"
+baseurl: ""
 url: "https://www.bmvc2021.com"
 logo: "/assets/images/layout/bmvc-logo.png"
 pc-email: "bmvc2021_pcs@googlegroups.com"
