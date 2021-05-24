@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "/"
 #url: "http://bmvc2021.ndfcampbell.org"
 baseurl: "/"
-url: "http://www.bmvc2021.com"
+url: "https://www.bmvc2021.com"
 logo: "/assets/images/layout/bmvc-logo.png"
 pc-email: "bmvc2021_pcs@googlegroups.com"
 twitter_username: BMVCconf
