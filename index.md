@@ -16,6 +16,9 @@ This year BMVC will be held virtually over four days on 22nd - 25th November 202
 	<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
 		<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link authors/call-for-papers.md %}">See the Call for Papers!</a></p>
 	</div>
+	<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+		<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link dates.md %}">See the whole timeline!</a></p>
+	</div>
 </div>
 
 ## Information for Authors
