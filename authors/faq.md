@@ -10,6 +10,13 @@ permalink: /authors/faq/
     <tbody>
 
         <tr>
+            <th scope="row">How will CVPR 2021 paper's be treated during the review process?</th>
+        </tr>
+        <tr>
+            <td>Due to the very short timescale between the release of CVPR papers and the submission deadline reviewers will be instructed to treat CVPR 2021 as unpublished works (e.g. the same guidelines as arXiv papers) during the review process and whilst authors may choose to acknoledge the existence of papers or to provide comparisons, reviewers should not place that expectation.</td>
+        </tr>
+
+        <tr>
             <th scope="row">Will the paper submission deadline or other main conference deadlines be extended because of COVID-19?</th>
         </tr>
         <tr>
