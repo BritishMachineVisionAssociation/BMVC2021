@@ -31,11 +31,18 @@ permalink: /authors/faq/
         </tr>
 
         <tr>
-            <th scope="row">How do I register domain conflicts?</th>
+            <th scope="row">Domain Conflicts: What should I register and how should I edit them?</th>
         </tr>
         <tr>
-            <td>When you log in to CMT for the first time, you will be asked to enter your conflict domain information. You will not be able to submit any paper without entering this information. We need to ensure conflict-free reviewing of all papers. At any time, you can update this information by clicking on your name in the upper-right and entering “Domain Conflicts” under {{site.short-title}}.<br/><br/>
-            It is the primary author's responsibility to ensure that all authors on their paper have registered their institutional conflicts into CMT. Each author should list domains of all institutions they have worked for, or have had very close collaboration with, within the last 3 years (example: mit.edu; ox.ac.uk; microsoft.com). DO NOT enter the domain of email providers such as gmail.com. This institutional conflict information will be used in conjunction with prior authorship conflict information to resolve assignments to both reviewers and area chairs. If a paper is found to have an undeclared or incorrect institutional conflict, the paper may be summarily rejected.</td>
+            <td>
+                <strong>Note:</strong> It is very important that you declare your conflict domains, both your current institution and those you have collaborated with, by the Paper Submission Deadline of Friday 25th June 2021.
+Conflict domains are crucial in ensuring review integrity, and therefore should be treated with the same rigour you would otherwise apply to your paper.
+BMVC operates a conflict checking policy, and <strong>any paper found to have an undeclared or incorrect institutional conflict will be summarily rejected</strong>.
+Please read the following instructions very carefully to complete your conflict domain information.<br/><br/>
+
+                When you log in to CMT for the first time, you will be asked to enter your conflict domain information. You will not be able to submit any paper without entering this information. We need to ensure conflict-free reviewing of all papers. At any time, you can update this information by clicking on your name in the upper-right and entering “Domain Conflicts” under {{site.short-title}}.<br/><br/>
+
+            It is the primary author's responsibility to ensure that all authors on their paper have registered their institutional conflicts into CMT. Each author should list their <strong>current institution domain</strong> and the <strong>domains of all institutions they have worked for, or have had very close collaboration with, within the last 3 years</strong> as a semi-colon separated list (example: mit.edu; ox.ac.uk; microsoft.com). <strong>DO NOT</strong> enter the domain of email providers such as gmail.com. <strong>Also note that all authors should be using their institutional domain email addresses and should not register on CMT using a generic email address such as a gmail address.</strong>. This institutional conflict information will be used in conjunction with prior authorship conflict information to resolve assignments to both reviewers and area chairs. If a paper is found to have an undeclared or incorrect institutional conflict, the paper will be summarily rejected.</td>
         </tr>
 
         <tr>
