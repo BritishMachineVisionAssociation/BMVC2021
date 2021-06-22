@@ -13,7 +13,7 @@ permalink: /authors/faq/
             <th scope="row">How will CVPR 2021 paper's be treated during the review process?</th>
         </tr>
         <tr>
-            <td>Due to the very short timescale between the release of CVPR papers and the submission deadline, reviewers will be instructed to treat CVPR 2021 papers as unpublished works (e.g. the same guidelines as arXiv papers) during the review process and whilst authors may choose to acknoledge the existence of papers or to provide comparisons, reviewers should not place that expectation.</td>
+            <td>Due to the very short timescale between the release of CVPR papers and the submission deadline, reviewers will be instructed to treat CVPR 2021 papers as unpublished works (e.g. the same guidelines as arXiv papers) during the review process and whilst authors may choose to acknowledge the existence of papers or to provide comparisons, reviewers should not place that expectation.</td>
         </tr>
 
         <tr>
