@@ -64,7 +64,7 @@ Topics include, but are not limited to:
 
 1. There will be a two-stage review system, with an upgraded journal-style rebuttal and revision phase in-between.
     - Stage One: Each paper will be reviewed by at least three reviewers. The primary AC will also provide a meta review, summarizing the points that need to be addressed during the revision phase. All these comments are released to the authors at the start of the revision period.
-    - Rebuttal+Revision Phase: The authors will have an extended 2-weeks period to produce a rebuttal (single page of A4), *and* a revised paper (with one additional page) that implements all the required changes to the paper, including new experimental results, where appropriate, asked in the review comments.
+    - Rebuttal+Revision Phase: The authors will have an extended 2-weeks period to produce a rebuttal (maximum 4000 characters), *and* a revised paper (with one additional page) that implements all the required changes to the paper, including new experimental results, where appropriate, asked for in the review comments.
     - Stage Two: The same reviewers will conduct a second-round review, based on the rebuttal and the revised paper, and provide a final recommendation to the ACs after discussing the paper among them.
     - AC Recommendation: Each paper will be handled by two ACs, a primary and a secondary, who will facilitate paper discussion and jointly make the final recommendations.
 
