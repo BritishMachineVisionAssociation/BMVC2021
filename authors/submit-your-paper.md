@@ -114,6 +114,8 @@ Our expectation is that the majority of authors should make themselves available
 <li>Appendices or technical reports containing extended proofs and mathematical derivations that are not essential to the understanding of the submitted paper</li>
 </ul>
 
+<p><strong>Supplementary material should be uploaded as a single ZIP file (up to 100MB) to the CMT website.</strong></p>
+
 The authors should refer to the contents of the supplementary material appropriately in the paper. Note that reviewers will be encouraged to look at it, but are not obligated to do so. Supplementary material is to be submitted by the [supplemental material deadline]({{site.baseurl}}{% link dates.md %}).
 
 
