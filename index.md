@@ -8,6 +8,13 @@ title: Home
 
 The British Machine Vision Conference (BMVC) is the British Machine Vision Association (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.
 
+## Programme
+
+This year's BMVC will be held virtually over four days with a keynote talks, oral presentation sessions and poster sessions on each day in the traditional single-track format. 
+We are delighted to announce that our four [keynote]({{site.baseurl}}{% link programme/keynotes.md %}) speakers will be Andrew Zisserman, Daphne Koller, Davide Scaramuzza and Katerina Fragkiadaki. 
+{%comment%}Please see the [schedule]({{site.baseurl}}{% link programme/schedule.md %}) for the detailed timetable for the different sessions.{%endcomment%}
+{%comment%}The details of the [accepted papers]({{site.baseurl}}{% link programme/accepted-papers.md %}) and their presentation times are now available.{%endcomment%}
+
 ## Call for Papers
 
 This year BMVC will be held virtually over four days on 22nd - 25th November 2021. We invite papers to be submitted for the conference and ask that potential authors read the [call for papers]({{site.baseurl}}{% link authors/call-for-papers.md %}) which deatails both the topics of interest for the conference as well as important details on the [**updated reviewing procedure**]({{site.baseurl}}{% link authors/call-for-papers.md %}#important-changes-for-bmvc-2021). 
