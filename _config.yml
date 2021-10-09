@@ -28,6 +28,7 @@ title: The 32nd British Machine Vision (Virtual) Conference 2021
 formatted-title: The 32<sup>nd</sup> British Machine Vision Conference
 brand: BMVC&thinsp;2021
 short-title: "BMVC 2021"
+conf_year: 2021
 email: bmvc2021_pcs@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the 32nd British Machine Vision Conference, 22nd - 25th November 2021.
@@ -86,7 +87,9 @@ exclude:
   - copy_to_aws.sh
   - old/
   - conference/
-  - programme/
+  - programme/accepted-papers.md
+  - programme/paper-awards.md
+  - programme/schedule.md
   - attending/
   - people/reviewer.md
   - people/area-chairs.md
