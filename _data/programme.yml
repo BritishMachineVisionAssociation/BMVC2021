@@ -5,7 +5,7 @@ keynotes:
     url: "http://rpg.ifi.uzh.ch/people_scaramuzza.html"
     bio: "Davide Scaramuzza is a Professor of Robotics and Perception at the University of Zurich, where he does research at the intersection of robotics, computer vision, and machine learning, aiming to enable autonomous, agile navigation of micro drones using both standard and neuromorphic event-based cameras. He pioneered autonomous, vision-based navigation of drones, which inspired the NASA Mars helicopter and has served as a consultant for the United Nations’ International Atomic Energy Agency’s Fukushima Action Plan on Nuclear Safety. For his research contributions, he won prestigious awards, such as a European Research Council (ERC) Consolidator Grant, the IEEE Robotics and Automation Society Early Career Award, an SNF-ERC Starting Grant, a Google Research Award, and several paper awards. In 2015, he co-founded Zurich-Eye, today Facebook Zurich, which developed the world leading virtual-reality headset, Oculus Quest. Many aspects of his research have been prominently featured in wider media, such as The New York Times, BBC News, Forbes, Discovery Channel."
     title: ""
-    job: Faculty at ETH Zürich
+    job: ETH Zürich
     abstract: ""
     slides-id: 
   - name: Prof. Andrew Zisserman
@@ -14,7 +14,7 @@ keynotes:
     url: "https://www.robots.ox.ac.uk/~az/"
     bio: "Andrew Zisserman, FRS, is the Professor of Computer Vision Engineering and the Royal Society Research Professor in the Department of Engineering Science at the University of Oxford, and the founder of the Visual Geometry Group (VGG). Since 2014, he is also affiliated with DeepMind. Prof. Zisserman is one of the principal architects of modern computer vision, and is known internationally for his pioneering work in multiple view geometry, visual recognition, and large scale retrieval in images and video. His papers have won many best paper awards at international conferences (such as CVPR, ICCV and BMVC), including the IEEE Marr prize three times. Prof. Zisserman received a Technical Emmy Award (with the company 2d3) for camera-tracking software in 2002. He also received test of time awards - Longuet-Higgins and Helmholtz prizes - on four occasions, the BMVA Distinguished Fellowship (2008), the IEEE PAMI Distinguished Researcher award (2013), Royal Society Milner Award (2017)."
     title: ""
-    job: Faculty at University of Oxford
+    job: University of Oxford
     abstract: ""
     slides-id: 
   - name: Prof. Daphne Koller
@@ -23,7 +23,7 @@ keynotes:
     url: "https://ai.stanford.edu/~koller/index.html"
     bio: "Daphne Koller is CEO and Founder of insitro, a machine-learning enabled drug discovery company. Daphne is also co-founder of Engageli, was the Rajeev Motwani Professor of Computer Science at Stanford University, where she served on the faculty for 18 years, the co-CEO and President of Coursera, and the Chief Computing Officer of Calico, an Alphabet company in the healthcare space. She is the author of over 200 refereed publications appearing in venues such as Science, Cell, and Nature Genetics. Daphne was recognized as one of TIME Magazine’s 100 most influential people in 2012. She received the MacArthur Foundation Fellowship in 2004 and the ACM Prize in Computing in 2008. She was inducted into the National Academy of Engineering in 2011 and elected a fellow of the American Association for Artificial Intelligence in 2004, the American Academy of Arts and Sciences in 2014, and the International Society of Computational Biology in 2017."
     title: ""
-    job: Insitro
+    job: insitro
     abstract: ""
     slides-id: 
   - name: Prof. Katerina Fragkiadaki
@@ -41,7 +41,7 @@ sense for agents that move around and interact with the world.  Her
 work has been awarded with a best Ph.D. thesis award,  an NSF CAREER
 award, AFOSR YIP award, a DARPA Young Investigator award, Google, TRI, Amazon and Sony faculty research awards."
     title: ""
-    job: Faculty at Carnegie Mellon University
+    job: Carnegie Mellon University
     abstract: ""
     slides-id: 
 
