@@ -125,11 +125,11 @@ The authors should refer to the contents of the supplementary material appropria
 
 <h3>Final camera ready copy (for accepted papers)</h3>
 
-<p>Camera-ready submission for accepted papers will be open via <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="{{site.cmt-url}}" target="_blank">CMT</a> ({{site.cmt-url}}). At least one registration of an author is required per accepted paper by this date. That is, for any two papers at least two registrations are required. Papers for which we have no registered authors will be removed from the conference. For each accepted paper authors should upload:</p>
+<p>Camera-ready submission for accepted papers will be open via <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="{{site.cmt-url}}" target="_blank">CMT</a> ({{site.cmt-url}}). All papers will require one author to pay a registration fee, which we hope to be < 100 GBP per paper. This will cover the costs of hosting and streaming the conference. This will also help keep a low general registration fee, maximising participation and also dissemination. Details will be emailed directly to authors of accepted papers.
+One registration is required per accepted paper; that is, for any two papers at least two registrations are required irrespective of shared authorship. Papers for which we have no registered authors will be removed from the conference. For each accepted paper authors should upload:</p>
 
 <ul>
 <li>Final camera-ready paper (in PDF format)</li>
-<li>Spotlight video (as an MP4 file) for spotlight posters only</li>
 <li>Optional supplementary materials (ZIP file up to 100MB)</li>
 </ul>
 

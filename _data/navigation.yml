@@ -3,6 +3,8 @@ pages:
     url: /
   - title: Dates
     url: /dates/
+  - title: Keynotes
+    url: /keynotes/
   - title: Programme
     url: /programme/
     dropdown: true
