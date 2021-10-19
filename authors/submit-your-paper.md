@@ -35,7 +35,7 @@ Papers submitted for review should be anonymous and instead include the paper ID
 
 ### Paper policies
 
-By submitting a manuscript to BMVC, the authors guarantee that it has not been previously published (or accepted for publication) in substantially similar form. Furthermore, no paper which contains significant overlap with the contributions of this paper either is under review at the moment of submission or will be submitted during the {{short-title}} review period to any of the following: another conference, a workshop, or a journal. The authors also attest that they did not submit substantially similar submissions to {{short-title}}. Violation of any of these conditions will lead to rejection.
+By submitting a manuscript to BMVC, the authors guarantee that it has not been previously published (or accepted for publication) in substantially similar form. Furthermore, no paper which contains significant overlap with the contributions of this paper either is under review at the moment of submission or will be submitted during the {{short-title}} review period to any of the following: another conference, a workshop, or a journal. The authors also attest that they did not submit substantially similar submissions to {{site.short-title}}. Violation of any of these conditions will lead to rejection.
 
 <h3>Dual submission</h3>
 
@@ -136,8 +136,9 @@ One registration is required per accepted paper; that is, for any two papers at 
 <p>The name of your submission file must be
 of the form XXXX.pdf where XXXX is the four-digit paper ID (zero-padded
 if necessary). For example, if your paper ID is 24, the filename must be
-0024.pdf.</p>
+0024.pdf. If you upload supplementary materials please name them as XXXX_supp.zip where XXXX is the four-digit paper ID (zero-padded
+if necessary).</p>
 
-<p>You are permitted one extra page in the camera ready copy to take into account the reviewer’s comments. This means the length of the camera ready copy should not exceed 10 pages excluding the references. <strong>All</strong> appendices must be counted within the 10 pages limit or supplied as supplementary material.</p>
+<p>You are permitted one extra page in the camera ready copy to take into account the reviewer’s comments. This means the length of the camera ready copy should not exceed 10 pages excluding the references and any acknowledgements. <strong>All</strong> appendices must be counted within the 10 pages limit or supplied as supplementary material.</p>
 
 
