@@ -9,12 +9,12 @@ permalink: /authors/faq/
 <table class="table table-striped table-bordered">
     <tbody>
 
-        <tr>
-            <th scope="row">How will CVPR 2021 paper's be treated during the review process?</th>
+        <!--<tr>
+            <th scope="row">How will CVPR 2021 papers be treated during the review process?</th>
         </tr>
         <tr>
             <td>Due to the very short timescale between the release of CVPR papers and the submission deadline, reviewers will be instructed to treat CVPR 2021 papers as unpublished works (e.g. the same guidelines as arXiv papers) during the review process and whilst authors may choose to acknowledge the existence of papers or to provide comparisons, reviewers should not place that expectation.</td>
-        </tr>
+        </tr>-->
 
         <tr>
             <th scope="row">Will the paper submission deadline or other main conference deadlines be extended because of COVID-19?</th>
@@ -35,7 +35,7 @@ permalink: /authors/faq/
         </tr>
         <tr>
             <td>
-                <strong>Note:</strong> It is very important that you declare your conflict domains, both your current institution and those you have collaborated with, by the Paper Submission Deadline of Friday 25th June 2021.
+                <strong>Note:</strong> It is very important that you declare your conflict domains, both your current institution and those you have collaborated with, by the Paper Submission Deadline.
 Conflict domains are crucial in ensuring review integrity, and therefore should be treated with the same rigour you would otherwise apply to your paper.
 BMVC operates a conflict checking policy, and <strong>any paper found to have an undeclared or incorrect institutional conflict will be summarily rejected</strong>.
 Please read the following instructions very carefully to complete your conflict domain information.<br/><br/>
