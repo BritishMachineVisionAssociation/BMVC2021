@@ -2,7 +2,7 @@
 layout: default_miniconf
 title: Instructions and Guides
 permalink: /attending/guides/
-index: 0
+index: 1
 ---
 
 <div class="row pt-2 no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
