@@ -38,6 +38,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 #url: "http://bmvc2021.ndfcampbell.org"
 baseurl: ""
 url: "https://www.bmvc2021.com"
+conf-url: "https://www.bmvc2021.com/"
+chat-url: "https://chat.bmvc2021-conference.com"
 logo: "/assets/images/layout/bmvc-logo.png"
 pc-email: "bmvc2021_pcs@googlegroups.com"
 twitter_username: BMVCconf
@@ -90,11 +92,12 @@ exclude:
   - programme/accepted-papers.md
   - programme/paper-awards.md
   - programme/schedule.md
-  - attending/
   - people/reviewer.md
   - people/area-chairs.md
   - old_index.md
   - authors/instructions-for-presenting-authors.md
+
+#  - attending/
 
 #main_sponsors:
 #  - name: IAPR

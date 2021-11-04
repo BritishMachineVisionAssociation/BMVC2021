@@ -5,8 +5,8 @@ pages:
     url: /dates/
   - title: Keynotes
     url: /keynotes/
-  - title: Programme
-    url: /programme/
+  - title: Attending
+    url: /attending/
     dropdown: true
   - title: Authors
     url: /authors/
@@ -18,6 +18,10 @@ pages:
     url: /sponsorship/
 
 oldpages:
+  - title: Programme
+    url: /programme/
+    dropdown: true
+    
   - title: Home
     url: /
   - title: Dates

@@ -8,6 +8,16 @@ title: Home
 
 The British Machine Vision Conference (BMVC) is the British Machine Vision Association (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.
 
+## Attending
+
+Registration for the online conference is now open and this year will be free to attend! Please make sure you register through our [online registration page]({{site.baseurl}}{% link attending/registration.md %}) to get access to the conference.
+
+<div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
+	<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+		<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link attending/registration.md %}">Register to attend for free now!</a></p>
+	</div>
+</div>
+
 ## Programme
 
 This year's BMVC will be held virtually over four days with a keynote talks, oral presentation sessions and poster sessions on each day in the traditional single-track format. 

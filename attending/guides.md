@@ -1,7 +1,7 @@
 ---
 layout: default_miniconf
 title: Instructions and Guides
-permalink: /conference/guides/
+permalink: /attending/guides/
 index: 0
 ---
 
@@ -11,19 +11,19 @@ index: 0
     </div>
 </div>
 
-Welcome to the BMVC 2020 Virtual Conference!   
+Welcome to the {{site.short-title}} Virtual Conference!   
 
-This pages provides an overview of how participants can engage with BMVC 2020. As you already know, this year we have gone fully virtual. In doing so, we have strived to make the conference accessible asynchronously, but also tried to keep the interactive parts that are such an important feature of physical meetings.   
+This pages provides an overview of how participants can engage with {{site.short-title}}. As you already know, this year we have gone fully virtual. In doing so, we have strived to make the conference accessible asynchronously, but also tried to keep the interactive parts that are such an important feature of physical meetings.   
 
 Each day we will have two poster sessions, two oral sessions, and one keynote. The keynotes and orals talks will be streamed from our conference website (pre-recorded talks with live Q&A). You will be able to write questions on the `#livestream` channel for the presenters that will be read out by the session chairs and answered live on the video stream. Each day the poster session will be repeated in the morning and in the afternoon (UK time). This is to accommodate participants joining from different time zones.   
 
 The feedback from past virtual conferences is that physical poster sessions are hard to replicate online. Instead of having poster presenters sit on an empty video call for two hours, we have decided to have shorter poster sessions that allow for both text and video interaction. We also strongly encourage authors to be present for both of their poster sessions each day, and also to engage with the other authors during this time. Please see the guide for poster presenters and the poster sessions in general [below](#rocket-chat-guide-for-poster-presenters).  
 
-While the paper presentations and conference live stream (i.e. oral and keynote Q&As) will be available without requiring login information. To engage with any of the interactive parts of BMVC 2020 (e.g. asking questions in the live sessions or engaging with poster presenters) you will need your registration to access this (see separate email for your RocketChat login information).   
+While the paper presentations and conference live stream (i.e. oral and keynote Q&As) will be available without requiring login information. To engage with any of the interactive parts of {{site.short-title}} (e.g. asking questions in the live sessions or engaging with poster presenters) you will need your registration to access this (see separate email for your RocketChat login information).   
 
-Please note that while BMVC 2020 is committed to providing an atmosphere that encourages the free expression and exchange of ideas, our aim is that all participants will enjoy a welcoming environment free from unlawful discrimination, harassment, and retaliation. Any violations should be reported to the conference chairs. You can find our full [code of conduct here]({{site.baseurl}}/attending/code-of-conduct/).
+Please note that while {{site.short-title}} is committed to providing an atmosphere that encourages the free expression and exchange of ideas, our aim is that all participants will enjoy a welcoming environment free from unlawful discrimination, harassment, and retaliation. Any violations should be reported to the conference chairs. You can find our full [code of conduct here]({{site.baseurl}}/attending/code-of-conduct/).
 
-The updated conference site [https://www.bmvc2020-conference.com/](https://www.bmvc2020-conference.com/) contains:
+The updated conference site [{{site.conf-url}}]({{site.conf-url}}) contains:
 
 - The [full schedule]({{site.baseurl}}/conference/schedule/) for each day.
 
@@ -36,7 +36,7 @@ The updated conference site [https://www.bmvc2020-conference.com/](https://www.b
 We have a great selection of papers and talks this year, and we look forward to seeing you online to discuss them! 
 
 Best regards,    
-BMVC 2020 Programme Chairs
+{{site.short-title}} Programme Chairs
 
 ### Rocket Chat Overview
 
@@ -50,7 +50,7 @@ Login to the rocket chat discussions using the Auth0 credentials provided in the
 	</div>
 </div>
 
-Rocket chat can be accessed via the embedded discussions on the paper pages, the discussion tab in the conference site or directly through the chat server in a browser or using the free rocket chat apps (e.g. for mobile devices) using the server address `https://chat.bmvc2020-conference.com`.
+Rocket chat can be accessed via the embedded discussions on the paper pages, the discussion tab in the conference site or directly through the chat server in a browser or using the free rocket chat apps (e.g. for mobile devices) using the server address `{{site.chat-url}}`.
 
 The embedded discussions on the poster pages and the livestream are linked to a single channel. The more general interface allows navigation between multiple channels that you have joined via the rocket chat interface:
 
