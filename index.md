@@ -22,12 +22,15 @@ Registration for the online conference is now open and this year will be free to
 
 This year's BMVC will be held virtually over four days with a keynote talks, oral presentation sessions and poster sessions on each day in the traditional single-track format. 
 We are delighted to announce that our four [keynote]({{site.baseurl}}{% link keynotes.md %}) speakers will be Andrew Zisserman, Daphne Koller, Davide Scaramuzza and Katerina Fragkiadaki. 
-{%comment%}Please see the [schedule]({{site.baseurl}}{% link programme/schedule.md %}) for the detailed timetable for the different sessions.{%endcomment%}
-{%comment%}The details of the [accepted papers]({{site.baseurl}}{% link programme/accepted-papers.md %}) and their presentation times are now available.{%endcomment%}
+Please see the [schedule]({{site.baseurl}}{% link programme/schedule.md %}) for the detailed timetable for the different sessions.
+The details of the [accepted papers]({{site.baseurl}}{% link programme/accepted-papers.md %}) and their presentation times are now available.
 
 <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
 	<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
 		<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link keynotes.md %}">See the Keynote Speakers!</a></p>
+	</div>
+	<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+		<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link programme/schedule.md %}">See the Conference Programme!</a></p>
 	</div>
 </div>
 

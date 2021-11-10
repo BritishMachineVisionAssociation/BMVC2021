@@ -2,7 +2,7 @@
 
 
 schedule:
-  - day: Monday 7th September
+  - day: Monday 22nd November
     contents:
       - session: Poster Session 1 (Morning)
         start-time: "10:00"
@@ -11,32 +11,32 @@ schedule:
         session-id: 2
         poster-session-id: 1
         conference-session: "P1S1"
-      - session: Oral Session 1
-        title: "Looking at People"
+      - session: Keynote Talk 1
         start-time: "11:00"
         end-time: "12:00"
+        data: "[DATA]"
+        keynote-id: keynote-1
+      - session: Oral Session 1
+        title: "Multimodal Learning"
+        start-time: "13:00"
+        end-time: "14:00"
         data: "[DATA]"
         session-id: 0
         conference-session: "O1"
       - session: Oral Session 2
-        title: "Cross Modality and Weak Supervision"
-        start-time: "13:00"
-        end-time: "14:00"
-        data: "[DATA]"
-        session-id: 1
-        conference-session: "O2"
-      - session: Keynote Talk 1
+        title: "3D"
         start-time: "14:30"
         end-time: "15:30"
         data: "[DATA]"
-        keynote-id: keynote-1
+        session-id: 1
+        conference-session: "O2"
       - session: Poster Session 1 (Afternoon)
         start-time: "16:00"
         end-time: "17:00"
         data: "[DATA]"
         session-id: 2
         conference-session: "P1S2"
-  - day: Tuesday 8th September
+  - day: Tuesday 23rd November
     contents:
       - session: Poster Session 2 (Morning)
         start-time: "10:00"
@@ -46,31 +46,31 @@ schedule:
         poster-session-id: 2
         conference-session: "P2S1"
       - session: Oral Session 3
-        title: "Segmentation"
+        title: "Action Recognition"
         start-time: "11:00"
         end-time: "12:00"
         data: "[DATA]"
         session-id: 3
         conference-session: "O3"
       - session: Oral Session 4
-        title: "Shape-from-X / 3D Reconstruction"
+        title: "Recognition"
         start-time: "13:00"
         end-time: "14:00"
         data: "[DATA]"
         session-id: 4
         conference-session: "O4"
-      - session: Keynote Talk 2
+      - session: Poster Session 2 (Afternoon)
         start-time: "14:30"
         end-time: "15:30"
         data: "[DATA]"
-        keynote-id: keynote-2
-      - session: Poster Session 2 (Afternoon)
+        session-id: 5
+        conference-session: "P2S2"
+      - session: Keynote Talk 2
         start-time: "16:00"
         end-time: "17:00"
         data: "[DATA]"
-        session-id: 5
-        conference-session: "P2S2"
-  - day: Wednesday 9th September
+        keynote-id: keynote-2
+  - day: Wednesday 24th November
     contents:
       - session: Poster Session 3 (Morning)
         start-time: "10:00"
@@ -80,7 +80,7 @@ schedule:
         poster-session-id: 3
         conference-session: "P3S1"
       - session: Oral Session 5
-        title: "Computational Photography"
+        title: "Synthesis / Analysis"
         start-time: "11:00"
         end-time: "12:00"
         data: "[DATA]"
@@ -93,7 +93,7 @@ schedule:
         data: "[DATA]"
         local-url: "/conference/town-hall/"
       - session: Oral Session 6
-        title: "Zero/Few Shot Learning"
+        title: "Recognition"
         start-time: "13:00"
         end-time: "14:00"
         data: "[DATA]"
@@ -110,7 +110,7 @@ schedule:
         data: "[DATA]"
         session-id: 8
         conference-session: "P3S2"
-  - day: Thursday 10th September
+  - day: Thursday 25th November
     contents:
       - session: Poster Session 4 (Morning)
         start-time: "10:00"
@@ -120,14 +120,14 @@ schedule:
         poster-session-id: 4
         conference-session: "P4S1"
       - session: Oral Session 7
-        title: "Synthesis and Visualisation"
+        title: "Image Enhancement"
         start-time: "11:00"
         end-time: "12:00"
         data: "[DATA]"
         session-id: 9
         conference-session: "O7"
       - session: Oral Session 8
-        title: "Video"
+        title: "Representation Learning"
         start-time: "13:00"
         end-time: "14:00"
         data: "[DATA]"
@@ -144,18 +144,20 @@ schedule:
         data: "[DATA]"
         session-id: 11
         conference-session: "P4S2"
-      - session: "Chat with Snap Research"
-        title: "Hear more about what our World AR team in London is working on"
-        start-time: "16:00"
-        end-time: "17:00"
-        data: "[DATA]"
-        local-url: "/conference/snap-inc/#careers-and-collaboration"
-      - session: "Computer Vision at AWS"
-        title: "A conversation with Research Leaders Rahul Bhotika, Joe Tighe and Avinash Ravichandran"
-        start-time: "18:00"
-        end-time: "19:00"
-        data: "[DATA]"
-        local-url: "/conference/amazon/#chat-with-amazon"
+
+
+      # - session: "Chat with Snap Research"
+      #   title: "Hear more about what our World AR team in London is working on"
+      #   start-time: "16:00"
+      #   end-time: "17:00"
+      #   data: "[DATA]"
+      #   local-url: "/conference/snap-inc/#careers-and-collaboration"
+      # - session: "Computer Vision at AWS"
+      #   title: "A conversation with Research Leaders Rahul Bhotika, Joe Tighe and Avinash Ravichandran"
+      #   start-time: "18:00"
+      #   end-time: "19:00"
+      #   data: "[DATA]"
+      #   local-url: "/conference/amazon/#chat-with-amazon"
 
 
 # - type: Camera Ready Paper Submission

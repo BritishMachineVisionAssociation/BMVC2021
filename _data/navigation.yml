@@ -8,6 +8,9 @@ pages:
   - title: Attending
     url: /attending/
     dropdown: true
+  - title: Programme
+    url: /programme/
+    dropdown: true
   - title: Authors
     url: /authors/
     dropdown: true
@@ -18,9 +21,7 @@ pages:
     url: /sponsorship/
 
 oldpages:
-  - title: Programme
-    url: /programme/
-    dropdown: true
+
     
   - title: Home
     url: /

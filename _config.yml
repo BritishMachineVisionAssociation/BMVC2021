@@ -89,9 +89,7 @@ exclude:
   - copy_to_aws.sh
   - old/
   - conference/
-  - programme/accepted-papers.md
   - programme/paper-awards.md
-  - programme/schedule.md
   - people/reviewer.md
   - people/area-chairs.md
   - old_index.md

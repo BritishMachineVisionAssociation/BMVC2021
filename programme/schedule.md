@@ -5,11 +5,13 @@ permalink: /programme/schedule/
 index: 0
 ---
 
+<!-- TODO: ADD BACK IN FOR CONFERENCE!
 <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p><a class="btn btn-warning" role="button" href="{{site.baseurl}}/conference/schedule/"><b>Go to the Virtual Conference!</b></a></p>
     </div>
 </div>
+-->
 
 <p>Details of the conference timetable over the four days are provided below. <strong>Please note that papers for poster presentation are allocated a specific day and will be presented during both morning and afternoon sessions along with the oral papers for the sessions on the same day.</strong></p>
 
@@ -25,8 +27,8 @@ index: 0
 		        <th scope="col">CST Time<br>(UTC + 8)</th>
 		    </tr>-->
 		    <tr><th scope="col">{{ day.day }}</th>
-		        <th scope="col" style="text-align: center;">UK BST<br>(UTC + 1)</th>
-		        <th scope="col" style="text-align: center;">Eastern DT<br>(UTC - 4)</th>
+		        <th scope="col" style="text-align: center;">UK GMT<br>(UTC)</th>
+		        <th scope="col" style="text-align: center;">Eastern ST<br>(UTC - 5)</th>
 		        <th scope="col" style="text-align: center;">China ST<br>(UTC + 8)</th>
 		    </tr>
 	    </thead>
@@ -39,7 +41,7 @@ index: 0
                 	{% if session.poster-session-id %}<a class="anchor" id="poster-session-id-{{session.poster-session-id}}"></a>{% endif %}
                 	{% if session.keynote-id %}
                 		{% assign keynote-details = site.data.programme.keynotes | where: "id", session.keynote-id | first %}
-                		<a href="{{site.baseurl}}/programme/keynotes/#{{session.keynote-id}}">Keynote: {{ keynote-details.name }}</a><br><strong>{{keynote-details.title}}</strong>
+                		<a href="{{site.baseurl}}/keynotes/#{{session.keynote-id}}">Keynote: {{ keynote-details.name }}</a><br><strong>{{keynote-details.title}}</strong>
                 	{% else %}
                         {% if session.session-id %}<a href="{{site.baseurl}}/programme/accepted-papers/#session-id-{{session.session-id}}">{% endif %}{{-session.session-}}{% if session.session-id %}</a>{% endif %}
                         {% if session.title %}
@@ -55,8 +57,8 @@ index: 0
                 	{{ session.start-time | plus: -5 | append: ":" | append: start-mins | date: "%H:%M" }} - 
                     {{ session.end-time   | plus: -5 | append: ":" | append: end-mins | date: "%H:%M" }}</td>
                 <td style="text-align: center;">
-                	{{ session.start-time | plus: 7 | append: ":" | append: start-mins | date: "%H:%M" }} - 
-                    {{ session.end-time   | plus: 7 | modulo: 24 | append: ":" | append: end-mins | date: "%H:%M" }}</td>
+                	{{ session.start-time | plus: 8 | append: ":" | append: start-mins | date: "%H:%M" }} - 
+                    {{ session.end-time   | plus: 8 | modulo: 24 | append: ":" | append: end-mins | date: "%H:%M" }}</td>
             </tr>
             {% endfor %}
         </tbody>
