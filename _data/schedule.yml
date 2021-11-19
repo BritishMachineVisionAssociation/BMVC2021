@@ -11,9 +11,13 @@ schedule:
         session-id: 2
         poster-session-id: 1
         conference-session: "P1S1"
-      - session: Keynote Talk 1
+      - session: Conference Welcome
         start-time: "11:00"
-        end-time: "12:00"
+        end-time: "11:05"
+        data: "[DATA]"
+      - session: Keynote Talk 1
+        start-time: "11:05"
+        end-time: "12:05"
         data: "[DATA]"
         keynote-id: keynote-1
       - session: Oral Session 1

@@ -32,7 +32,9 @@ index: 10
 	    <div class="col-12 col-md-8 col-lg-9">
 	        <div class="">
 	            <h4 class="pt-1 text-center">{{ person.title }}</h4>
-	            <!--<p class="text-center mb-1"><small >({{keynote_day | strip}}: {{details.start-time}} - {{details.end-time}} BST)</small></p>-->
+	            <p class="text-center mb-1"><small >({{keynote_day | strip}}: {{details.start-time}} - {{details.end-time}} BST)</small></p>
+	            <p class="pb-1 mb-1">{{ person.abstract }}</p>
+	            <p class="pb-1 text-center">~</p>
 	            <p class="pb-2">{{ person.bio }}</p>
 	        </div>
 	    </div>
